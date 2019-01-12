@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1483976880 source:d:\mega sena\programas\checardistribuicaomaismenos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1485403538 source:f:\mega sena\programas\checardistribuicaomaismenos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include_jogos/jogos.h"
+
+1484516426 f:\mega sena\programas\checardistribuicaomaismenos\jogos.h
+
+1485397160 f:\mega sena\programas\include_jogos\jogos.h
+
+1485403538 source:c:\users\marlon\desktop\projeto mega sena\programas\checardistribuicaomaismenos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include_jogos/jogos.h"
+
+1545419286 c:\users\marlon\desktop\projeto mega sena\programas\include_jogos\jogos.h
+

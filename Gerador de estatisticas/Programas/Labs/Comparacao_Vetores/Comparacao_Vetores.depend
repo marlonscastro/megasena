@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1483018796 source:f:\mega sena\programas\comparacao_vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1483018796 source:f:\mega sena\programas\labs\comparacao_vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+

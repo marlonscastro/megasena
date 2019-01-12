@@ -1,0 +1,17 @@
+processando jogo 0478 | 03 - 08 - 21 - 25 - 30 - 31 -> Acertou: (2 dezenas) 
+processando jogo 0526 | 03 - 21 - 31 - 36 - 55 - 59 -> Acertou: (2 dezenas) 
+processando jogo 0808 | 02 - 15 - 21 - 31 - 46 - 57 -> Acertou: (2 dezenas) 
+processando jogo 1022 | 05 - 21 - 31 - 39 - 40 - 56 -> Acertou: (2 dezenas) 
+processando jogo 1189 | 14 - 21 - 27 - 31 - 35 - 50 -> Acertou: (2 dezenas) 
+processando jogo 1284 | 20 - 21 - 26 - 29 - 31 - 36 -> Acertou: (2 dezenas) 
+processando jogo 1356 | 06 - 13 - 21 - 22 - 31 - 46 -> Acertou: (2 dezenas) 
+processando jogo 1374 | 06 - 21 - 28 - 31 - 33 - 43 -> Acertou: (2 dezenas) 
+processando jogo 1605 | 09 - 19 - 21 - 30 - 31 - 42 -> Acertou: (2 dezenas) 
+processando jogo 1645 | 08 - 18 - 21 - 31 - 37 - 38 -> Acertou: (2 dezenas) 
+processando jogo 1671 | 21 - 27 - 31 - 45 - 55 - 56 -> Acertou: (2 dezenas) 
+processando jogo 1763 | 09 - 12 - 15 - 21 - 31 - 36 -> Acertou: (2 dezenas) 
+processando jogo 1894 | 21 - 31 - 35 - 53 - 54 - 57 -> Acertou: (2 dezenas) 
+------------------------------------------------------------------------
+Senas: 0, Quinas: 0, Quadras: 0, Ternos: 0, Duques: 13, Uma dezena: 326
+------------------------------------------------------------------------
+

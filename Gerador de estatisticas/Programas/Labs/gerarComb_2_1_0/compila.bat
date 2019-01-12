@@ -1,0 +1,1 @@
+gcc main.c -o prg.exe && prg.exe && notepad JogosGerados.txt

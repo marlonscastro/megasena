@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1483316872 source:c:\users\userpc\desktop\mega sena\programas\ponteiros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1484352038 source:f:\mega sena\programas\labs\ponteiros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1485266708 source:d:\mega sena\programas\labs\gerarcombinacoes\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1485631774 source:f:\mega sena\programas\labs\gerarcombinacoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1485631774 source:c:\users\usuario\desktop\projeto mega sena\programas\labs\gerarcombinacoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

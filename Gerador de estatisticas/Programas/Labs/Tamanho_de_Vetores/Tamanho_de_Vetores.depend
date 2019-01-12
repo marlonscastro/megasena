@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1483151923 source:c:\users\userpc\desktop\mega sena\programas\tamanho_de_vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1483973572 source:d:\mega sena\programas\labs\tamanho_de_vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1485055844 source:f:\mega sena\programas\labs\tamanho_de_vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

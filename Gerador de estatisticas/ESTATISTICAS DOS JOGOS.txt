@@ -1,0 +1,162 @@
+(+)         05  53  51  04  23   -   54  42  10  17  41   -   33  24  13  28  30  
+
+  ~~~~      50  32  02  49  16   -   52  29  27  34  37   -   43  44  47  56  01 
+  ~~~~      36  31  06  18  08   -   12  59  58  38  45   -   07  03  35  11  60  
+
+(-)         46  20  40  19  57   -   48  14  15  25  39   -   09  55  21  22  26  
+
+------------------- Ocorrencias em cada grupo de 5 numeros acima --------------------
+1          ->  499   26,3%
+2          ->  1274  67,2%
+3 e outros ->  123   6,5%
+
+   0 0 6 = 0
+   0 1 5 = 1
+   5 0 1 = 1
+   2 0 4 = 1
+   6 0 0 = 1
+   1 0 5 = 2
+   4 0 2 = 5
+   5 1 0 = 5
+   3 0 3 = 6
+   1 1 4 = 10
+   4 1 1 = 26
+   0 2 4 = 19
+   4 2 0 = 29
+   0 6 0 = 27
+   2 1 3 = 34      7 (2-3-2-QUINA)
+   3 1 2 = 38      7 (2-3-2-QUINA)                     
+   0 3 3 = 36      7 (2-3-2-QUINA)   8 (2-4-2-QUINA)
+   3 3 0 = 89      7 (2-3-2-QUINA)   8 (2-4-2-QUINA)
+   0 5 1 = 70      7 (1-4-1-QUINA)   8 (2-4-2-QUINA)
+   1 2 3 = 92   *  7 (2-3-2-QUINA)   8 (2-4-2-QUINA)
+   0 4 2 = 96   *  7 (2-3-2-QUINA)   8 (2-4-2-SENA)
+   1 5 0 = 101  *  7 (1-4-1-QUINA)   8 (2-4-2-QUINA)   |
+   3 2 1 = 123  *  7 (2-3-2-QUINA)   8 (2-4-2-QUINA)   ||
+   2 4 0 = 131  *  7 (1-4-1-QUINA)   8 (2-4-2-SENA)    |||
+   2 2 2 = 196  *  7 (2-3-2-SENA)    8 (2-4-2-SENA)    |||> 70%
+   1 4 1 = 213  *  7 (1-4-2-SENA)    8 (2-4-2-SENA)    |||
+   1 3 2 = 218  *  7 (2-3-2-SENA)    8 (2-4-2-SENA)    ||
+   2 3 1 = 263  *  7 (2-3-2-SENA)    8 (2-4-2-SENA)    |
+ 
+-------------------------------------------------------------------
+7    (2-3-2)    35,7% SENA    77% QUINA
+7    (1-4-2)    22%     dos jogos
+7    (2-4-1)    63%     
+------------ Total 68,8% ------------------------------------------
+
+8    (2-4-2)    70%     dos jogos
+8    (3-2-3)
+-------------------------------------------------------------------
+
+
+--------------------------- Paridade ------------------------------
+
+30% - 3 Pares e 3 Impares
+24% - 4 pares e 2 impares 
+24% - 2 pares e 4 impares 
+10% - 1 par e 5 impares 
+10% - Outros 
+
+Observacoes 
+
+34,2% - meio a meio usando 30 como divisor 
+25%   - 4 acima de 30 e 2 ate 30
+22,9% - 2 acima de 30 e 4 ate 30
+7,8%  - 5 acima e 1 ate 30
+10,1% - outros
+
+----------------- Mesma Coluna no Cartao --------------------------
+
+341 (38%) apenas 1 na coluna 
+949 (50,2%) 2 na coluna
+145 (7,7%) 3 na mesma coluna
+7 (0,37%) 4 na mesma coluna
+
+
+----------------- Mesma Dezena ------------------------------------
+ Gerado em arquivos 
+
+-------------- Repeticao de dezenas de (UM) jogo IMEDIATAMENTE anterior -----------
+Repetir 
+6 Dezenas  0 Vez (0%)
+5 Dezenas  1 Vez (0,05%)
+4 Dezenas  1 Vez (0,05%)
+3 Dezenas  17 Vezes (0,9%)
+2 Dezenas  149 Vezes (7,9%)
+1 Dezena   735 Vezes (38,9%)
+0 Dezena   986 Vezes (52,2%)
+
+-------------- Repeticao de dezenas de (DOIS) jogos IMEDIATAMENTE anteriores ------
+
+Repetir 
+6 Dezenas  0                      Individuais
+5 Dezenas  4      (0,2%)      :
+4 Dezenas  25     (1,3%)      :
+3 Dezenas  144    (7,6%)      : 16
+2 Dezenas  448    (23,7%)     : 177
+1 Dezena   759    (40,13%)    : 709  (37%)
+0 Dezena   511    (27%)       : 989  (52,2%)
+
+-------------- Repeticao de dezenas de (TRES) jogos IMEDIATAMENTE anteriores ------
+
+Repetir 
+6 Dezenas  4      (0,2%)      
+5 Dezenas  29     (1,53%)
+4 Dezenas  129    (6,8%)
+3 Dezenas  294    (15,5%)     : 19
+2 Dezenas  582    (30,8%)     : 176
+1 Dezena   601    (31,8%)     : 717
+0 Dezena   252    (13,3%)     : 980
+
+-------------- Repeticao de dezenas de (QUATRO) jogos IMEDIATAMENTE anteriores ------
+
+4 - 12,5%                     : 0
+3 - 24,3%                     : 26
+2 - 27,8%                     : 175
+1 - 21,5%                     : 700
+0 -  7,5%                     : 991
+
+------------------------- Estatistica - Mais, COMUNS, Menos -----------------------------
+
+------------------------ QUANTITATIVO TOTAL DE SAIDA DAS FAIXAS DAS DEZENAS 
+
+---------------------------------------------------------------------------------------
+
+------------------------ QUADRANTRES - ESTATISTICAS -------------------------------------
+
+1) não jogar os numeros do jogo anterior
+2) dividir a aposta em 3 impares e 3 pares 
+3) tecnica do 30 Divisor
+4) no maximo 2 numeros na mesma coluna
+5) Tabela de Taufic darhal
+
+----------------------------------------------------------------------------------------
+Jogos comecando nos 20
+
+73,2% --- acontece pelo menos uma das unidades 
+26,8% --- não ocorre
+----------------------------------------------------------------------------------------
+3 dezenas na casa dos 20 
+repete um ou duas na casa dos 20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

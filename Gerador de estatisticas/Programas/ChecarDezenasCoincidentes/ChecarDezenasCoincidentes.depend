@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1485743634 source:f:\mega sena\programas\checardezenascoincidentes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include_jogos/jogos.h"
+
+1483930287 source:d:\mega sena\programas\checardezenascoincidentes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1485656372 f:\mega sena\programas\include_jogos\jogos.h
+

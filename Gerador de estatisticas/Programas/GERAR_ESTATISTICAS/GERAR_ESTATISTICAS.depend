@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1485403336 source:d:\mega sena\programas\gerar_estatisticas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include_jogos/jogos.h"
+
+1485397160 d:\mega sena\programas\include_jogos\jogos.h
+
+1485785896 source:f:\mega sena\programas\gerar_estatisticas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include_jogos/jogos.h"
+
+1485656372 f:\mega sena\programas\include_jogos\jogos.h
+
+1545413996 source:c:\users\usuario\desktop\projeto mega sena\programas\gerar_estatisticas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include_jogos/ultimosjogos.h"
+
+1545154874 c:\users\usuario\desktop\projeto mega sena\programas\include_jogos\jogos.h
+
+1545414059 c:\users\usuario\desktop\projeto mega sena\programas\include_jogos\ultimosjogos.h
+

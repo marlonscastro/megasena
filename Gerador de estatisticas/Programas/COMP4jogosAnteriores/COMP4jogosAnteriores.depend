@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483842953 source:d:\mega sena\programas\comp4jogosanteriores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

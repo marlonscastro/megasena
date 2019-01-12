@@ -1,0 +1,20 @@
+processando jogo 0124 | 05 - 15 - 34 - 41 - 52 - 57 -> Acertou: (2 dezenas) 
+processando jogo 0152 | 05 - 12 - 15 - 29 - 51 - 58 -> Acertou: (2 dezenas) 
+processando jogo 0178 | 05 - 15 - 19 - 26 - 27 - 33 -> Acertou: (2 dezenas) 
+processando jogo 0197 | 05 - 12 - 15 - 19 - 29 - 52 -> Acertou: (2 dezenas) 
+processando jogo 0394 | 05 - 15 - 35 - 42 - 45 - 49 -> Acertou: (2 dezenas) 
+processando jogo 0508 | 05 - 10 - 15 - 45 - 46 - 56 -> Acertou: (2 dezenas) 
+processando jogo 0518 | 05 - 08 - 10 - 15 - 18 - 44 -> Acertou: (2 dezenas) 
+processando jogo 0686 | 04 - 05 - 15 - 26 - 33 - 54 -> Acertou: (2 dezenas) 
+processando jogo 0809 | 05 - 11 - 15 - 23 - 25 - 30 -> Acertou: (2 dezenas) 
+processando jogo 1217 | 05 - 11 - 15 - 28 - 43 - 50 -> Acertou: (2 dezenas) 
+processando jogo 1220 | 05 - 15 - 43 - 48 - 52 - 55 -> Acertou: (2 dezenas) 
+processando jogo 1269 | 04 - 05 - 15 - 17 - 27 - 51 -> Acertou: (2 dezenas) 
+processando jogo 1295 | 02 - 05 - 15 - 20 - 43 - 57 -> Acertou: (2 dezenas) 
+processando jogo 1519 | 05 - 06 - 15 - 23 - 56 - 59 -> Acertou: (2 dezenas) 
+processando jogo 1569 | 05 - 15 - 18 - 31 - 42 - 53 -> Acertou: (2 dezenas) 
+processando jogo 1693 | 05 - 15 - 18 - 19 - 21 - 38 -> Acertou: (2 dezenas) 
+------------------------------------------------------------------------
+Senas: 0, Quinas: 0, Quadras: 0, Ternos: 0, Duques: 16, Uma dezena: 359
+------------------------------------------------------------------------
+

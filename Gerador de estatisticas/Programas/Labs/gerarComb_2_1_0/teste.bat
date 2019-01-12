@@ -1,0 +1,1 @@
+gcc main8.c -o prg.exe && prg.exe

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1485901778 source:f:\mega sena\programas\gerartabelapesosdezenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include_jogos/jogos.h"
+	<time.h>
+
+1485895496 f:\mega sena\programas\include_jogos\jogos.h
+

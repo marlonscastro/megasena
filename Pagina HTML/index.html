@@ -1,0 +1,147 @@
+<html ng-app="appMega">
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Mega sena - Bolão 16º BPM.</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<script src="js/angular/1.7.5/angular.min.js"></script>
+
+	<style type="text/css">
+		body  {
+			padding-top: 15px;
+			padding-bottom: 15px;
+		}
+		.card-header {
+			padding-bottom: 1px;
+			padding-top: 6px;
+		}
+		input {
+			width: 10px;
+		}
+		.form-control-inline {
+		    min-width: 0;
+		    width: 45px;
+		    display: inline;
+		}	
+		td {
+			width: 50px;
+		}	
+		.alert {
+			margin-top: 10px;
+			margin-left: 15px;
+			margin-bottom: 0px;
+		}
+		.card-body {
+			padding-left: 8px; 
+		}
+	</style>
+	<script type="text/javascript">
+		var app = angular.module('appMega', []);
+
+		app.controller('crtl', function($scope){
+			$scope.user = {name: "Bucho de Coelho"};
+			$scope.jogos = new Array(
+									new Array(14,16,19,28,32,33,35,41,43),
+									new Array(2,6,11,20,21,27,48,49,54),
+									new Array(2,9,10,13,41,46,47,52,60),
+									new Array(5,8,11,14,22,24,37,46,59),
+									new Array(10,18,23,25,29,31,36,38),	
+									new Array(1,22,30,35,47,52,53,56),
+									new Array(1,3,6,20,24,32,33,59),
+									new Array(2,5,7,13,29,32,40,54),
+									new Array(11,13,24,31,38,42,47,55),
+									new Array(5,11,24,26,32,38,41,59),
+									new Array(3,5,20,24,32,47,53,59),
+									new Array(6,13,17,29,37,38,40,55),
+									new Array(3,5,13,17,30,36,45,58),
+									new Array(6,13,19,24,32,35,41,54),
+									new Array(2,10,21,31,33,38,45,59),
+									new Array(1,7,20,29,32,42,46,53),
+									new Array(1,11,14,20,28,36,37,43),
+									new Array(6,15,23,29,38,42,47,58),
+									new Array(17,25,30,32,36,41,52,59),
+									new Array(1,24,29,30,41,45,48,52),
+									new Array(2,11,13,23,42,46,57,58),
+									new Array(5,13,14,29,37,40,45,56),
+									new Array(2,22,27,31,38,46,53,59),
+									new Array(2,6,13,23,28,31,46,55),
+									new Array(10,13,21,29,35,38,42,46),
+									new Array(1,18,26,35,43,52,53),
+									new Array(11,17,26,29,45,52,59),
+									new Array(1,9,16,18,28,35),
+									new Array(2,5,8,25,35,60),
+									new Array(1,10,16,28,32,39),
+									new Array(2,6,11,13,27,34),
+									new Array(3,8,11,23,27,34)
+				);
+			$scope.cont = 0;
+			$scope.verifica = function(){
+				$scope.total = 0;
+				
+				//$scope.cont = $scope.cont + $scope.dez1*1;
+				
+				for (var i = 0; i < $scope.jogos.length; i++) {
+					$scope.cont = 0;
+					for (var j = 0; j < $scope.jogos[i].length; j++) {
+						if($scope.dez1*1 == $scope.jogos[i][j] ||
+						   $scope.dez2*1 == $scope.jogos[i][j] || 
+						   $scope.dez3*1 == $scope.jogos[i][j] || 
+						   $scope.dez4*1 == $scope.jogos[i][j] || 
+						   $scope.dez5*1 == $scope.jogos[i][j] || 
+						   $scope.dez6*1 == $scope.jogos[i][j]){
+
+							$scope.cont++;
+						}
+					}
+					if($scope.cont>$scope.total && $scope.cont>1)
+						$scope.total = $scope.cont;
+				}
+				
+			};
+
+		});
+	</script>
+</head>
+<body ng-controller="crtl">
+	<div class="container-fluid">
+		<div class="card">
+			<div class="card-header">
+				<h6>Bolão da Mega - 16º Batalhão</h6>
+			</div>
+			<div class="card-body">
+				<form class="form">
+					<div class="form-row">
+						<div class="col-auto">
+							<input type="text" class="ml-2 mr-2 form-control form-control-inline" maxlength="2" ng-model="dez1" ng-change="verifica()" value="2" />
+							<input type="text" class="mr-2 form-control form-control-inline" maxlength="2" ng-model="dez2" ng-change="verifica()"/>
+							<input type="text" class="mr-2 form-control form-control-inline" maxlength="2" ng-model="dez3" ng-change="verifica()"/>
+							<input type="text" class="mr-2 form-control form-control-inline" maxlength="2" ng-model="dez4" ng-change="verifica()"/>
+							<input type="text" class="mr-2 form-control form-control-inline" maxlength="2" ng-model="dez5" ng-change="verifica()"/>
+							<input type="text" class="form-control form-control-inline" maxlength="2" ng-model="dez6"  ng-change="verifica()"/>
+						</div>
+					</div>
+					<div class="row">
+						<div class="alert alert-success justify-content-center" role="alert" ng-show="total>0">
+  							Você acertou {{total}} dezenas;
+						</div>						
+					</div>
+				</form>
+				<table class="table table-bordered table-striped">
+					<tr ng-repeat="jogo in jogos">
+						<td class="text-center" ng-repeat="valor in jogo" ng-class="{'alert-success' : valor==dez1 || valor==dez2 || valor==dez3 || valor==dez4 || valor==dez5 || valor==dez6}">{{valor}}</td>
+					</tr>					
+				</table>
+				<hr/>
+				<small>
+					<p>&copy; Marlon Castro</p>
+				</small>
+			</div>
+		</div>
+  	</div>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+</html>

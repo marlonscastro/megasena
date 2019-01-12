@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1485891800 source:f:\mega sena\programas\gerarocorrenciasindividuaisdezenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include_jogos/jogos.h"
+
+1484516426 f:\mega sena\programas\gerarocorrenciasindividuaisdezenas\jogos.h
+
+1485656372 f:\mega sena\programas\include_jogos\jogos.h
+
+1485891816 source:c:\users\usuario\desktop\projeto mega sena\programas\gerarocorrenciasindividuaisdezenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include_jogos/jogos.h"
+
+1545154874 c:\users\usuario\desktop\projeto mega sena\programas\include_jogos\jogos.h
+

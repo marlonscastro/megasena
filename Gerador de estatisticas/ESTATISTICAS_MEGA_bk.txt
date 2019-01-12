@@ -1,0 +1,62 @@
+------------------- USANDO 30 COMO DIVISOR --------------------------
+6 abaixo e 0 acima - 11 - 0.58%
+5 abaixo e 1 acima - 131 - 6.90%
+4 abaixo e 2 acima - 401 - 21.13%
+3 abaixo e 3 acima - 639 - 33.67%
+2 abaixo e 4 acima - 520 - 27.40%
+1 abaixo e 5 acima - 174 - 9.17%
+0 abaixo e 6 acima - 22 - 1.16%
+
+------------------- DISTRIBUICAO DE PARIDADE --------------------------
+6 Pares e 0 Impares - 19 - 1.00%
+5 Pares e 1 Impares - 183 - 9.64%
+4 Pares e 2 Impares - 462 - 24.34%
+3 Pares e 3 Impares - 572 - 30.14%
+2 Pares e 4 Impares - 467 - 24.60%
+1 Pares e 5 Impares - 172 - 9.06%
+0 Pares e 6 Impares - 23 - 1.21%
+
+------------------- MESMA COLUNA NO VOLANTE --------------------------
+6 na coluna - 0 - 0.00%
+5 na coluna - 0 - 0.00%
+4 na coluna - 7 - 0.37%
+3 na coluna - 189 - 9.96%
+2 na coluna - 1361 - 71.71%
+1 na coluna - 341 - 17.97%
+
+--------- REPETICAO DE DEZENAS DE (UM) JOGO ANTERIOR -------------
+6 Dezenas - 0 - 0.00%
+5 Dezenas - 1 - 0.05%
+4 Dezenas - 1 - 0.05%
+3 Dezenas - 17 - 0.90%
+2 Dezenas - 150 - 7.90%
+1 Dezenas - 737 - 38.83%
+0 Dezenas - 990 - 52.16%
+
+--------- REPETICAO DE DEZENAS DE (DOIS) JOGOS ANTERIORES -------------
+6 Dezenas - 0 - 0.00%
+5 Dezenas - 4 - 0.21%
+4 Dezenas - 25 - 1.32%
+3 Dezenas - 146 - 7.69%
+2 Dezenas - 448 - 23.60%
+1 Dezenas - 761 - 40.09%
+0 Dezenas - 511 - 26.92%
+
+--------- REPETICAO DE DEZENAS DE (TRES) JOGOS ANTERIORES -------------
+6 Dezenas - 4 - 0.21%
+5 Dezenas - 29 - 1.53%
+4 Dezenas - 129 - 6.80%
+3 Dezenas - 296 - 15.60%
+2 Dezenas - 584 - 30.77%
+1 Dezenas - 601 - 31.66%
+0 Dezenas - 251 - 13.22%
+
+-------------- DICAS DIVERSAS -----------------------------------------
+Jogos comecando nos 20
+
+73,2% --- acontece pelo menos uma das unidades
+26,8% --- nao ocorre
+--------------------------------------------------------------------
+3 dezenas na casa dos 20
+repete um ou duas na casa dos 20
+--------------------------------------------------------------------

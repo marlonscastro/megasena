@@ -1,0 +1,1896 @@
+analisando jogo 0004 | 01 - 02 - 06 - 16 - 19 - 46 Cont -> 2 
+analisando jogo 0005 | 07 - 13 - 19 - 22 - 40 - 47 Cont -> 2 
+analisando jogo 0006 | 03 - 05 - 20 - 21 - 38 - 56 Cont -> 1 
+analisando jogo 0007 | 04 - 17 - 37 - 38 - 47 - 53 Cont -> 2 
+analisando jogo 0008 | 08 - 43 - 54 - 55 - 56 - 60 Cont -> 1 
+analisando jogo 0009 | 04 - 18 - 21 - 25 - 38 - 57 Cont -> 4 
+analisando jogo 0010 | 15 - 25 - 37 - 38 - 58 - 59 Cont -> 4 
+analisando jogo 0011 | 04 - 16 - 19 - 20 - 27 - 43 Cont -> 2 
+analisando jogo 0012 | 18 - 32 - 47 - 50 - 54 - 56 Cont -> 1 
+analisando jogo 0013 | 02 - 16 - 23 - 27 - 47 - 53 Cont -> 3 
+analisando jogo 0014 | 12 - 33 - 35 - 51 - 52 - 60
+analisando jogo 0015 | 20 - 32 - 34 - 49 - 58 - 60 Cont -> 2 
+analisando jogo 0016 | 06 - 10 - 13 - 19 - 20 - 51 Cont -> 2 
+analisando jogo 0017 | 23 - 27 - 36 - 37 - 42 - 56
+analisando jogo 0018 | 05 - 10 - 12 - 24 - 25 - 60 Cont -> 2 
+analisando jogo 0019 | 11 - 25 - 28 - 30 - 33 - 51 Cont -> 2 
+analisando jogo 0020 | 06 - 33 - 36 - 46 - 49 - 53 Cont -> 2 
+analisando jogo 0021 | 01 - 09 - 31 - 38 - 46 - 56 Cont -> 1 
+analisando jogo 0022 | 17 - 37 - 39 - 51 - 52 - 59 Cont -> 1 
+analisando jogo 0023 | 01 - 08 - 14 - 28 - 33 - 43 Cont -> 2 
+analisando jogo 0024 | 24 - 43 - 50 - 54 - 55 - 56 Cont -> 2 
+analisando jogo 0025 | 10 - 22 - 50 - 53 - 57 - 58 Cont -> 1 
+analisando jogo 0026 | 13 - 17 - 20 - 33 - 44 - 51 Cont -> 1 
+analisando jogo 0027 | 03 - 06 - 22 - 24 - 54 - 60 Cont -> 3 
+analisando jogo 0028 | 03 - 08 - 14 - 43 - 56 - 58 Cont -> 2 
+analisando jogo 0029 | 07 - 14 - 15 - 29 - 38 - 50 Cont -> 1 
+analisando jogo 0030 | 17 - 19 - 28 - 45 - 48 - 56 Cont -> 1 
+analisando jogo 0031 | 05 - 14 - 33 - 36 - 43 - 44 Cont -> 3 
+analisando jogo 0032 | 05 - 17 - 33 - 39 - 42 - 49 Cont -> 3 
+analisando jogo 0033 | 13 - 15 - 17 - 40 - 53 - 57 Cont -> 2 
+analisando jogo 0034 | 04 - 16 - 21 - 23 - 54 - 57 Cont -> 1 
+analisando jogo 0035 | 03 - 13 - 17 - 25 - 29 - 51 Cont -> 3 
+analisando jogo 0036 | 06 - 07 - 22 - 38 - 52 - 60
+analisando jogo 0037 | 10 - 42 - 43 - 45 - 54 - 55 Cont -> 1 
+analisando jogo 0038 | 12 - 16 - 37 - 45 - 52 - 56 Cont -> 2 
+analisando jogo 0039 | 03 - 05 - 08 - 12 - 46 - 47 Cont -> 1 
+analisando jogo 0040 | 12 - 26 - 35 - 38 - 39 - 47 Cont -> 3 
+analisando jogo 0041 | 07 - 11 - 19 - 24 - 33 - 36
+analisando jogo 0042 | 02 - 06 - 17 - 25 - 26 - 58 Cont -> 1 
+analisando jogo 0043 | 14 - 18 - 29 - 38 - 44 - 47 Cont -> 2 
+analisando jogo 0044 | 07 - 30 - 37 - 44 - 53 - 55 Cont -> 2 
+analisando jogo 0045 | 01 - 23 - 24 - 32 - 46 - 60
+analisando jogo 0046 | 03 - 17 - 25 - 35 - 48 - 56
+analisando jogo 0047 | 02 - 05 - 28 - 34 - 47 - 50
+analisando jogo 0048 | 07 - 13 - 33 - 35 - 43 - 55 Cont -> 1 
+analisando jogo 0049 | 06 - 16 - 21 - 44 - 57 - 58
+analisando jogo 0050 | 17 - 23 - 24 - 25 - 42 - 47 Cont -> 1 
+analisando jogo 0051 | 15 - 30 - 38 - 46 - 58 - 59 Cont -> 1 
+analisando jogo 0052 | 03 - 13 - 16 - 38 - 42 - 46 Cont -> 4 
+analisando jogo 0053 | 05 - 09 - 18 - 21 - 36 - 56
+analisando jogo 0054 | 02 - 14 - 23 - 29 - 38 - 52 Cont -> 2 
+analisando jogo 0055 | 02 - 07 - 20 - 35 - 51 - 59 Cont -> 1 
+analisando jogo 0056 | 07 - 16 - 17 - 27 - 34 - 59 Cont -> 2 
+analisando jogo 0057 | 12 - 27 - 30 - 37 - 44 - 49 Cont -> 1 
+analisando jogo 0058 | 02 - 08 - 13 - 28 - 34 - 54 Cont -> 2 
+analisando jogo 0059 | 03 - 14 - 15 - 20 - 21 - 38
+analisando jogo 0060 | 08 - 18 - 29 - 42 - 44 - 59 Cont -> 2 
+analisando jogo 0061 | 06 - 08 - 13 - 24 - 31 - 52 Cont -> 3 
+analisando jogo 0062 | 09 - 25 - 26 - 40 - 41 - 49
+analisando jogo 0063 | 08 - 12 - 23 - 50 - 54 - 60 Cont -> 2 
+analisando jogo 0064 | 01 - 05 - 20 - 25 - 32 - 34 Cont -> 1 
+analisando jogo 0065 | 12 - 13 - 15 - 26 - 33 - 48 Cont -> 2 
+analisando jogo 0066 | 12 - 14 - 17 - 27 - 47 - 52 Cont -> 2 
+analisando jogo 0067 | 01 - 03 - 12 - 13 - 53 - 59 Cont -> 4 
+analisando jogo 0068 | 25 - 34 - 45 - 53 - 56 - 58 Cont -> 1 
+analisando jogo 0069 | 17 - 23 - 27 - 40 - 43 - 58 Cont -> 3 
+analisando jogo 0070 | 16 - 27 - 33 - 43 - 45 - 53 Cont -> 5 
+analisando jogo 0071 | 01 - 19 - 34 - 43 - 44 - 48 Cont -> 3 
+analisando jogo 0072 | 25 - 26 - 28 - 45 - 51 - 57 Cont -> 1 
+analisando jogo 0073 | 02 - 24 - 34 - 37 - 38 - 50 Cont -> 1 
+analisando jogo 0074 | 21 - 24 - 35 - 36 - 37 - 49 Cont -> 2 
+analisando jogo 0075 | 08 - 17 - 18 - 23 - 33 - 53
+analisando jogo 0076 | 21 - 29 - 40 - 49 - 54 - 57 Cont -> 2 
+analisando jogo 0077 | 12 - 22 - 25 - 31 - 32 - 46
+analisando jogo 0078 | 02 - 13 - 17 - 25 - 31 - 43 Cont -> 3 
+analisando jogo 0079 | 23 - 28 - 37 - 40 - 48 - 51 Cont -> 1 
+analisando jogo 0080 | 10 - 23 - 41 - 47 - 54 - 60 Cont -> 1 
+analisando jogo 0081 | 15 - 18 - 29 - 36 - 51 - 53 Cont -> 1 
+analisando jogo 0082 | 04 - 15 - 16 - 24 - 42 - 57 Cont -> 1 
+analisando jogo 0083 | 04 - 06 - 10 - 25 - 34 - 40 Cont -> 2 
+analisando jogo 0084 | 06 - 15 - 30 - 37 - 45 - 47 Cont -> 3 
+analisando jogo 0085 | 06 - 21 - 22 - 34 - 36 - 54 Cont -> 3 
+analisando jogo 0086 | 04 - 05 - 11 - 28 - 32 - 40 Cont -> 2 
+analisando jogo 0087 | 04 - 18 - 29 - 37 - 43 - 45 Cont -> 3 
+analisando jogo 0088 | 13 - 34 - 42 - 44 - 55 - 59 Cont -> 1 
+analisando jogo 0089 | 09 - 21 - 26 - 40 - 52 - 54 Cont -> 1 
+analisando jogo 0090 | 02 - 04 - 10 - 35 - 39 - 60 Cont -> 1 
+analisando jogo 0091 | 01 - 03 - 05 - 23 - 24 - 51
+analisando jogo 0092 | 02 - 22 - 28 - 31 - 36 - 53 Cont -> 1 
+analisando jogo 0093 | 08 - 18 - 28 - 51 - 52 - 55 Cont -> 2 
+analisando jogo 0094 | 06 - 40 - 45 - 46 - 50 - 60
+analisando jogo 0095 | 04 - 07 - 26 - 40 - 42 - 58 Cont -> 1 
+analisando jogo 0096 | 05 - 11 - 14 - 35 - 53 - 56
+analisando jogo 0097 | 13 - 14 - 31 - 33 - 35 - 43 Cont -> 2 
+analisando jogo 0098 | 11 - 24 - 30 - 33 - 46 - 60 Cont -> 2 
+analisando jogo 0099 | 14 - 29 - 30 - 46 - 48 - 51 Cont -> 4 
+analisando jogo 0100 | 01 - 18 - 29 - 31 - 37 - 39 Cont -> 2 
+analisando jogo 0101 | 19 - 20 - 37 - 42 - 44 - 56 Cont -> 1 
+analisando jogo 0102 | 01 - 07 - 09 - 49 - 54 - 57 Cont -> 1 
+analisando jogo 0103 | 01 - 04 - 13 - 21 - 38 - 52 Cont -> 2 
+analisando jogo 0104 | 03 - 13 - 31 - 43 - 46 - 49 Cont -> 2 
+analisando jogo 0105 | 05 - 16 - 24 - 35 - 38 - 39 Cont -> 1 
+analisando jogo 0106 | 02 - 04 - 16 - 24 - 51 - 52 Cont -> 4 
+analisando jogo 0107 | 21 - 24 - 29 - 34 - 59 - 60 Cont -> 2 
+analisando jogo 0108 | 01 - 13 - 44 - 48 - 49 - 54
+analisando jogo 0109 | 18 - 31 - 43 - 52 - 57 - 58 Cont -> 1 
+analisando jogo 0110 | 04 - 22 - 25 - 32 - 33 - 52 Cont -> 1 
+analisando jogo 0111 | 12 - 20 - 34 - 37 - 42 - 43 Cont -> 1 
+analisando jogo 0112 | 07 - 26 - 28 - 34 - 54 - 55 Cont -> 1 
+analisando jogo 0113 | 06 - 12 - 18 - 37 - 47 - 54 Cont -> 3 
+analisando jogo 0114 | 04 - 06 - 14 - 20 - 24 - 38 Cont -> 2 
+analisando jogo 0115 | 05 - 13 - 32 - 36 - 42 - 51
+analisando jogo 0116 | 20 - 25 - 27 - 33 - 42 - 53 Cont -> 2 
+analisando jogo 0117 | 09 - 22 - 25 - 37 - 56 - 57 Cont -> 1 
+analisando jogo 0118 | 01 - 21 - 36 - 38 - 47 - 50 Cont -> 1 
+analisando jogo 0119 | 03 - 16 - 27 - 40 - 45 - 46 Cont -> 1 
+analisando jogo 0120 | 02 - 29 - 41 - 44 - 53 - 55
+analisando jogo 0121 | 11 - 17 - 20 - 39 - 43 - 53 Cont -> 1 
+analisando jogo 0122 | 13 - 14 - 16 - 26 - 32 - 42 Cont -> 1 
+analisando jogo 0123 | 05 - 15 - 34 - 41 - 52 - 57 Cont -> 1 
+analisando jogo 0124 | 25 - 41 - 47 - 53 - 56 - 59 Cont -> 2 
+analisando jogo 0125 | 06 - 10 - 11 - 28 - 32 - 40 Cont -> 1 
+analisando jogo 0126 | 21 - 29 - 50 - 51 - 54 - 59 Cont -> 1 
+analisando jogo 0127 | 03 - 09 - 18 - 21 - 23 - 43 Cont -> 1 
+analisando jogo 0128 | 01 - 09 - 10 - 32 - 46 - 54 Cont -> 4 
+analisando jogo 0129 | 13 - 29 - 38 - 42 - 49 - 53 Cont -> 1 
+analisando jogo 0130 | 04 - 09 - 17 - 27 - 30 - 44 Cont -> 2 
+analisando jogo 0131 | 07 - 09 - 35 - 41 - 44 - 50 Cont -> 3 
+analisando jogo 0132 | 05 - 06 - 19 - 34 - 39 - 57
+analisando jogo 0133 | 04 - 25 - 32 - 36 - 52 - 60 Cont -> 1 
+analisando jogo 0134 | 21 - 22 - 35 - 40 - 53 - 59 Cont -> 1 
+analisando jogo 0135 | 01 - 17 - 25 - 38 - 45 - 59 Cont -> 2 
+analisando jogo 0136 | 15 - 16 - 19 - 22 - 26 - 49 Cont -> 1 
+analisando jogo 0137 | 05 - 14 - 27 - 37 - 40 - 41 Cont -> 1 
+analisando jogo 0138 | 03 - 13 - 26 - 27 - 41 - 42 Cont -> 3 
+analisando jogo 0139 | 07 - 31 - 41 - 44 - 46 - 55 Cont -> 2 
+analisando jogo 0140 | 10 - 13 - 22 - 41 - 42 - 58 Cont -> 5 
+analisando jogo 0141 | 08 - 15 - 19 - 20 - 54 - 59
+analisando jogo 0142 | 06 - 18 - 20 - 40 - 50 - 53 Cont -> 1 
+analisando jogo 0143 | 08 - 32 - 36 - 44 - 45 - 55 Cont -> 1 
+analisando jogo 0144 | 15 - 16 - 31 - 41 - 43 - 51 Cont -> 1 
+analisando jogo 0145 | 25 - 32 - 34 - 42 - 51 - 60 Cont -> 2 
+analisando jogo 0146 | 06 - 16 - 23 - 24 - 28 - 38 Cont -> 1 
+analisando jogo 0147 | 32 - 35 - 41 - 55 - 58 - 59 Cont -> 2 
+analisando jogo 0148 | 07 - 11 - 20 - 28 - 45 - 48 Cont -> 1 
+analisando jogo 0149 | 12 - 44 - 50 - 52 - 54 - 55 Cont -> 1 
+analisando jogo 0150 | 03 - 16 - 20 - 43 - 52 - 56 Cont -> 2 
+analisando jogo 0151 | 05 - 12 - 15 - 29 - 51 - 58 Cont -> 1 
+analisando jogo 0152 | 02 - 30 - 31 - 42 - 45 - 47
+analisando jogo 0153 | 08 - 10 - 24 - 33 - 45 - 48 Cont -> 1 
+analisando jogo 0154 | 12 - 30 - 32 - 35 - 43 - 44 Cont -> 2 
+analisando jogo 0155 | 17 - 23 - 42 - 49 - 52 - 55 Cont -> 1 
+analisando jogo 0156 | 04 - 13 - 17 - 21 - 41 - 44 Cont -> 2 
+analisando jogo 0157 | 04 - 14 - 17 - 43 - 51 - 58 Cont -> 4 
+analisando jogo 0158 | 09 - 11 - 16 - 35 - 50 - 58 Cont -> 1 
+analisando jogo 0159 | 02 - 13 - 42 - 52 - 54 - 58 Cont -> 3 
+analisando jogo 0160 | 06 - 25 - 30 - 37 - 39 - 41
+analisando jogo 0161 | 21 - 23 - 33 - 38 - 48 - 51
+analisando jogo 0162 | 08 - 27 - 36 - 41 - 53 - 56 Cont -> 1 
+analisando jogo 0163 | 04 - 10 - 14 - 19 - 28 - 44
+analisando jogo 0164 | 10 - 19 - 23 - 35 - 39 - 56 Cont -> 4 
+analisando jogo 0165 | 12 - 13 - 22 - 57 - 59 - 60
+analisando jogo 0166 | 01 - 11 - 28 - 33 - 38 - 48 Cont -> 1 
+analisando jogo 0167 | 02 - 09 - 31 - 35 - 45 - 50 Cont -> 1 
+analisando jogo 0168 | 01 - 13 - 21 - 37 - 51 - 52 Cont -> 2 
+analisando jogo 0169 | 07 - 41 - 46 - 51 - 55 - 58 Cont -> 1 
+analisando jogo 0170 | 04 - 27 - 40 - 43 - 46 - 54 Cont -> 1 
+analisando jogo 0171 | 10 - 14 - 26 - 35 - 36 - 49
+analisando jogo 0172 | 17 - 28 - 29 - 42 - 49 - 50 Cont -> 1 
+analisando jogo 0173 | 11 - 22 - 23 - 36 - 52 - 59 Cont -> 1 
+analisando jogo 0174 | 01 - 10 - 13 - 20 - 42 - 50 Cont -> 3 
+analisando jogo 0175 | 01 - 03 - 04 - 28 - 45 - 53 Cont -> 2 
+analisando jogo 0176 | 22 - 35 - 38 - 39 - 41 - 59 Cont -> 2 
+analisando jogo 0177 | 05 - 15 - 19 - 26 - 27 - 33
+analisando jogo 0178 | 05 - 06 - 23 - 26 - 27 - 53 Cont -> 4 
+analisando jogo 0179 | 06 - 23 - 29 - 39 - 51 - 60 Cont -> 3 
+analisando jogo 0180 | 01 - 27 - 33 - 35 - 51 - 55 Cont -> 4 
+analisando jogo 0181 | 03 - 05 - 10 - 28 - 46 - 60 Cont -> 2 
+analisando jogo 0182 | 02 - 07 - 11 - 16 - 40 - 44
+analisando jogo 0183 | 09 - 16 - 21 - 34 - 41 - 60 Cont -> 2 
+analisando jogo 0184 | 17 - 22 - 43 - 46 - 55 - 59 Cont -> 1 
+analisando jogo 0185 | 14 - 23 - 24 - 25 - 26 - 51
+analisando jogo 0186 | 06 - 36 - 41 - 44 - 48 - 58 Cont -> 1 
+analisando jogo 0187 | 17 - 27 - 34 - 42 - 43 - 46 Cont -> 3 
+analisando jogo 0188 | 04 - 15 - 31 - 38 - 41 - 53 Cont -> 1 
+analisando jogo 0189 | 05 - 10 - 21 - 32 - 40 - 42 Cont -> 1 
+analisando jogo 0190 | 01 - 03 - 05 - 23 - 41 - 58 Cont -> 2 
+analisando jogo 0191 | 01 - 26 - 28 - 41 - 54 - 60 Cont -> 3 
+analisando jogo 0192 | 04 - 11 - 12 - 19 - 43 - 49
+analisando jogo 0193 | 25 - 28 - 32 - 33 - 42 - 43 Cont -> 2 
+analisando jogo 0194 | 03 - 09 - 17 - 32 - 37 - 44 Cont -> 1 
+analisando jogo 0195 | 07 - 09 - 14 - 17 - 24 - 32 Cont -> 4 
+analisando jogo 0196 | 05 - 12 - 15 - 19 - 29 - 52
+analisando jogo 0197 | 01 - 08 - 18 - 23 - 35 - 40
+analisando jogo 0198 | 10 - 16 - 37 - 50 - 52 - 57 Cont -> 1 
+analisando jogo 0199 | 12 - 15 - 19 - 34 - 44 - 51 Cont -> 3 
+analisando jogo 0200 | 05 - 20 - 22 - 30 - 35 - 55 Cont -> 1 
+analisando jogo 0201 | 12 - 24 - 44 - 45 - 49 - 53 Cont -> 2 
+analisando jogo 0202 | 11 - 19 - 29 - 44 - 47 - 55 Cont -> 4 
+analisando jogo 0203 | 29 - 31 - 39 - 41 - 51 - 58 Cont -> 1 
+analisando jogo 0204 | 26 - 32 - 40 - 43 - 46 - 54
+analisando jogo 0205 | 18 - 20 - 26 - 34 - 51 - 56 Cont -> 2 
+analisando jogo 0206 | 03 - 07 - 19 - 24 - 53 - 55
+analisando jogo 0207 | 15 - 23 - 24 - 25 - 47 - 57 Cont -> 1 
+analisando jogo 0208 | 13 - 21 - 26 - 32 - 41 - 52 Cont -> 1 
+analisando jogo 0209 | 20 - 32 - 37 - 38 - 48 - 58 Cont -> 1 
+analisando jogo 0210 | 10 - 20 - 33 - 40 - 45 - 50 Cont -> 1 
+analisando jogo 0211 | 06 - 15 - 29 - 45 - 57 - 59 Cont -> 1 
+analisando jogo 0212 | 03 - 09 - 23 - 30 - 32 - 35 Cont -> 1 
+analisando jogo 0213 | 06 - 12 - 30 - 31 - 35 - 50 Cont -> 4 
+analisando jogo 0214 | 07 - 28 - 37 - 46 - 53 - 58
+analisando jogo 0215 | 14 - 18 - 30 - 35 - 42 - 59 Cont -> 4 
+analisando jogo 0216 | 03 - 27 - 32 - 45 - 49 - 51
+analisando jogo 0217 | 12 - 17 - 40 - 42 - 47 - 54 Cont -> 1 
+analisando jogo 0218 | 23 - 26 - 28 - 36 - 42 - 49 Cont -> 3 
+analisando jogo 0219 | 13 - 14 - 36 - 53 - 55 - 60 Cont -> 1 
+analisando jogo 0220 | 13 - 27 - 43 - 50 - 54 - 58 Cont -> 2 
+analisando jogo 0221 | 05 - 19 - 30 - 48 - 52 - 55 Cont -> 1 
+analisando jogo 0222 | 02 - 06 - 22 - 24 - 28 - 58 Cont -> 1 
+analisando jogo 0223 | 07 - 16 - 18 - 20 - 21 - 44
+analisando jogo 0224 | 02 - 04 - 16 - 21 - 37 - 58 Cont -> 4 
+analisando jogo 0225 | 01 - 02 - 38 - 49 - 50 - 59 Cont -> 2 
+analisando jogo 0226 | 11 - 26 - 27 - 37 - 42 - 48 Cont -> 1 
+analisando jogo 0227 | 13 - 16 - 40 - 43 - 45 - 59 Cont -> 2 
+analisando jogo 0228 | 11 - 13 - 21 - 33 - 39 - 45 Cont -> 3 
+analisando jogo 0229 | 08 - 40 - 41 - 44 - 53 - 56 Cont -> 1 
+analisando jogo 0230 | 16 - 27 - 36 - 42 - 44 - 59 Cont -> 3 
+analisando jogo 0231 | 19 - 22 - 29 - 37 - 41 - 59 Cont -> 2 
+analisando jogo 0232 | 03 - 07 - 24 - 32 - 36 - 45 Cont -> 1 
+analisando jogo 0233 | 15 - 25 - 41 - 42 - 45 - 54 Cont -> 3 
+analisando jogo 0234 | 02 - 22 - 29 - 31 - 41 - 55 Cont -> 4 
+analisando jogo 0235 | 10 - 25 - 50 - 52 - 57 - 60 Cont -> 1 
+analisando jogo 0236 | 07 - 31 - 36 - 45 - 56 - 57 Cont -> 3 
+analisando jogo 0237 | 09 - 13 - 15 - 37 - 41 - 42 Cont -> 1 
+analisando jogo 0238 | 06 - 21 - 33 - 44 - 46 - 47
+analisando jogo 0239 | 25 - 28 - 38 - 41 - 57 - 59 Cont -> 2 
+analisando jogo 0240 | 11 - 31 - 35 - 40 - 56 - 57 Cont -> 1 
+analisando jogo 0241 | 04 - 07 - 21 - 22 - 28 - 56 Cont -> 3 
+analisando jogo 0242 | 11 - 16 - 20 - 23 - 32 - 47 Cont -> 1 
+analisando jogo 0243 | 19 - 24 - 33 - 47 - 50 - 60 Cont -> 1 
+analisando jogo 0244 | 08 - 27 - 44 - 51 - 53 - 60 Cont -> 1 
+analisando jogo 0245 | 02 - 16 - 32 - 37 - 43 - 57 Cont -> 2 
+analisando jogo 0246 | 03 - 10 - 23 - 30 - 34 - 46
+analisando jogo 0247 | 16 - 32 - 34 - 35 - 41 - 56 Cont -> 3 
+analisando jogo 0248 | 21 - 36 - 40 - 49 - 54 - 55
+analisando jogo 0249 | 07 - 25 - 41 - 42 - 43 - 55 Cont -> 2 
+analisando jogo 0250 | 15 - 23 - 30 - 34 - 49 - 55 Cont -> 4 
+analisando jogo 0251 | 04 - 17 - 26 - 32 - 51 - 54 Cont -> 1 
+analisando jogo 0252 | 11 - 12 - 24 - 37 - 44 - 56
+analisando jogo 0253 | 01 - 04 - 21 - 22 - 30 - 56 Cont -> 3 
+analisando jogo 0254 | 16 - 19 - 20 - 32 - 44 - 55 Cont -> 2 
+analisando jogo 0255 | 02 - 21 - 26 - 32 - 34 - 52 Cont -> 2 
+analisando jogo 0256 | 01 - 04 - 05 - 19 - 28 - 34 Cont -> 4 
+analisando jogo 0257 | 07 - 12 - 50 - 54 - 55 - 60 Cont -> 1 
+analisando jogo 0258 | 13 - 15 - 20 - 33 - 43 - 58
+analisando jogo 0259 | 04 - 06 - 33 - 43 - 59 - 60 Cont -> 4 
+analisando jogo 0260 | 05 - 16 - 20 - 30 - 54 - 56 Cont -> 2 
+analisando jogo 0261 | 11 - 20 - 48 - 53 - 58 - 60 Cont -> 4 
+analisando jogo 0262 | 08 - 09 - 26 - 43 - 50 - 53 Cont -> 2 
+analisando jogo 0263 | 01 - 05 - 13 - 25 - 31 - 33 Cont -> 1 
+analisando jogo 0264 | 07 - 16 - 34 - 41 - 50 - 53 Cont -> 3 
+analisando jogo 0265 | 02 - 23 - 38 - 46 - 48 - 54
+analisando jogo 0266 | 01 - 08 - 45 - 46 - 55 - 58 Cont -> 2 
+analisando jogo 0267 | 05 - 06 - 10 - 21 - 33 - 47
+analisando jogo 0268 | 17 - 18 - 19 - 25 - 49 - 52
+analisando jogo 0269 | 05 - 09 - 27 - 35 - 40 - 45 Cont -> 2 
+analisando jogo 0270 | 14 - 24 - 26 - 29 - 31 - 54
+analisando jogo 0271 | 09 - 10 - 24 - 36 - 56 - 58 Cont -> 2 
+analisando jogo 0272 | 10 - 17 - 23 - 27 - 47 - 52 Cont -> 2 
+analisando jogo 0273 | 11 - 13 - 18 - 26 - 39 - 47 Cont -> 2 
+analisando jogo 0274 | 16 - 19 - 30 - 37 - 38 - 48
+analisando jogo 0275 | 22 - 39 - 45 - 53 - 57 - 59 Cont -> 1 
+analisando jogo 0276 | 04 - 26 - 38 - 40 - 52 - 56 Cont -> 2 
+analisando jogo 0277 | 10 - 15 - 18 - 22 - 31 - 55 Cont -> 1 
+analisando jogo 0278 | 04 - 23 - 31 - 47 - 58 - 59 Cont -> 3 
+analisando jogo 0279 | 05 - 16 - 20 - 25 - 30 - 58 Cont -> 1 
+analisando jogo 0280 | 05 - 11 - 31 - 38 - 47 - 53 Cont -> 4 
+analisando jogo 0281 | 09 - 14 - 23 - 24 - 33 - 36 Cont -> 1 
+analisando jogo 0282 | 25 - 28 - 34 - 42 - 48 - 54 Cont -> 1 
+analisando jogo 0283 | 07 - 08 - 14 - 30 - 32 - 36 Cont -> 2 
+analisando jogo 0284 | 12 - 32 - 37 - 41 - 50 - 56 Cont -> 1 
+analisando jogo 0285 | 29 - 35 - 37 - 44 - 47 - 56 Cont -> 2 
+analisando jogo 0286 | 03 - 13 - 25 - 33 - 47 - 60 Cont -> 1 
+analisando jogo 0287 | 06 - 09 - 11 - 17 - 18 - 50 Cont -> 1 
+analisando jogo 0288 | 06 - 07 - 20 - 25 - 30 - 36 Cont -> 2 
+analisando jogo 0289 | 07 - 25 - 26 - 30 - 40 - 57 Cont -> 4 
+analisando jogo 0290 | 05 - 16 - 17 - 18 - 22 - 41 Cont -> 2 
+analisando jogo 0291 | 13 - 23 - 24 - 34 - 45 - 53
+analisando jogo 0292 | 05 - 06 - 07 - 12 - 28 - 35 Cont -> 2 
+analisando jogo 0293 | 22 - 25 - 28 - 41 - 45 - 57 Cont -> 4 
+analisando jogo 0294 | 07 - 12 - 24 - 31 - 44 - 50 Cont -> 3 
+analisando jogo 0295 | 03 - 20 - 42 - 46 - 51 - 52
+analisando jogo 0296 | 01 - 20 - 28 - 33 - 36 - 41 Cont -> 3 
+analisando jogo 0297 | 05 - 22 - 23 - 24 - 34 - 60 Cont -> 1 
+analisando jogo 0298 | 02 - 05 - 07 - 33 - 49 - 53 Cont -> 2 
+analisando jogo 0299 | 24 - 27 - 28 - 38 - 41 - 57 Cont -> 3 
+analisando jogo 0300 | 09 - 26 - 48 - 49 - 57 - 58 Cont -> 2 
+analisando jogo 0301 | 12 - 25 - 30 - 40 - 41 - 60 Cont -> 1 
+analisando jogo 0302 | 07 - 13 - 17 - 30 - 37 - 47 Cont -> 1 
+analisando jogo 0303 | 07 - 11 - 34 - 41 - 42 - 59 Cont -> 2 
+analisando jogo 0304 | 05 - 11 - 27 - 38 - 53 - 60 Cont -> 2 
+analisando jogo 0305 | 19 - 30 - 41 - 47 - 56 - 57 Cont -> 3 
+analisando jogo 0306 | 13 - 16 - 17 - 26 - 41 - 44 Cont -> 2 
+analisando jogo 0307 | 04 - 11 - 25 - 29 - 39 - 55 Cont -> 1 
+analisando jogo 0308 | 04 - 11 - 25 - 39 - 50 - 55 Cont -> 5 
+analisando jogo 0309 | 02 - 14 - 28 - 29 - 31 - 32 Cont -> 1 
+analisando jogo 0310 | 22 - 24 - 30 - 32 - 38 - 41 Cont -> 1 
+analisando jogo 0311 | 14 - 23 - 30 - 41 - 47 - 50 Cont -> 4 
+analisando jogo 0312 | 14 - 16 - 24 - 37 - 38 - 53 Cont -> 4 
+analisando jogo 0313 | 05 - 32 - 34 - 37 - 40 - 58 Cont -> 2 
+analisando jogo 0314 | 12 - 21 - 22 - 28 - 43 - 50 Cont -> 1 
+analisando jogo 0315 | 06 - 24 - 28 - 43 - 51 - 56 Cont -> 3 
+analisando jogo 0316 | 16 - 20 - 27 - 30 - 35 - 48
+analisando jogo 0317 | 03 - 19 - 20 - 31 - 40 - 53 Cont -> 1 
+analisando jogo 0318 | 12 - 16 - 17 - 19 - 23 - 48 Cont -> 3 
+analisando jogo 0319 | 20 - 22 - 27 - 47 - 50 - 53 Cont -> 4 
+analisando jogo 0320 | 04 - 11 - 31 - 32 - 48 - 49 Cont -> 2 
+analisando jogo 0321 | 11 - 18 - 29 - 44 - 47 - 56 Cont -> 2 
+analisando jogo 0322 | 26 - 31 - 33 - 40 - 49 - 54 Cont -> 2 
+analisando jogo 0323 | 08 - 15 - 22 - 25 - 30 - 47 Cont -> 1 
+analisando jogo 0324 | 01 - 03 - 04 - 21 - 23 - 53
+analisando jogo 0325 | 21 - 23 - 40 - 44 - 51 - 52 Cont -> 3 
+analisando jogo 0326 | 29 - 32 - 33 - 38 - 46 - 48
+analisando jogo 0327 | 05 - 07 - 14 - 21 - 23 - 51 Cont -> 5 
+analisando jogo 0328 | 10 - 11 - 12 - 24 - 35 - 40 Cont -> 1 
+analisando jogo 0329 | 02 - 04 - 14 - 23 - 37 - 51 Cont -> 3 
+analisando jogo 0330 | 01 - 13 - 20 - 27 - 35 - 37 Cont -> 2 
+analisando jogo 0331 | 23 - 28 - 29 - 34 - 42 - 44 Cont -> 1 
+analisando jogo 0332 | 04 - 27 - 35 - 44 - 52 - 53 Cont -> 4 
+analisando jogo 0333 | 14 - 23 - 24 - 26 - 41 - 51 Cont -> 1 
+analisando jogo 0334 | 07 - 23 - 33 - 43 - 57 - 59 Cont -> 2 
+analisando jogo 0335 | 02 - 18 - 22 - 26 - 30 - 54 Cont -> 1 
+analisando jogo 0336 | 04 - 14 - 16 - 31 - 52 - 54 Cont -> 2 
+analisando jogo 0337 | 01 - 04 - 09 - 36 - 46 - 48 Cont -> 1 
+analisando jogo 0338 | 05 - 12 - 13 - 16 - 27 - 50 Cont -> 1 
+analisando jogo 0339 | 09 - 10 - 12 - 33 - 42 - 60 Cont -> 2 
+analisando jogo 0340 | 05 - 16 - 22 - 23 - 43 - 56 Cont -> 2 
+analisando jogo 0341 | 16 - 29 - 34 - 49 - 51 - 54 Cont -> 2 
+analisando jogo 0342 | 04 - 06 - 07 - 12 - 24 - 41 Cont -> 1 
+analisando jogo 0343 | 10 - 12 - 14 - 33 - 35 - 36 Cont -> 1 
+analisando jogo 0344 | 11 - 22 - 46 - 51 - 56 - 58 Cont -> 1 
+analisando jogo 0345 | 07 - 12 - 41 - 46 - 56 - 60 Cont -> 6 
+analisando jogo 0346 | 01 - 10 - 12 - 26 - 48 - 52 Cont -> 3 
+analisando jogo 0347 | 19 - 30 - 33 - 39 - 40 - 52 Cont -> 1 
+analisando jogo 0348 | 08 - 09 - 28 - 32 - 38 - 54
+analisando jogo 0349 | 10 - 15 - 23 - 30 - 43 - 57 Cont -> 2 
+analisando jogo 0350 | 15 - 16 - 24 - 41 - 59 - 60 Cont -> 1 
+analisando jogo 0351 | 07 - 20 - 25 - 44 - 47 - 49
+analisando jogo 0352 | 19 - 23 - 30 - 46 - 55 - 60 Cont -> 3 
+analisando jogo 0353 | 07 - 16 - 38 - 40 - 41 - 52 Cont -> 3 
+analisando jogo 0354 | 02 - 14 - 22 - 23 - 37 - 60 Cont -> 2 
+analisando jogo 0355 | 05 - 19 - 21 - 54 - 56 - 58 Cont -> 1 
+analisando jogo 0356 | 02 - 30 - 32 - 35 - 45 - 53 Cont -> 1 
+analisando jogo 0357 | 12 - 17 - 21 - 32 - 40 - 42 Cont -> 2 
+analisando jogo 0358 | 13 - 19 - 20 - 29 - 31 - 54 Cont -> 2 
+analisando jogo 0359 | 23 - 24 - 29 - 47 - 53 - 55 Cont -> 2 
+analisando jogo 0360 | 16 - 28 - 31 - 41 - 45 - 59 Cont -> 1 
+analisando jogo 0361 | 07 - 20 - 33 - 37 - 46 - 56 Cont -> 1 
+analisando jogo 0362 | 19 - 29 - 39 - 47 - 49 - 54 Cont -> 2 
+analisando jogo 0363 | 05 - 29 - 44 - 51 - 57 - 59 Cont -> 2 
+analisando jogo 0364 | 19 - 23 - 34 - 37 - 52 - 58 Cont -> 2 
+analisando jogo 0365 | 04 - 06 - 07 - 15 - 21 - 51 Cont -> 1 
+analisando jogo 0366 | 10 - 12 - 27 - 33 - 49 - 52 Cont -> 1 
+analisando jogo 0367 | 13 - 29 - 32 - 38 - 44 - 50
+analisando jogo 0368 | 01 - 14 - 21 - 35 - 42 - 60 Cont -> 1 
+analisando jogo 0369 | 01 - 04 - 40 - 42 - 51 - 54 Cont -> 2 
+analisando jogo 0370 | 04 - 18 - 23 - 33 - 39 - 60 Cont -> 2 
+analisando jogo 0371 | 16 - 17 - 24 - 39 - 46 - 57 Cont -> 1 
+analisando jogo 0372 | 01 - 05 - 10 - 24 - 31 - 33 Cont -> 3 
+analisando jogo 0373 | 02 - 05 - 16 - 26 - 44 - 54 Cont -> 2 
+analisando jogo 0374 | 01 - 05 - 09 - 42 - 51 - 58 Cont -> 3 
+analisando jogo 0375 | 10 - 13 - 25 - 35 - 43 - 48 Cont -> 1 
+analisando jogo 0376 | 03 - 12 - 19 - 27 - 45 - 46
+analisando jogo 0377 | 05 - 38 - 41 - 45 - 48 - 55 Cont -> 3 
+analisando jogo 0378 | 24 - 33 - 40 - 41 - 55 - 59 Cont -> 2 
+analisando jogo 0379 | 13 - 22 - 30 - 31 - 47 - 57
+analisando jogo 0380 | 09 - 10 - 28 - 46 - 55 - 56 Cont -> 2 
+analisando jogo 0381 | 31 - 34 - 37 - 38 - 53 - 54 Cont -> 1 
+analisando jogo 0382 | 14 - 22 - 48 - 50 - 53 - 56 Cont -> 3 
+analisando jogo 0383 | 24 - 28 - 40 - 47 - 50 - 52 Cont -> 2 
+analisando jogo 0384 | 05 - 12 - 16 - 18 - 22 - 24 Cont -> 2 
+analisando jogo 0385 | 17 - 35 - 36 - 39 - 43 - 54
+analisando jogo 0386 | 22 - 28 - 29 - 43 - 47 - 48 Cont -> 4 
+analisando jogo 0387 | 23 - 36 - 48 - 52 - 53 - 58 Cont -> 2 
+analisando jogo 0388 | 05 - 14 - 18 - 43 - 46 - 54 Cont -> 3 
+analisando jogo 0389 | 07 - 12 - 22 - 34 - 38 - 53 Cont -> 2 
+analisando jogo 0390 | 04 - 07 - 15 - 16 - 35 - 40 Cont -> 1 
+analisando jogo 0391 | 15 - 23 - 31 - 39 - 47 - 49 Cont -> 1 
+analisando jogo 0392 | 06 - 12 - 35 - 36 - 40 - 50 Cont -> 3 
+analisando jogo 0393 | 05 - 15 - 35 - 42 - 45 - 49 Cont -> 5 
+analisando jogo 0394 | 10 - 11 - 14 - 20 - 31 - 58 Cont -> 1 
+analisando jogo 0395 | 06 - 18 - 34 - 42 - 45 - 47 Cont -> 3 
+analisando jogo 0396 | 01 - 02 - 05 - 24 - 32 - 46 Cont -> 1 
+analisando jogo 0397 | 07 - 16 - 22 - 28 - 36 - 37
+analisando jogo 0398 | 11 - 16 - 27 - 47 - 55 - 59 Cont -> 2 
+analisando jogo 0399 | 10 - 13 - 28 - 29 - 54 - 59 Cont -> 2 
+analisando jogo 0400 | 11 - 18 - 43 - 44 - 50 - 53 Cont -> 1 
+analisando jogo 0401 | 05 - 16 - 27 - 43 - 56 - 58 Cont -> 3 
+analisando jogo 0402 | 07 - 16 - 27 - 31 - 46 - 60 Cont -> 2 
+analisando jogo 0403 | 01 - 24 - 28 - 38 - 40 - 58 Cont -> 1 
+analisando jogo 0404 | 24 - 29 - 34 - 47 - 57 - 60 Cont -> 2 
+analisando jogo 0405 | 02 - 12 - 32 - 38 - 47 - 48 Cont -> 2 
+analisando jogo 0406 | 02 - 18 - 22 - 49 - 51 - 57 Cont -> 2 
+analisando jogo 0407 | 14 - 28 - 33 - 44 - 49 - 56 Cont -> 1 
+analisando jogo 0408 | 18 - 25 - 26 - 31 - 34 - 49 Cont -> 3 
+analisando jogo 0409 | 08 - 24 - 31 - 36 - 38 - 55 Cont -> 1 
+analisando jogo 0410 | 10 - 12 - 31 - 38 - 45 - 56 Cont -> 4 
+analisando jogo 0411 | 05 - 12 - 14 - 21 - 45 - 59 Cont -> 2 
+analisando jogo 0412 | 02 - 04 - 29 - 33 - 35 - 53
+analisando jogo 0413 | 16 - 26 - 35 - 45 - 52 - 58 Cont -> 3 
+analisando jogo 0414 | 01 - 04 - 27 - 38 - 42 - 44 Cont -> 1 
+analisando jogo 0415 | 01 - 13 - 23 - 33 - 54 - 56 Cont -> 2 
+analisando jogo 0416 | 07 - 12 - 21 - 25 - 34 - 42 Cont -> 1 
+analisando jogo 0417 | 08 - 15 - 32 - 45 - 49 - 52
+analisando jogo 0418 | 09 - 16 - 41 - 42 - 52 - 53 Cont -> 2 
+analisando jogo 0419 | 12 - 29 - 30 - 43 - 57 - 59 Cont -> 1 
+analisando jogo 0420 | 05 - 35 - 37 - 38 - 45 - 51 Cont -> 1 
+analisando jogo 0421 | 12 - 37 - 43 - 55 - 56 - 60 Cont -> 3 
+analisando jogo 0422 | 08 - 22 - 32 - 33 - 40 - 53
+analisando jogo 0423 | 18 - 27 - 29 - 36 - 46 - 59
+analisando jogo 0424 | 06 - 10 - 16 - 34 - 42 - 47
+analisando jogo 0425 | 07 - 30 - 32 - 37 - 50 - 54 Cont -> 1 
+analisando jogo 0426 | 03 - 13 - 14 - 24 - 43 - 51
+analisando jogo 0427 | 08 - 28 - 30 - 32 - 46 - 60 Cont -> 2 
+analisando jogo 0428 | 17 - 26 - 32 - 36 - 43 - 55 Cont -> 3 
+analisando jogo 0429 | 08 - 10 - 21 - 25 - 38 - 50 Cont -> 1 
+analisando jogo 0430 | 26 - 37 - 40 - 47 - 52 - 58 Cont -> 1 
+analisando jogo 0431 | 04 - 13 - 17 - 27 - 39 - 50 Cont -> 2 
+analisando jogo 0432 | 16 - 17 - 28 - 30 - 36 - 54 Cont -> 1 
+analisando jogo 0433 | 04 - 10 - 17 - 24 - 30 - 54 Cont -> 5 
+analisando jogo 0434 | 10 - 11 - 17 - 31 - 37 - 43 Cont -> 4 
+analisando jogo 0435 | 01 - 06 - 07 - 29 - 48 - 57
+analisando jogo 0436 | 07 - 10 - 30 - 44 - 54 - 59 Cont -> 5 
+analisando jogo 0437 | 03 - 05 - 11 - 14 - 38 - 48 Cont -> 2 
+analisando jogo 0438 | 13 - 20 - 29 - 42 - 43 - 57 Cont -> 2 
+analisando jogo 0439 | 03 - 05 - 23 - 30 - 46 - 47 Cont -> 3 
+analisando jogo 0440 | 02 - 10 - 15 - 21 - 58 - 59
+analisando jogo 0441 | 06 - 15 - 23 - 31 - 37 - 59 Cont -> 3 
+analisando jogo 0442 | 11 - 17 - 26 - 36 - 48 - 52
+analisando jogo 0443 | 03 - 24 - 33 - 48 - 52 - 57 Cont -> 2 
+analisando jogo 0444 | 07 - 20 - 31 - 32 - 50 - 53 Cont -> 1 
+analisando jogo 0445 | 08 - 11 - 12 - 17 - 20 - 47 Cont -> 3 
+analisando jogo 0446 | 15 - 24 - 25 - 33 - 42 - 55 Cont -> 2 
+analisando jogo 0447 | 03 - 05 - 09 - 45 - 51 - 52
+analisando jogo 0448 | 01 - 08 - 24 - 34 - 49 - 56 Cont -> 2 
+analisando jogo 0449 | 01 - 09 - 13 - 50 - 51 - 59 Cont -> 3 
+analisando jogo 0450 | 17 - 18 - 23 - 28 - 31 - 53
+analisando jogo 0451 | 11 - 16 - 30 - 36 - 51 - 54 Cont -> 1 
+analisando jogo 0452 | 08 - 20 - 23 - 34 - 52 - 58 Cont -> 1 
+analisando jogo 0453 | 04 - 17 - 24 - 42 - 46 - 56 Cont -> 1 
+analisando jogo 0454 | 02 - 14 - 15 - 17 - 50 - 59 Cont -> 1 
+analisando jogo 0455 | 03 - 17 - 22 - 27 - 33 - 40 Cont -> 2 
+analisando jogo 0456 | 15 - 17 - 24 - 27 - 32 - 48 Cont -> 6 
+analisando jogo 0457 | 13 - 24 - 32 - 34 - 43 - 53 Cont -> 2 
+analisando jogo 0458 | 08 - 15 - 17 - 39 - 43 - 49 Cont -> 4 
+analisando jogo 0459 | 19 - 23 - 30 - 37 - 49 - 55 Cont -> 1 
+analisando jogo 0460 | 15 - 17 - 20 - 29 - 30 - 60 Cont -> 3 
+analisando jogo 0461 | 17 - 19 - 22 - 26 - 27 - 48 Cont -> 3 
+analisando jogo 0462 | 02 - 03 - 07 - 18 - 45 - 53
+analisando jogo 0463 | 06 - 24 - 33 - 38 - 45 - 50 Cont -> 1 
+analisando jogo 0464 | 01 - 22 - 31 - 46 - 51 - 57 Cont -> 1 
+analisando jogo 0465 | 11 - 16 - 28 - 29 - 30 - 45 Cont -> 2 
+analisando jogo 0466 | 08 - 18 - 21 - 22 - 38 - 60 Cont -> 2 
+analisando jogo 0467 | 05 - 06 - 23 - 25 - 39 - 51 Cont -> 1 
+analisando jogo 0468 | 13 - 21 - 26 - 29 - 42 - 47 Cont -> 2 
+analisando jogo 0469 | 08 - 11 - 23 - 37 - 51 - 58 Cont -> 3 
+analisando jogo 0470 | 05 - 31 - 32 - 36 - 51 - 59 Cont -> 3 
+analisando jogo 0471 | 03 - 04 - 12 - 29 - 38 - 51 Cont -> 3 
+analisando jogo 0472 | 07 - 23 - 41 - 49 - 51 - 58 Cont -> 5 
+analisando jogo 0473 | 03 - 12 - 32 - 34 - 40 - 50 Cont -> 3 
+analisando jogo 0474 | 06 - 08 - 19 - 22 - 43 - 52
+analisando jogo 0475 | 17 - 20 - 38 - 43 - 55 - 58 Cont -> 2 
+analisando jogo 0476 | 06 - 08 - 18 - 34 - 38 - 47 Cont -> 4 
+analisando jogo 0477 | 03 - 08 - 21 - 25 - 30 - 31 Cont -> 2 
+analisando jogo 0478 | 20 - 26 - 41 - 46 - 54 - 58 Cont -> 2 
+analisando jogo 0479 | 14 - 33 - 36 - 38 - 41 - 49 Cont -> 2 
+analisando jogo 0480 | 06 - 13 - 22 - 24 - 42 - 44
+analisando jogo 0481 | 12 - 13 - 33 - 53 - 54 - 56 Cont -> 3 
+analisando jogo 0482 | 16 - 18 - 23 - 35 - 44 - 59 Cont -> 1 
+analisando jogo 0483 | 17 - 18 - 19 - 38 - 49 - 53 Cont -> 2 
+analisando jogo 0484 | 19 - 28 - 30 - 38 - 52 - 57 Cont -> 2 
+analisando jogo 0485 | 08 - 14 - 19 - 30 - 42 - 50 Cont -> 3 
+analisando jogo 0486 | 08 - 22 - 25 - 48 - 52 - 54 Cont -> 2 
+analisando jogo 0487 | 15 - 30 - 35 - 39 - 43 - 57 Cont -> 3 
+analisando jogo 0488 | 17 - 28 - 33 - 36 - 53 - 59
+analisando jogo 0489 | 05 - 11 - 23 - 29 - 54 - 58 Cont -> 1 
+analisando jogo 0490 | 01 - 09 - 15 - 22 - 43 - 55 Cont -> 2 
+analisando jogo 0491 | 02 - 06 - 15 - 18 - 56 - 57 Cont -> 1 
+analisando jogo 0492 | 03 - 18 - 20 - 24 - 42 - 54 Cont -> 2 
+analisando jogo 0493 | 18 - 20 - 28 - 32 - 49 - 53 Cont -> 3 
+analisando jogo 0494 | 08 - 15 - 29 - 36 - 49 - 60 Cont -> 2 
+analisando jogo 0495 | 10 - 19 - 20 - 29 - 41 - 59 Cont -> 3 
+analisando jogo 0496 | 09 - 13 - 20 - 32 - 41 - 58 Cont -> 4 
+analisando jogo 0497 | 02 - 06 - 28 - 49 - 50 - 57 Cont -> 1 
+analisando jogo 0498 | 01 - 04 - 05 - 11 - 44 - 59 Cont -> 1 
+analisando jogo 0499 | 21 - 29 - 35 - 36 - 38 - 54
+analisando jogo 0500 | 16 - 27 - 28 - 34 - 39 - 56 Cont -> 1 
+analisando jogo 0501 | 07 - 13 - 21 - 24 - 33 - 50 Cont -> 1 
+analisando jogo 0502 | 07 - 10 - 21 - 27 - 48 - 49 Cont -> 4 
+analisando jogo 0503 | 08 - 11 - 19 - 30 - 39 - 50 Cont -> 2 
+analisando jogo 0504 | 03 - 20 - 28 - 46 - 47 - 52
+analisando jogo 0505 | 04 - 15 - 31 - 34 - 37 - 38
+analisando jogo 0506 | 03 - 05 - 27 - 33 - 44 - 58 Cont -> 1 
+analisando jogo 0507 | 05 - 10 - 15 - 45 - 46 - 56 Cont -> 3 
+analisando jogo 0508 | 28 - 32 - 33 - 34 - 35 - 55 Cont -> 2 
+analisando jogo 0509 | 01 - 04 - 30 - 41 - 45 - 58 Cont -> 2 
+analisando jogo 0510 | 03 - 04 - 08 - 34 - 36 - 37 Cont -> 2 
+analisando jogo 0511 | 04 - 08 - 31 - 40 - 53 - 58 Cont -> 4 
+analisando jogo 0512 | 10 - 19 - 27 - 33 - 39 - 46
+analisando jogo 0513 | 15 - 36 - 40 - 42 - 51 - 52 Cont -> 2 
+analisando jogo 0514 | 15 - 16 - 39 - 45 - 48 - 57 Cont -> 2 
+analisando jogo 0515 | 05 - 13 - 24 - 33 - 34 - 35 Cont -> 1 
+analisando jogo 0516 | 07 - 08 - 28 - 32 - 38 - 51 Cont -> 1 
+analisando jogo 0517 | 05 - 08 - 10 - 15 - 18 - 44 Cont -> 3 
+analisando jogo 0518 | 09 - 15 - 19 - 22 - 36 - 42 Cont -> 1 
+analisando jogo 0519 | 09 - 12 - 17 - 32 - 34 - 35 Cont -> 2 
+analisando jogo 0520 | 15 - 25 - 28 - 32 - 38 - 45 Cont -> 3 
+analisando jogo 0521 | 06 - 14 - 15 - 25 - 49 - 52 Cont -> 3 
+analisando jogo 0522 | 28 - 39 - 40 - 44 - 45 - 58 Cont -> 2 
+analisando jogo 0523 | 19 - 29 - 34 - 41 - 47 - 48
+analisando jogo 0524 | 08 - 10 - 24 - 26 - 32 - 49 Cont -> 1 
+analisando jogo 0525 | 03 - 21 - 31 - 36 - 55 - 59
+analisando jogo 0526 | 06 - 14 - 17 - 26 - 50 - 52 Cont -> 1 
+analisando jogo 0527 | 08 - 12 - 28 - 31 - 34 - 37 Cont -> 2 
+analisando jogo 0528 | 01 - 13 - 33 - 38 - 45 - 56
+analisando jogo 0529 | 01 - 06 - 21 - 25 - 32 - 49 Cont -> 2 
+analisando jogo 0530 | 01 - 03 - 07 - 18 - 35 - 50 Cont -> 2 
+analisando jogo 0531 | 04 - 09 - 12 - 13 - 52 - 53 Cont -> 1 
+analisando jogo 0532 | 13 - 18 - 21 - 27 - 53 - 59 Cont -> 4 
+analisando jogo 0533 | 03 - 08 - 23 - 31 - 48 - 57 Cont -> 1 
+analisando jogo 0534 | 06 - 14 - 28 - 47 - 49 - 56
+analisando jogo 0535 | 14 - 15 - 22 - 23 - 25 - 37 Cont -> 2 
+analisando jogo 0536 | 03 - 07 - 19 - 34 - 37 - 39 Cont -> 2 
+analisando jogo 0537 | 03 - 25 - 43 - 45 - 52 - 56 Cont -> 3 
+analisando jogo 0538 | 06 - 16 - 19 - 47 - 50 - 55 Cont -> 1 
+analisando jogo 0539 | 04 - 22 - 28 - 30 - 44 - 49
+analisando jogo 0540 | 13 - 27 - 49 - 52 - 57 - 58 Cont -> 2 
+analisando jogo 0541 | 04 - 06 - 19 - 28 - 35 - 49 Cont -> 6 
+analisando jogo 0542 | 35 - 37 - 42 - 46 - 49 - 54 Cont -> 4 
+analisando jogo 0543 | 11 - 17 - 33 - 34 - 47 - 56
+analisando jogo 0544 | 17 - 29 - 35 - 40 - 43 - 57 Cont -> 3 
+analisando jogo 0545 | 04 - 05 - 13 - 17 - 46 - 54 Cont -> 4 
+analisando jogo 0546 | 04 - 13 - 28 - 30 - 53 - 59 Cont -> 2 
+analisando jogo 0547 | 14 - 47 - 49 - 51 - 58 - 59 Cont -> 1 
+analisando jogo 0548 | 08 - 13 - 22 - 46 - 51 - 58 Cont -> 5 
+analisando jogo 0549 | 16 - 17 - 38 - 39 - 45 - 56
+analisando jogo 0550 | 12 - 21 - 46 - 48 - 56 - 57 Cont -> 2 
+analisando jogo 0551 | 09 - 22 - 47 - 49 - 52 - 54 Cont -> 1 
+analisando jogo 0552 | 04 - 43 - 46 - 53 - 54 - 58 Cont -> 2 
+analisando jogo 0553 | 15 - 29 - 31 - 42 - 47 - 60 Cont -> 1 
+analisando jogo 0554 | 05 - 23 - 31 - 33 - 45 - 49 Cont -> 2 
+analisando jogo 0555 | 08 - 10 - 17 - 30 - 33 - 45 Cont -> 2 
+analisando jogo 0556 | 08 - 12 - 18 - 23 - 38 - 49 Cont -> 3 
+analisando jogo 0557 | 07 - 14 - 31 - 57 - 58 - 59 Cont -> 1 
+analisando jogo 0558 | 06 - 13 - 17 - 25 - 36 - 53 Cont -> 1 
+analisando jogo 0559 | 02 - 11 - 18 - 30 - 32 - 58 Cont -> 2 
+analisando jogo 0560 | 01 - 20 - 36 - 39 - 49 - 55 Cont -> 1 
+analisando jogo 0561 | 16 - 23 - 35 - 37 - 55 - 57 Cont -> 1 
+analisando jogo 0562 | 05 - 08 - 23 - 34 - 44 - 51 Cont -> 1 
+analisando jogo 0563 | 10 - 13 - 20 - 32 - 38 - 49 Cont -> 2 
+analisando jogo 0564 | 07 - 31 - 34 - 35 - 37 - 45 Cont -> 3 
+analisando jogo 0565 | 06 - 13 - 17 - 18 - 20 - 37 Cont -> 3 
+analisando jogo 0566 | 11 - 31 - 38 - 41 - 57 - 58 Cont -> 2 
+analisando jogo 0567 | 13 - 17 - 22 - 25 - 29 - 41 Cont -> 3 
+analisando jogo 0568 | 03 - 09 - 14 - 15 - 32 - 57 Cont -> 1 
+analisando jogo 0569 | 15 - 32 - 33 - 35 - 36 - 51 Cont -> 2 
+analisando jogo 0570 | 12 - 13 - 14 - 31 - 50 - 51 Cont -> 3 
+analisando jogo 0571 | 03 - 09 - 16 - 20 - 33 - 60 Cont -> 3 
+analisando jogo 0572 | 06 - 17 - 22 - 29 - 40 - 59
+analisando jogo 0573 | 02 - 10 - 17 - 23 - 32 - 44 Cont -> 1 
+analisando jogo 0574 | 05 - 18 - 21 - 29 - 35 - 48 Cont -> 1 
+analisando jogo 0575 | 07 - 08 - 18 - 39 - 43 - 52 Cont -> 1 
+analisando jogo 0576 | 08 - 23 - 24 - 28 - 31 - 47 Cont -> 2 
+analisando jogo 0577 | 03 - 18 - 23 - 48 - 56 - 58 Cont -> 4 
+analisando jogo 0578 | 04 - 09 - 15 - 17 - 34 - 39 Cont -> 1 
+analisando jogo 0579 | 15 - 16 - 18 - 28 - 38 - 47 Cont -> 4 
+analisando jogo 0580 | 14 - 17 - 25 - 30 - 39 - 52 Cont -> 2 
+analisando jogo 0581 | 13 - 29 - 40 - 45 - 51 - 59
+analisando jogo 0582 | 06 - 07 - 20 - 41 - 43 - 55
+analisando jogo 0583 | 07 - 08 - 23 - 30 - 32 - 53 Cont -> 2 
+analisando jogo 0584 | 12 - 24 - 33 - 36 - 39 - 57
+analisando jogo 0585 | 11 - 13 - 38 - 39 - 45 - 54 Cont -> 1 
+analisando jogo 0586 | 02 - 18 - 29 - 30 - 36 - 60 Cont -> 2 
+analisando jogo 0587 | 11 - 13 - 45 - 46 - 53 - 55 Cont -> 3 
+analisando jogo 0588 | 06 - 07 - 08 - 13 - 33 - 59 Cont -> 2 
+analisando jogo 0589 | 04 - 05 - 18 - 25 - 28 - 51 Cont -> 1 
+analisando jogo 0590 | 01 - 03 - 18 - 34 - 50 - 58 Cont -> 1 
+analisando jogo 0591 | 13 - 14 - 42 - 47 - 55 - 59 Cont -> 2 
+analisando jogo 0592 | 01 - 25 - 27 - 29 - 49 - 59 Cont -> 3 
+analisando jogo 0593 | 10 - 13 - 29 - 47 - 53 - 55 Cont -> 4 
+analisando jogo 0594 | 01 - 02 - 25 - 43 - 50 - 54 Cont -> 2 
+analisando jogo 0595 | 11 - 14 - 28 - 43 - 54 - 60 Cont -> 2 
+analisando jogo 0596 | 22 - 27 - 29 - 40 - 42 - 56 Cont -> 1 
+analisando jogo 0597 | 05 - 16 - 34 - 38 - 50 - 53 Cont -> 1 
+analisando jogo 0598 | 04 - 06 - 09 - 23 - 45 - 51
+analisando jogo 0599 | 16 - 18 - 31 - 34 - 39 - 54 Cont -> 2 
+analisando jogo 0600 | 10 - 19 - 22 - 29 - 30 - 37
+analisando jogo 0601 | 07 - 13 - 38 - 46 - 55 - 60
+analisando jogo 0602 | 04 - 08 - 11 - 12 - 29 - 44 Cont -> 1 
+analisando jogo 0603 | 15 - 25 - 41 - 46 - 49 - 51 Cont -> 1 
+analisando jogo 0604 | 04 - 24 - 44 - 49 - 52 - 53 Cont -> 3 
+analisando jogo 0605 | 06 - 23 - 32 - 35 - 41 - 55 Cont -> 1 
+analisando jogo 0606 | 06 - 11 - 19 - 27 - 41 - 59 Cont -> 3 
+analisando jogo 0607 | 06 - 13 - 19 - 24 - 30 - 37 Cont -> 4 
+analisando jogo 0608 | 02 - 06 - 15 - 58 - 59 - 60 Cont -> 4 
+analisando jogo 0609 | 25 - 30 - 43 - 45 - 47 - 49 Cont -> 1 
+analisando jogo 0610 | 16 - 21 - 22 - 33 - 48 - 49 Cont -> 1 
+analisando jogo 0611 | 15 - 18 - 33 - 50 - 53 - 55 Cont -> 2 
+analisando jogo 0612 | 06 - 13 - 19 - 44 - 54 - 55 Cont -> 1 
+analisando jogo 0613 | 12 - 16 - 31 - 48 - 57 - 60 Cont -> 2 
+analisando jogo 0614 | 05 - 08 - 10 - 27 - 31 - 51 Cont -> 1 
+analisando jogo 0615 | 02 - 12 - 16 - 24 - 26 - 54 Cont -> 3 
+analisando jogo 0616 | 03 - 05 - 25 - 33 - 36 - 49 Cont -> 1 
+analisando jogo 0617 | 03 - 08 - 10 - 13 - 24 - 60 Cont -> 4 
+analisando jogo 0618 | 08 - 12 - 14 - 16 - 19 - 46 Cont -> 3 
+analisando jogo 0619 | 01 - 03 - 13 - 22 - 29 - 32 Cont -> 3 
+analisando jogo 0620 | 26 - 29 - 31 - 49 - 50 - 57 Cont -> 1 
+analisando jogo 0621 | 19 - 27 - 29 - 38 - 50 - 59 Cont -> 4 
+analisando jogo 0622 | 09 - 23 - 30 - 42 - 49 - 55 Cont -> 1 
+analisando jogo 0623 | 08 - 23 - 34 - 39 - 43 - 52 Cont -> 1 
+analisando jogo 0624 | 12 - 24 - 32 - 40 - 42 - 59 Cont -> 2 
+analisando jogo 0625 | 07 - 08 - 18 - 22 - 39 - 49 Cont -> 3 
+analisando jogo 0626 | 01 - 13 - 19 - 45 - 56 - 58
+analisando jogo 0627 | 08 - 16 - 22 - 30 - 56 - 58 Cont -> 4 
+analisando jogo 0628 | 15 - 16 - 39 - 40 - 47 - 51 Cont -> 2 
+analisando jogo 0629 | 12 - 16 - 20 - 45 - 53 - 60 Cont -> 3 
+analisando jogo 0630 | 01 - 20 - 28 - 32 - 44 - 47 Cont -> 2 
+analisando jogo 0631 | 02 - 19 - 28 - 48 - 51 - 54 Cont -> 2 
+analisando jogo 0632 | 05 - 11 - 22 - 27 - 46 - 50
+analisando jogo 0633 | 10 - 13 - 24 - 41 - 42 - 56
+analisando jogo 0634 | 08 - 20 - 26 - 37 - 42 - 49 Cont -> 1 
+analisando jogo 0635 | 26 - 28 - 30 - 32 - 34 - 50 Cont -> 2 
+analisando jogo 0636 | 11 - 18 - 43 - 48 - 52 - 58
+analisando jogo 0637 | 10 - 11 - 36 - 41 - 42 - 50 Cont -> 3 
+analisando jogo 0638 | 13 - 35 - 39 - 45 - 51 - 60
+analisando jogo 0639 | 12 - 19 - 42 - 46 - 59 - 60 Cont -> 2 
+analisando jogo 0640 | 01 - 09 - 13 - 17 - 33 - 34 Cont -> 1 
+analisando jogo 0641 | 17 - 36 - 40 - 44 - 51 - 56 Cont -> 2 
+analisando jogo 0642 | 14 - 24 - 37 - 40 - 42 - 45 Cont -> 2 
+analisando jogo 0643 | 14 - 27 - 29 - 31 - 34 - 57 Cont -> 2 
+analisando jogo 0644 | 03 - 24 - 48 - 52 - 53 - 54 Cont -> 1 
+analisando jogo 0645 | 10 - 13 - 32 - 47 - 49 - 60
+analisando jogo 0646 | 11 - 12 - 14 - 19 - 54 - 56 Cont -> 2 
+analisando jogo 0647 | 05 - 23 - 29 - 42 - 45 - 48 Cont -> 1 
+analisando jogo 0648 | 09 - 24 - 33 - 41 - 48 - 54 Cont -> 2 
+analisando jogo 0649 | 10 - 24 - 25 - 29 - 53 - 59 Cont -> 2 
+analisando jogo 0650 | 26 - 28 - 39 - 45 - 48 - 60 Cont -> 3 
+analisando jogo 0651 | 10 - 18 - 20 - 24 - 56 - 57 Cont -> 3 
+analisando jogo 0652 | 05 - 09 - 19 - 24 - 31 - 34 Cont -> 2 
+analisando jogo 0653 | 06 - 10 - 11 - 40 - 41 - 56 Cont -> 2 
+analisando jogo 0654 | 01 - 26 - 37 - 39 - 43 - 48
+analisando jogo 0655 | 35 - 36 - 37 - 46 - 51 - 59 Cont -> 1 
+analisando jogo 0656 | 16 - 20 - 33 - 58 - 59 - 60 Cont -> 1 
+analisando jogo 0657 | 03 - 06 - 11 - 20 - 36 - 41 Cont -> 2 
+analisando jogo 0658 | 14 - 29 - 34 - 40 - 51 - 52 Cont -> 1 
+analisando jogo 0659 | 05 - 11 - 38 - 46 - 53 - 54 Cont -> 1 
+analisando jogo 0660 | 04 - 27 - 36 - 40 - 42 - 55 Cont -> 2 
+analisando jogo 0661 | 04 - 18 - 23 - 25 - 56 - 60 Cont -> 1 
+analisando jogo 0662 | 01 - 27 - 30 - 49 - 51 - 55 Cont -> 2 
+analisando jogo 0663 | 01 - 12 - 36 - 38 - 55 - 59 Cont -> 4 
+analisando jogo 0664 | 07 - 08 - 18 - 25 - 47 - 48 Cont -> 2 
+analisando jogo 0665 | 07 - 16 - 26 - 29 - 45 - 55 Cont -> 3 
+analisando jogo 0666 | 01 - 04 - 05 - 16 - 23 - 49 Cont -> 2 
+analisando jogo 0667 | 01 - 02 - 14 - 33 - 49 - 56 Cont -> 2 
+analisando jogo 0668 | 07 - 24 - 27 - 40 - 41 - 49 Cont -> 3 
+analisando jogo 0669 | 22 - 37 - 42 - 48 - 58 - 59
+analisando jogo 0670 | 09 - 16 - 27 - 38 - 39 - 51 Cont -> 1 
+analisando jogo 0671 | 24 - 28 - 34 - 38 - 43 - 53 Cont -> 2 
+analisando jogo 0672 | 06 - 11 - 20 - 34 - 37 - 40 Cont -> 2 
+analisando jogo 0673 | 18 - 22 - 29 - 32 - 38 - 42 Cont -> 2 
+analisando jogo 0674 | 24 - 25 - 30 - 42 - 43 - 50 Cont -> 3 
+analisando jogo 0675 | 09 - 15 - 32 - 41 - 42 - 49 Cont -> 3 
+analisando jogo 0676 | 08 - 10 - 25 - 32 - 48 - 55 Cont -> 3 
+analisando jogo 0677 | 14 - 31 - 40 - 42 - 44 - 46 Cont -> 2 
+analisando jogo 0678 | 03 - 21 - 25 - 37 - 54 - 58 Cont -> 1 
+analisando jogo 0679 | 02 - 03 - 05 - 22 - 26 - 44 Cont -> 2 
+analisando jogo 0680 | 21 - 25 - 38 - 53 - 58 - 59 Cont -> 3 
+analisando jogo 0681 | 04 - 27 - 36 - 37 - 47 - 60 Cont -> 1 
+analisando jogo 0682 | 02 - 11 - 12 - 35 - 40 - 43 Cont -> 1 
+analisando jogo 0683 | 17 - 19 - 33 - 37 - 40 - 50 Cont -> 2 
+analisando jogo 0684 | 05 - 12 - 27 - 33 - 43 - 56 Cont -> 4 
+analisando jogo 0685 | 04 - 05 - 15 - 26 - 33 - 54 Cont -> 3 
+analisando jogo 0686 | 01 - 07 - 14 - 41 - 48 - 59
+analisando jogo 0687 | 11 - 21 - 30 - 35 - 47 - 52
+analisando jogo 0688 | 06 - 07 - 31 - 49 - 51 - 60 Cont -> 1 
+analisando jogo 0689 | 08 - 12 - 15 - 41 - 47 - 53 Cont -> 2 
+analisando jogo 0690 | 08 - 16 - 37 - 50 - 55 - 58 Cont -> 1 
+analisando jogo 0691 | 11 - 18 - 33 - 57 - 58 - 60 Cont -> 2 
+analisando jogo 0692 | 13 - 14 - 17 - 31 - 41 - 50 Cont -> 2 
+analisando jogo 0693 | 15 - 19 - 29 - 37 - 41 - 53 Cont -> 2 
+analisando jogo 0694 | 06 - 11 - 13 - 21 - 40 - 52 Cont -> 2 
+analisando jogo 0695 | 09 - 16 - 34 - 37 - 53 - 57 Cont -> 2 
+analisando jogo 0696 | 28 - 31 - 32 - 35 - 51 - 53 Cont -> 2 
+analisando jogo 0697 | 08 - 12 - 22 - 27 - 43 - 55
+analisando jogo 0698 | 17 - 23 - 48 - 50 - 53 - 54 Cont -> 2 
+analisando jogo 0699 | 02 - 03 - 14 - 24 - 31 - 40 Cont -> 1 
+analisando jogo 0700 | 01 - 13 - 23 - 31 - 48 - 60 Cont -> 3 
+analisando jogo 0701 | 01 - 18 - 45 - 56 - 57 - 58 Cont -> 1 
+analisando jogo 0702 | 02 - 11 - 24 - 27 - 30 - 45 Cont -> 3 
+analisando jogo 0703 | 02 - 04 - 18 - 27 - 34 - 50 Cont -> 3 
+analisando jogo 0704 | 03 - 11 - 13 - 15 - 26 - 43 Cont -> 1 
+analisando jogo 0705 | 02 - 07 - 10 - 17 - 22 - 60 Cont -> 2 
+analisando jogo 0706 | 01 - 08 - 10 - 36 - 43 - 51 Cont -> 2 
+analisando jogo 0707 | 07 - 09 - 13 - 39 - 45 - 47 Cont -> 2 
+analisando jogo 0708 | 04 - 06 - 09 - 22 - 29 - 44 Cont -> 2 
+analisando jogo 0709 | 05 - 25 - 34 - 39 - 46 - 49 Cont -> 1 
+analisando jogo 0710 | 05 - 10 - 33 - 40 - 41 - 59 Cont -> 1 
+analisando jogo 0711 | 07 - 08 - 35 - 43 - 53 - 58
+analisando jogo 0712 | 01 - 12 - 16 - 26 - 46 - 54 Cont -> 1 
+analisando jogo 0713 | 07 - 08 - 17 - 35 - 39 - 53 Cont -> 4 
+analisando jogo 0714 | 04 - 12 - 24 - 33 - 36 - 54 Cont -> 2 
+analisando jogo 0715 | 02 - 07 - 16 - 29 - 32 - 50 Cont -> 2 
+analisando jogo 0716 | 06 - 17 - 23 - 28 - 35 - 41 Cont -> 2 
+analisando jogo 0717 | 07 - 21 - 33 - 35 - 39 - 58 Cont -> 3 
+analisando jogo 0718 | 03 - 32 - 37 - 39 - 47 - 53 Cont -> 2 
+analisando jogo 0719 | 12 - 31 - 44 - 51 - 54 - 56
+analisando jogo 0720 | 03 - 14 - 23 - 25 - 36 - 55 Cont -> 1 
+analisando jogo 0721 | 09 - 18 - 36 - 44 - 57 - 60 Cont -> 2 
+analisando jogo 0722 | 01 - 06 - 16 - 36 - 50 - 52 Cont -> 2 
+analisando jogo 0723 | 17 - 27 - 34 - 48 - 51 - 55 Cont -> 1 
+analisando jogo 0724 | 03 - 09 - 35 - 37 - 41 - 49 Cont -> 1 
+analisando jogo 0725 | 01 - 05 - 07 - 37 - 40 - 47 Cont -> 2 
+analisando jogo 0726 | 04 - 12 - 14 - 30 - 42 - 59
+analisando jogo 0727 | 08 - 13 - 24 - 32 - 42 - 44 Cont -> 1 
+analisando jogo 0728 | 05 - 18 - 33 - 43 - 56 - 57 Cont -> 1 
+analisando jogo 0729 | 02 - 15 - 16 - 45 - 50 - 54
+analisando jogo 0730 | 06 - 15 - 16 - 23 - 28 - 35 Cont -> 2 
+analisando jogo 0731 | 06 - 17 - 19 - 49 - 50 - 53 Cont -> 2 
+analisando jogo 0732 | 02 - 12 - 26 - 31 - 43 - 46 Cont -> 1 
+analisando jogo 0733 | 27 - 29 - 43 - 44 - 45 - 54 Cont -> 1 
+analisando jogo 0734 | 09 - 15 - 38 - 40 - 42 - 52
+analisando jogo 0735 | 01 - 21 - 38 - 41 - 49 - 56 Cont -> 1 
+analisando jogo 0736 | 11 - 12 - 24 - 32 - 33 - 38 Cont -> 2 
+analisando jogo 0737 | 14 - 15 - 26 - 30 - 42 - 54 Cont -> 2 
+analisando jogo 0738 | 06 - 10 - 35 - 45 - 49 - 56 Cont -> 2 
+analisando jogo 0739 | 12 - 16 - 28 - 29 - 47 - 50 Cont -> 1 
+analisando jogo 0740 | 24 - 26 - 27 - 36 - 39 - 59 Cont -> 1 
+analisando jogo 0741 | 02 - 07 - 17 - 34 - 41 - 50 Cont -> 1 
+analisando jogo 0742 | 20 - 23 - 25 - 32 - 54 - 60
+analisando jogo 0743 | 04 - 12 - 23 - 26 - 39 - 46 Cont -> 3 
+analisando jogo 0744 | 02 - 16 - 21 - 37 - 43 - 57 Cont -> 1 
+analisando jogo 0745 | 01 - 10 - 12 - 25 - 49 - 57 Cont -> 3 
+analisando jogo 0746 | 02 - 03 - 12 - 21 - 23 - 56 Cont -> 5 
+analisando jogo 0747 | 01 - 02 - 07 - 19 - 35 - 51 Cont -> 3 
+analisando jogo 0748 | 04 - 24 - 47 - 48 - 50 - 57 Cont -> 1 
+analisando jogo 0749 | 10 - 17 - 33 - 42 - 54 - 58
+analisando jogo 0750 | 04 - 07 - 20 - 25 - 38 - 50 Cont -> 3 
+analisando jogo 0751 | 04 - 23 - 24 - 25 - 29 - 42 Cont -> 5 
+analisando jogo 0752 | 02 - 07 - 22 - 35 - 43 - 59 Cont -> 1 
+analisando jogo 0753 | 03 - 04 - 13 - 34 - 42 - 50 Cont -> 4 
+analisando jogo 0754 | 04 - 12 - 30 - 47 - 49 - 59 Cont -> 3 
+analisando jogo 0755 | 05 - 27 - 37 - 38 - 41 - 50 Cont -> 1 
+analisando jogo 0756 | 12 - 17 - 18 - 30 - 32 - 58 Cont -> 2 
+analisando jogo 0757 | 01 - 23 - 36 - 43 - 47 - 59 Cont -> 2 
+analisando jogo 0758 | 30 - 31 - 39 - 45 - 48 - 59 Cont -> 2 
+analisando jogo 0759 | 12 - 17 - 44 - 45 - 46 - 60 Cont -> 3 
+analisando jogo 0760 | 13 - 17 - 27 - 29 - 40 - 56 Cont -> 1 
+analisando jogo 0761 | 09 - 12 - 21 - 37 - 39 - 54 Cont -> 2 
+analisando jogo 0762 | 01 - 09 - 26 - 40 - 47 - 48 Cont -> 2 
+analisando jogo 0763 | 03 - 07 - 45 - 47 - 53 - 55 Cont -> 1 
+analisando jogo 0764 | 03 - 10 - 16 - 30 - 37 - 50 Cont -> 2 
+analisando jogo 0765 | 01 - 19 - 24 - 42 - 50 - 58 Cont -> 2 
+analisando jogo 0766 | 15 - 22 - 32 - 38 - 50 - 54 Cont -> 2 
+analisando jogo 0767 | 04 - 08 - 30 - 33 - 37 - 59 Cont -> 2 
+analisando jogo 0768 | 12 - 16 - 20 - 21 - 29 - 50 Cont -> 2 
+analisando jogo 0769 | 04 - 12 - 25 - 34 - 35 - 48 Cont -> 2 
+analisando jogo 0770 | 14 - 21 - 29 - 34 - 46 - 47 Cont -> 3 
+analisando jogo 0771 | 10 - 35 - 38 - 51 - 52 - 60 Cont -> 1 
+analisando jogo 0772 | 03 - 05 - 14 - 29 - 34 - 51 Cont -> 5 
+analisando jogo 0773 | 05 - 10 - 37 - 46 - 54 - 58 Cont -> 3 
+analisando jogo 0774 | 12 - 27 - 42 - 46 - 47 - 50 Cont -> 1 
+analisando jogo 0775 | 03 - 15 - 35 - 41 - 57 - 60 Cont -> 1 
+analisando jogo 0776 | 02 - 14 - 23 - 28 - 50 - 56 Cont -> 1 
+analisando jogo 0777 | 20 - 31 - 36 - 37 - 45 - 51
+analisando jogo 0778 | 25 - 26 - 29 - 36 - 52 - 54 Cont -> 1 
+analisando jogo 0779 | 07 - 10 - 28 - 50 - 51 - 59 Cont -> 3 
+analisando jogo 0780 | 08 - 10 - 13 - 39 - 54 - 56 Cont -> 2 
+analisando jogo 0781 | 02 - 11 - 23 - 35 - 42 - 59 Cont -> 1 
+analisando jogo 0782 | 04 - 08 - 21 - 32 - 43 - 48 Cont -> 1 
+analisando jogo 0783 | 08 - 27 - 37 - 42 - 53 - 56 Cont -> 4 
+analisando jogo 0784 | 05 - 08 - 17 - 35 - 37 - 48 Cont -> 5 
+analisando jogo 0785 | 10 - 11 - 26 - 27 - 31 - 41 Cont -> 1 
+analisando jogo 0786 | 20 - 31 - 34 - 37 - 54 - 60 Cont -> 3 
+analisando jogo 0787 | 17 - 19 - 29 - 31 - 44 - 57 Cont -> 3 
+analisando jogo 0788 | 06 - 31 - 38 - 39 - 50 - 60 Cont -> 4 
+analisando jogo 0789 | 02 - 06 - 19 - 22 - 28 - 43 Cont -> 2 
+analisando jogo 0790 | 09 - 14 - 19 - 35 - 42 - 58 Cont -> 2 
+analisando jogo 0791 | 09 - 29 - 34 - 43 - 45 - 56 Cont -> 2 
+analisando jogo 0792 | 03 - 15 - 16 - 33 - 51 - 57
+analisando jogo 0793 | 03 - 38 - 42 - 47 - 55 - 56 Cont -> 3 
+analisando jogo 0794 | 14 - 21 - 26 - 29 - 36 - 48 Cont -> 1 
+analisando jogo 0795 | 05 - 19 - 24 - 34 - 39 - 43
+analisando jogo 0796 | 06 - 12 - 47 - 48 - 52 - 58 Cont -> 2 
+analisando jogo 0797 | 03 - 04 - 09 - 29 - 32 - 52 Cont -> 2 
+analisando jogo 0798 | 19 - 29 - 35 - 42 - 55 - 57 Cont -> 2 
+analisando jogo 0799 | 01 - 07 - 11 - 37 - 38 - 56
+analisando jogo 0800 | 11 - 19 - 20 - 22 - 42 - 48 Cont -> 3 
+analisando jogo 0801 | 06 - 14 - 18 - 24 - 48 - 60 Cont -> 1 
+analisando jogo 0802 | 03 - 05 - 10 - 21 - 28 - 57
+analisando jogo 0803 | 03 - 13 - 37 - 47 - 56 - 59 Cont -> 1 
+analisando jogo 0804 | 02 - 30 - 36 - 43 - 48 - 60 Cont -> 2 
+analisando jogo 0805 | 18 - 26 - 35 - 41 - 47 - 60 Cont -> 2 
+analisando jogo 0806 | 02 - 08 - 27 - 32 - 49 - 56 Cont -> 2 
+analisando jogo 0807 | 02 - 15 - 21 - 31 - 46 - 57 Cont -> 2 
+analisando jogo 0808 | 05 - 11 - 15 - 23 - 25 - 30 Cont -> 1 
+analisando jogo 0809 | 01 - 04 - 05 - 33 - 37 - 48 Cont -> 1 
+analisando jogo 0810 | 10 - 28 - 32 - 41 - 47 - 57 Cont -> 1 
+analisando jogo 0811 | 11 - 13 - 38 - 39 - 54 - 57 Cont -> 2 
+analisando jogo 0812 | 09 - 15 - 23 - 45 - 46 - 56
+analisando jogo 0813 | 02 - 08 - 11 - 41 - 46 - 50 Cont -> 3 
+analisando jogo 0814 | 09 - 19 - 37 - 39 - 50 - 57 Cont -> 4 
+analisando jogo 0815 | 20 - 21 - 30 - 40 - 47 - 52
+analisando jogo 0816 | 10 - 29 - 30 - 34 - 43 - 52 Cont -> 2 
+analisando jogo 0817 | 08 - 09 - 22 - 25 - 41 - 44 Cont -> 1 
+analisando jogo 0818 | 05 - 19 - 25 - 46 - 51 - 58 Cont -> 1 
+analisando jogo 0819 | 10 - 17 - 21 - 32 - 45 - 46 Cont -> 2 
+analisando jogo 0820 | 04 - 29 - 33 - 36 - 38 - 42
+analisando jogo 0821 | 04 - 10 - 17 - 27 - 41 - 52 Cont -> 3 
+analisando jogo 0822 | 01 - 15 - 26 - 51 - 54 - 59
+analisando jogo 0823 | 06 - 07 - 09 - 20 - 33 - 48 Cont -> 1 
+analisando jogo 0824 | 10 - 21 - 28 - 40 - 41 - 47 Cont -> 2 
+analisando jogo 0825 | 06 - 07 - 08 - 27 - 45 - 53 Cont -> 2 
+analisando jogo 0826 | 18 - 24 - 30 - 42 - 51 - 56
+analisando jogo 0827 | 23 - 28 - 38 - 42 - 50 - 53 Cont -> 3 
+analisando jogo 0828 | 10 - 14 - 32 - 47 - 50 - 56 Cont -> 2 
+analisando jogo 0829 | 02 - 13 - 41 - 49 - 51 - 53 Cont -> 2 
+analisando jogo 0830 | 03 - 32 - 33 - 42 - 48 - 50 Cont -> 4 
+analisando jogo 0831 | 15 - 17 - 23 - 33 - 39 - 49 Cont -> 2 
+analisando jogo 0832 | 13 - 16 - 46 - 53 - 57 - 58 Cont -> 2 
+analisando jogo 0833 | 10 - 16 - 17 - 34 - 44 - 51 Cont -> 2 
+analisando jogo 0834 | 18 - 31 - 33 - 49 - 57 - 58 Cont -> 4 
+analisando jogo 0835 | 17 - 22 - 28 - 38 - 52 - 59 Cont -> 1 
+analisando jogo 0836 | 05 - 06 - 16 - 24 - 34 - 60 Cont -> 2 
+analisando jogo 0837 | 09 - 23 - 30 - 38 - 44 - 47 Cont -> 1 
+analisando jogo 0838 | 07 - 08 - 11 - 18 - 37 - 43
+analisando jogo 0839 | 17 - 29 - 31 - 35 - 43 - 59 Cont -> 1 
+analisando jogo 0840 | 07 - 22 - 32 - 36 - 38 - 51 Cont -> 2 
+analisando jogo 0841 | 07 - 09 - 30 - 44 - 51 - 60 Cont -> 3 
+analisando jogo 0842 | 01 - 16 - 34 - 36 - 45 - 48 Cont -> 1 
+analisando jogo 0843 | 16 - 24 - 34 - 44 - 54 - 57 Cont -> 3 
+analisando jogo 0844 | 14 - 19 - 20 - 40 - 48 - 52 Cont -> 1 
+analisando jogo 0845 | 02 - 03 - 44 - 47 - 50 - 54 Cont -> 2 
+analisando jogo 0846 | 14 - 15 - 27 - 42 - 44 - 48 Cont -> 4 
+analisando jogo 0847 | 17 - 27 - 32 - 34 - 47 - 56 Cont -> 2 
+analisando jogo 0848 | 08 - 09 - 39 - 44 - 49 - 58 Cont -> 2 
+analisando jogo 0849 | 07 - 22 - 25 - 44 - 59 - 60 Cont -> 2 
+analisando jogo 0850 | 03 - 16 - 19 - 32 - 35 - 58 Cont -> 2 
+analisando jogo 0851 | 06 - 14 - 23 - 34 - 38 - 44 Cont -> 2 
+analisando jogo 0852 | 30 - 38 - 46 - 51 - 56 - 59 Cont -> 2 
+analisando jogo 0853 | 03 - 17 - 24 - 25 - 27 - 44 Cont -> 2 
+analisando jogo 0854 | 03 - 24 - 31 - 42 - 43 - 53 Cont -> 2 
+analisando jogo 0855 | 11 - 15 - 40 - 41 - 42 - 47 Cont -> 1 
+analisando jogo 0856 | 02 - 03 - 17 - 49 - 50 - 59 Cont -> 3 
+analisando jogo 0857 | 04 - 18 - 23 - 31 - 37 - 54 Cont -> 1 
+analisando jogo 0858 | 09 - 12 - 34 - 46 - 47 - 57 Cont -> 1 
+analisando jogo 0859 | 02 - 08 - 17 - 22 - 42 - 44 Cont -> 2 
+analisando jogo 0860 | 39 - 40 - 42 - 47 - 59 - 60 Cont -> 2 
+analisando jogo 0861 | 02 - 08 - 11 - 12 - 19 - 35 Cont -> 3 
+analisando jogo 0862 | 15 - 24 - 32 - 50 - 53 - 57
+analisando jogo 0863 | 08 - 11 - 31 - 33 - 42 - 57 Cont -> 4 
+analisando jogo 0864 | 23 - 26 - 27 - 41 - 51 - 53 Cont -> 1 
+analisando jogo 0865 | 05 - 27 - 36 - 40 - 46 - 48 Cont -> 1 
+analisando jogo 0866 | 10 - 19 - 26 - 28 - 44 - 54 Cont -> 1 
+analisando jogo 0867 | 21 - 22 - 25 - 40 - 51 - 57 Cont -> 2 
+analisando jogo 0868 | 27 - 29 - 42 - 49 - 50 - 51 Cont -> 2 
+analisando jogo 0869 | 08 - 21 - 34 - 40 - 43 - 52 Cont -> 2 
+analisando jogo 0870 | 01 - 05 - 10 - 17 - 47 - 58
+analisando jogo 0871 | 05 - 18 - 31 - 43 - 55 - 58 Cont -> 3 
+analisando jogo 0872 | 04 - 19 - 30 - 34 - 57 - 59 Cont -> 1 
+analisando jogo 0873 | 10 - 20 - 42 - 44 - 52 - 59 Cont -> 2 
+analisando jogo 0874 | 18 - 20 - 24 - 36 - 53 - 58 Cont -> 3 
+analisando jogo 0875 | 04 - 08 - 12 - 41 - 45 - 60 Cont -> 1 
+analisando jogo 0876 | 13 - 15 - 20 - 28 - 31 - 36 Cont -> 3 
+analisando jogo 0877 | 11 - 12 - 37 - 38 - 43 - 54 Cont -> 1 
+analisando jogo 0878 | 10 - 28 - 29 - 35 - 42 - 46 Cont -> 1 
+analisando jogo 0879 | 25 - 30 - 37 - 46 - 49 - 51 Cont -> 2 
+analisando jogo 0880 | 04 - 18 - 24 - 43 - 51 - 56 Cont -> 2 
+analisando jogo 0881 | 17 - 41 - 42 - 44 - 45 - 60 Cont -> 1 
+analisando jogo 0882 | 21 - 32 - 37 - 52 - 53 - 60 Cont -> 2 
+analisando jogo 0883 | 02 - 11 - 12 - 14 - 22 - 39
+analisando jogo 0884 | 04 - 13 - 31 - 33 - 47 - 51
+analisando jogo 0885 | 17 - 33 - 37 - 50 - 55 - 59 Cont -> 2 
+analisando jogo 0886 | 01 - 12 - 21 - 32 - 34 - 44 Cont -> 1 
+analisando jogo 0887 | 24 - 40 - 50 - 52 - 54 - 60 Cont -> 1 
+analisando jogo 0888 | 20 - 24 - 34 - 39 - 54 - 60 Cont -> 4 
+analisando jogo 0889 | 07 - 09 - 17 - 21 - 22 - 54 Cont -> 3 
+analisando jogo 0890 | 15 - 16 - 19 - 22 - 34 - 35 Cont -> 2 
+analisando jogo 0891 | 01 - 19 - 42 - 44 - 49 - 52 Cont -> 1 
+analisando jogo 0892 | 03 - 18 - 26 - 51 - 53 - 56
+analisando jogo 0893 | 20 - 24 - 28 - 37 - 41 - 44 Cont -> 1 
+analisando jogo 0894 | 02 - 41 - 43 - 55 - 57 - 58 Cont -> 1 
+analisando jogo 0895 | 05 - 11 - 22 - 31 - 35 - 41 Cont -> 2 
+analisando jogo 0896 | 07 - 21 - 22 - 43 - 46 - 57 Cont -> 3 
+analisando jogo 0897 | 03 - 04 - 08 - 30 - 45 - 54
+analisando jogo 0898 | 18 - 20 - 36 - 53 - 54 - 58 Cont -> 1 
+analisando jogo 0899 | 04 - 18 - 21 - 34 - 38 - 59 Cont -> 3 
+analisando jogo 0900 | 13 - 16 - 32 - 33 - 34 - 56 Cont -> 1 
+analisando jogo 0901 | 18 - 23 - 50 - 52 - 55 - 58 Cont -> 3 
+analisando jogo 0902 | 05 - 17 - 20 - 32 - 41 - 55 Cont -> 2 
+analisando jogo 0903 | 32 - 44 - 48 - 51 - 53 - 59 Cont -> 2 
+analisando jogo 0904 | 02 - 04 - 15 - 16 - 55 - 57 Cont -> 2 
+analisando jogo 0905 | 07 - 14 - 24 - 29 - 35 - 39
+analisando jogo 0906 | 09 - 36 - 37 - 41 - 51 - 53 Cont -> 2 
+analisando jogo 0907 | 01 - 09 - 19 - 25 - 50 - 52 Cont -> 1 
+analisando jogo 0908 | 17 - 22 - 26 - 28 - 38 - 42
+analisando jogo 0909 | 03 - 15 - 27 - 29 - 36 - 53 Cont -> 2 
+analisando jogo 0910 | 01 - 06 - 28 - 29 - 46 - 49 Cont -> 3 
+analisando jogo 0911 | 04 - 19 - 21 - 26 - 29 - 54 Cont -> 3 
+analisando jogo 0912 | 14 - 30 - 36 - 38 - 46 - 59 Cont -> 2 
+analisando jogo 0913 | 09 - 12 - 23 - 33 - 45 - 51
+analisando jogo 0914 | 17 - 20 - 26 - 28 - 48 - 49 Cont -> 1 
+analisando jogo 0915 | 05 - 28 - 33 - 36 - 37 - 38 Cont -> 4 
+analisando jogo 0916 | 23 - 25 - 30 - 46 - 47 - 59 Cont -> 1 
+analisando jogo 0917 | 04 - 08 - 12 - 38 - 44 - 52 Cont -> 1 
+analisando jogo 0918 | 03 - 25 - 31 - 41 - 43 - 60 Cont -> 1 
+analisando jogo 0919 | 05 - 17 - 24 - 52 - 55 - 57 Cont -> 1 
+analisando jogo 0920 | 01 - 09 - 35 - 41 - 48 - 57 Cont -> 2 
+analisando jogo 0921 | 12 - 13 - 19 - 41 - 45 - 49 Cont -> 2 
+analisando jogo 0922 | 02 - 15 - 39 - 50 - 53 - 57 Cont -> 2 
+analisando jogo 0923 | 02 - 20 - 21 - 27 - 51 - 60 Cont -> 1 
+analisando jogo 0924 | 08 - 22 - 36 - 37 - 46 - 52
+analisando jogo 0925 | 21 - 33 - 34 - 40 - 41 - 59 Cont -> 1 
+analisando jogo 0926 | 19 - 23 - 26 - 31 - 33 - 36 Cont -> 2 
+analisando jogo 0927 | 04 - 10 - 32 - 33 - 49 - 60 Cont -> 2 
+analisando jogo 0928 | 16 - 27 - 35 - 39 - 49 - 57 Cont -> 1 
+analisando jogo 0929 | 20 - 28 - 37 - 46 - 49 - 55 Cont -> 2 
+analisando jogo 0930 | 07 - 17 - 19 - 34 - 36 - 39 Cont -> 1 
+analisando jogo 0931 | 02 - 17 - 21 - 36 - 42 - 53 Cont -> 2 
+analisando jogo 0932 | 08 - 14 - 25 - 39 - 45 - 51 Cont -> 1 
+analisando jogo 0933 | 01 - 03 - 21 - 25 - 44 - 48 Cont -> 2 
+analisando jogo 0934 | 07 - 13 - 18 - 29 - 31 - 45 Cont -> 1 
+analisando jogo 0935 | 05 - 14 - 22 - 29 - 33 - 44 Cont -> 3 
+analisando jogo 0936 | 02 - 21 - 22 - 30 - 41 - 52 Cont -> 2 
+analisando jogo 0937 | 15 - 27 - 35 - 50 - 57 - 59
+analisando jogo 0938 | 06 - 19 - 23 - 37 - 49 - 50 Cont -> 1 
+analisando jogo 0939 | 05 - 25 - 31 - 33 - 37 - 51 Cont -> 1 
+analisando jogo 0940 | 10 - 11 - 15 - 27 - 53 - 60 Cont -> 2 
+analisando jogo 0941 | 05 - 08 - 18 - 42 - 52 - 59 Cont -> 1 
+analisando jogo 0942 | 03 - 12 - 23 - 41 - 47 - 58
+analisando jogo 0943 | 16 - 37 - 43 - 52 - 58 - 59 Cont -> 3 
+analisando jogo 0944 | 04 - 08 - 27 - 44 - 54 - 59 Cont -> 3 
+analisando jogo 0945 | 01 - 05 - 12 - 47 - 52 - 59 Cont -> 5 
+analisando jogo 0946 | 03 - 05 - 11 - 14 - 33 - 58 Cont -> 2 
+analisando jogo 0947 | 22 - 41 - 44 - 46 - 52 - 54 Cont -> 3 
+analisando jogo 0948 | 01 - 23 - 41 - 44 - 51 - 52 Cont -> 5 
+analisando jogo 0949 | 23 - 41 - 42 - 48 - 49 - 59 Cont -> 3 
+analisando jogo 0950 | 14 - 24 - 34 - 39 - 49 - 55 Cont -> 1 
+analisando jogo 0951 | 02 - 11 - 18 - 27 - 30 - 54
+analisando jogo 0952 | 01 - 16 - 39 - 42 - 48 - 55 Cont -> 4 
+analisando jogo 0953 | 05 - 08 - 18 - 24 - 33 - 57 Cont -> 2 
+analisando jogo 0954 | 05 - 12 - 21 - 32 - 33 - 35 Cont -> 2 
+analisando jogo 0955 | 46 - 47 - 51 - 54 - 57 - 59 Cont -> 1 
+analisando jogo 0956 | 24 - 25 - 32 - 34 - 50 - 57 Cont -> 4 
+analisando jogo 0957 | 07 - 13 - 22 - 33 - 48 - 51 Cont -> 2 
+analisando jogo 0958 | 03 - 05 - 11 - 33 - 39 - 57 Cont -> 3 
+analisando jogo 0959 | 06 - 18 - 19 - 33 - 34 - 53 Cont -> 3 
+analisando jogo 0960 | 02 - 04 - 16 - 21 - 36 - 53 Cont -> 1 
+analisando jogo 0961 | 02 - 11 - 40 - 48 - 49 - 55 Cont -> 2 
+analisando jogo 0962 | 15 - 17 - 37 - 48 - 50 - 59 Cont -> 1 
+analisando jogo 0963 | 08 - 13 - 20 - 26 - 33 - 42
+analisando jogo 0964 | 05 - 30 - 36 - 39 - 57 - 58
+analisando jogo 0965 | 01 - 04 - 26 - 28 - 41 - 58 Cont -> 2 
+analisando jogo 0966 | 05 - 13 - 14 - 18 - 30 - 57 Cont -> 4 
+analisando jogo 0967 | 01 - 04 - 13 - 30 - 51 - 60 Cont -> 5 
+analisando jogo 0968 | 13 - 25 - 35 - 41 - 50 - 56 Cont -> 3 
+analisando jogo 0969 | 05 - 21 - 28 - 34 - 54 - 57 Cont -> 2 
+analisando jogo 0970 | 04 - 11 - 14 - 33 - 44 - 45 Cont -> 1 
+analisando jogo 0971 | 15 - 18 - 31 - 33 - 34 - 56 Cont -> 3 
+analisando jogo 0972 | 01 - 08 - 30 - 36 - 47 - 53
+analisando jogo 0973 | 12 - 16 - 20 - 31 - 38 - 45 Cont -> 2 
+analisando jogo 0974 | 09 - 30 - 33 - 37 - 40 - 41 Cont -> 2 
+analisando jogo 0975 | 14 - 23 - 25 - 28 - 38 - 53 Cont -> 2 
+analisando jogo 0976 | 03 - 05 - 07 - 09 - 17 - 32 Cont -> 1 
+analisando jogo 0977 | 12 - 16 - 18 - 27 - 42 - 58
+analisando jogo 0978 | 03 - 15 - 28 - 31 - 39 - 51 Cont -> 2 
+analisando jogo 0979 | 15 - 17 - 29 - 35 - 36 - 59 Cont -> 2 
+analisando jogo 0980 | 01 - 08 - 34 - 41 - 53 - 58 Cont -> 1 
+analisando jogo 0981 | 08 - 12 - 24 - 40 - 43 - 49 Cont -> 1 
+analisando jogo 0982 | 16 - 22 - 32 - 38 - 40 - 45 Cont -> 1 
+analisando jogo 0983 | 04 - 10 - 20 - 43 - 46 - 47 Cont -> 1 
+analisando jogo 0984 | 04 - 16 - 18 - 46 - 56 - 59 Cont -> 3 
+analisando jogo 0985 | 06 - 15 - 19 - 24 - 31 - 32 Cont -> 1 
+analisando jogo 0986 | 13 - 27 - 31 - 34 - 47 - 58 Cont -> 2 
+analisando jogo 0987 | 08 - 17 - 46 - 48 - 56 - 60 Cont -> 2 
+analisando jogo 0988 | 02 - 21 - 27 - 29 - 32 - 38 Cont -> 2 
+analisando jogo 0989 | 02 - 10 - 15 - 18 - 29 - 39 Cont -> 2 
+analisando jogo 0990 | 08 - 09 - 15 - 38 - 41 - 60 Cont -> 4 
+analisando jogo 0991 | 01 - 04 - 06 - 08 - 25 - 28 Cont -> 1 
+analisando jogo 0992 | 05 - 24 - 25 - 26 - 42 - 60 Cont -> 2 
+analisando jogo 0993 | 03 - 20 - 29 - 40 - 44 - 58
+analisando jogo 0994 | 04 - 16 - 31 - 36 - 54 - 55 Cont -> 1 
+analisando jogo 0995 | 07 - 15 - 20 - 21 - 23 - 29 Cont -> 2 
+analisando jogo 0996 | 09 - 17 - 18 - 32 - 53 - 55 Cont -> 1 
+analisando jogo 0997 | 03 - 04 - 21 - 22 - 28 - 32 Cont -> 3 
+analisando jogo 0998 | 18 - 24 - 36 - 44 - 55 - 58 Cont -> 2 
+analisando jogo 0999 | 29 - 38 - 39 - 49 - 53 - 58 Cont -> 2 
+analisando jogo 1000 | 12 - 15 - 27 - 37 - 51 - 60
+analisando jogo 1001 | 03 - 07 - 25 - 31 - 40 - 58 Cont -> 2 
+analisando jogo 1002 | 05 - 10 - 16 - 23 - 26 - 27 Cont -> 1 
+analisando jogo 1003 | 29 - 40 - 43 - 44 - 45 - 47 Cont -> 1 
+analisando jogo 1004 | 04 - 06 - 12 - 37 - 41 - 42
+analisando jogo 1005 | 02 - 04 - 17 - 33 - 48 - 55 Cont -> 1 
+analisando jogo 1006 | 04 - 27 - 36 - 37 - 49 - 52 Cont -> 3 
+analisando jogo 1007 | 07 - 13 - 15 - 34 - 42 - 48 Cont -> 2 
+analisando jogo 1008 | 01 - 06 - 12 - 29 - 34 - 58 Cont -> 1 
+analisando jogo 1009 | 02 - 03 - 13 - 37 - 46 - 54 Cont -> 2 
+analisando jogo 1010 | 02 - 11 - 21 - 30 - 35 - 52 Cont -> 1 
+analisando jogo 1011 | 14 - 19 - 40 - 47 - 55 - 58 Cont -> 1 
+analisando jogo 1012 | 07 - 09 - 12 - 19 - 20 - 41 Cont -> 1 
+analisando jogo 1013 | 08 - 09 - 25 - 41 - 57 - 60 Cont -> 2 
+analisando jogo 1014 | 03 - 08 - 17 - 26 - 28 - 49 Cont -> 1 
+analisando jogo 1015 | 05 - 09 - 11 - 20 - 25 - 60 Cont -> 5 
+analisando jogo 1016 | 06 - 19 - 31 - 34 - 51 - 56
+analisando jogo 1017 | 09 - 24 - 44 - 51 - 55 - 58 Cont -> 2 
+analisando jogo 1018 | 04 - 13 - 23 - 29 - 46 - 47
+analisando jogo 1019 | 01 - 02 - 19 - 32 - 39 - 52 Cont -> 1 
+analisando jogo 1020 | 02 - 33 - 42 - 43 - 51 - 55 Cont -> 3 
+analisando jogo 1021 | 05 - 21 - 31 - 39 - 40 - 56 Cont -> 1 
+analisando jogo 1022 | 02 - 07 - 08 - 18 - 40 - 45 Cont -> 3 
+analisando jogo 1023 | 18 - 22 - 28 - 29 - 39 - 53 Cont -> 2 
+analisando jogo 1024 | 10 - 27 - 28 - 29 - 40 - 52 Cont -> 4 
+analisando jogo 1025 | 06 - 10 - 17 - 33 - 51 - 53 Cont -> 2 
+analisando jogo 1026 | 18 - 20 - 33 - 44 - 47 - 60 Cont -> 2 
+analisando jogo 1027 | 20 - 26 - 34 - 51 - 52 - 54 Cont -> 3 
+analisando jogo 1028 | 05 - 16 - 17 - 20 - 24 - 32 Cont -> 3 
+analisando jogo 1029 | 01 - 08 - 23 - 37 - 54 - 57 Cont -> 1 
+analisando jogo 1030 | 24 - 33 - 40 - 43 - 46 - 49 Cont -> 1 
+analisando jogo 1031 | 15 - 16 - 26 - 29 - 43 - 57 Cont -> 3 
+analisando jogo 1032 | 05 - 06 - 17 - 33 - 39 - 54 Cont -> 2 
+analisando jogo 1033 | 01 - 03 - 18 - 20 - 42 - 49 Cont -> 1 
+analisando jogo 1034 | 01 - 11 - 26 - 51 - 59 - 60 Cont -> 2 
+analisando jogo 1035 | 10 - 27 - 36 - 39 - 41 - 52 Cont -> 1 
+analisando jogo 1036 | 04 - 36 - 44 - 46 - 53 - 56 Cont -> 1 
+analisando jogo 1037 | 06 - 07 - 28 - 35 - 43 - 51 Cont -> 1 
+analisando jogo 1038 | 02 - 20 - 24 - 27 - 36 - 52 Cont -> 4 
+analisando jogo 1039 | 01 - 06 - 28 - 39 - 44 - 55 Cont -> 3 
+analisando jogo 1040 | 10 - 12 - 36 - 44 - 54 - 57 Cont -> 2 
+analisando jogo 1041 | 13 - 18 - 25 - 30 - 46 - 51
+analisando jogo 1042 | 14 - 21 - 25 - 48 - 51 - 60 Cont -> 2 
+analisando jogo 1043 | 10 - 11 - 13 - 35 - 39 - 58 Cont -> 2 
+analisando jogo 1044 | 01 - 05 - 06 - 17 - 31 - 50
+analisando jogo 1045 | 28 - 40 - 42 - 54 - 55 - 57
+analisando jogo 1046 | 01 - 02 - 08 - 10 - 14 - 48 Cont -> 2 
+analisando jogo 1047 | 03 - 16 - 21 - 28 - 38 - 57 Cont -> 2 
+analisando jogo 1048 | 02 - 05 - 17 - 29 - 34 - 52 Cont -> 1 
+analisando jogo 1049 | 14 - 24 - 26 - 33 - 45 - 60 Cont -> 1 
+analisando jogo 1050 | 07 - 10 - 11 - 13 - 43 - 57 Cont -> 1 
+analisando jogo 1051 | 08 - 11 - 15 - 16 - 52 - 57 Cont -> 3 
+analisando jogo 1052 | 15 - 27 - 34 - 42 - 49 - 53 Cont -> 1 
+analisando jogo 1053 | 13 - 14 - 18 - 27 - 41 - 60 Cont -> 2 
+analisando jogo 1054 | 12 - 15 - 16 - 20 - 27 - 32 Cont -> 5 
+analisando jogo 1055 | 06 - 08 - 38 - 50 - 53 - 59 Cont -> 1 
+analisando jogo 1056 | 02 - 03 - 04 - 15 - 49 - 59 Cont -> 2 
+analisando jogo 1057 | 18 - 20 - 24 - 45 - 51 - 57 Cont -> 1 
+analisando jogo 1058 | 01 - 12 - 14 - 16 - 37 - 45 Cont -> 1 
+analisando jogo 1059 | 01 - 03 - 16 - 18 - 41 - 42 Cont -> 4 
+analisando jogo 1060 | 09 - 21 - 23 - 30 - 41 - 56 Cont -> 1 
+analisando jogo 1061 | 02 - 08 - 23 - 33 - 37 - 55 Cont -> 2 
+analisando jogo 1062 | 01 - 22 - 44 - 47 - 49 - 50 Cont -> 1 
+analisando jogo 1063 | 04 - 16 - 19 - 28 - 29 - 49 Cont -> 1 
+analisando jogo 1064 | 07 - 19 - 30 - 39 - 43 - 57 Cont -> 1 
+analisando jogo 1065 | 06 - 10 - 25 - 32 - 43 - 49 Cont -> 3 
+analisando jogo 1066 | 04 - 10 - 14 - 25 - 28 - 56 Cont -> 4 
+analisando jogo 1067 | 25 - 27 - 44 - 47 - 48 - 57 Cont -> 3 
+analisando jogo 1068 | 09 - 17 - 28 - 45 - 49 - 53 Cont -> 2 
+analisando jogo 1069 | 05 - 08 - 16 - 23 - 41 - 53 Cont -> 1 
+analisando jogo 1070 | 05 - 07 - 37 - 43 - 53 - 54 Cont -> 3 
+analisando jogo 1071 | 09 - 18 - 19 - 43 - 47 - 54 Cont -> 3 
+analisando jogo 1072 | 08 - 25 - 32 - 34 - 36 - 44 Cont -> 1 
+analisando jogo 1073 | 03 - 10 - 23 - 29 - 47 - 50 Cont -> 1 
+analisando jogo 1074 | 10 - 12 - 16 - 21 - 39 - 53 Cont -> 1 
+analisando jogo 1075 | 04 - 10 - 19 - 32 - 33 - 42 Cont -> 3 
+analisando jogo 1076 | 05 - 06 - 09 - 11 - 18 - 37
+analisando jogo 1077 | 03 - 06 - 34 - 41 - 43 - 45 Cont -> 1 
+analisando jogo 1078 | 05 - 12 - 24 - 28 - 36 - 37 Cont -> 2 
+analisando jogo 1079 | 11 - 18 - 20 - 34 - 41 - 56 Cont -> 4 
+analisando jogo 1080 | 09 - 16 - 24 - 29 - 52 - 56 Cont -> 2 
+analisando jogo 1081 | 04 - 17 - 38 - 40 - 50 - 55
+analisando jogo 1082 | 10 - 20 - 23 - 28 - 42 - 43 Cont -> 1 
+analisando jogo 1083 | 05 - 20 - 29 - 33 - 40 - 59 Cont -> 3 
+analisando jogo 1084 | 12 - 21 - 39 - 40 - 50 - 55 Cont -> 4 
+analisando jogo 1085 | 02 - 04 - 06 - 10 - 23 - 45 Cont -> 2 
+analisando jogo 1086 | 03 - 20 - 28 - 32 - 36 - 46 Cont -> 1 
+analisando jogo 1087 | 06 - 24 - 31 - 35 - 42 - 57 Cont -> 1 
+analisando jogo 1088 | 02 - 18 - 20 - 32 - 37 - 48 Cont -> 3 
+analisando jogo 1089 | 09 - 20 - 24 - 36 - 40 - 42 Cont -> 5 
+analisando jogo 1090 | 17 - 23 - 24 - 27 - 49 - 56 Cont -> 2 
+analisando jogo 1091 | 01 - 09 - 30 - 33 - 34 - 40 Cont -> 2 
+analisando jogo 1092 | 19 - 23 - 27 - 38 - 41 - 49 Cont -> 3 
+analisando jogo 1093 | 09 - 10 - 21 - 36 - 41 - 48 Cont -> 2 
+analisando jogo 1094 | 10 - 16 - 21 - 23 - 27 - 36 Cont -> 5 
+analisando jogo 1095 | 03 - 13 - 14 - 16 - 41 - 52 Cont -> 3 
+analisando jogo 1096 | 01 - 17 - 21 - 33 - 48 - 56 Cont -> 3 
+analisando jogo 1097 | 11 - 20 - 21 - 30 - 50 - 52 Cont -> 3 
+analisando jogo 1098 | 14 - 31 - 35 - 38 - 44 - 55 Cont -> 1 
+analisando jogo 1099 | 07 - 17 - 18 - 33 - 41 - 42 Cont -> 2 
+analisando jogo 1100 | 06 - 07 - 10 - 12 - 24 - 57 Cont -> 1 
+analisando jogo 1101 | 09 - 11 - 23 - 35 - 46 - 51 Cont -> 1 
+analisando jogo 1102 | 10 - 19 - 28 - 41 - 55 - 56 Cont -> 2 
+analisando jogo 1103 | 02 - 03 - 06 - 35 - 49 - 58 Cont -> 2 
+analisando jogo 1104 | 01 - 15 - 28 - 43 - 50 - 57 Cont -> 1 
+analisando jogo 1105 | 04 - 15 - 43 - 47 - 50 - 60 Cont -> 3 
+analisando jogo 1106 | 03 - 09 - 20 - 36 - 53 - 54 Cont -> 1 
+analisando jogo 1107 | 07 - 09 - 39 - 43 - 44 - 60 Cont -> 4 
+analisando jogo 1108 | 06 - 08 - 11 - 14 - 29 - 52
+analisando jogo 1109 | 06 - 14 - 26 - 28 - 42 - 45 Cont -> 2 
+analisando jogo 1110 | 04 - 09 - 25 - 32 - 33 - 43 Cont -> 2 
+analisando jogo 1111 | 04 - 32 - 34 - 43 - 52 - 58 Cont -> 4 
+analisando jogo 1112 | 03 - 06 - 29 - 36 - 47 - 59 Cont -> 1 
+analisando jogo 1113 | 03 - 15 - 16 - 22 - 25 - 54 Cont -> 2 
+analisando jogo 1114 | 18 - 30 - 37 - 41 - 44 - 50
+analisando jogo 1115 | 04 - 09 - 13 - 17 - 20 - 47 Cont -> 1 
+analisando jogo 1116 | 01 - 06 - 17 - 27 - 35 - 40 Cont -> 1 
+analisando jogo 1117 | 08 - 20 - 21 - 43 - 44 - 55 Cont -> 2 
+analisando jogo 1118 | 10 - 34 - 41 - 44 - 45 - 54 Cont -> 1 
+analisando jogo 1119 | 07 - 35 - 40 - 44 - 50 - 55 Cont -> 5 
+analisando jogo 1120 | 04 - 17 - 18 - 54 - 56 - 59 Cont -> 1 
+analisando jogo 1121 | 26 - 44 - 46 - 49 - 55 - 56 Cont -> 4 
+analisando jogo 1122 | 04 - 14 - 19 - 39 - 45 - 60 Cont -> 1 
+analisando jogo 1123 | 07 - 11 - 16 - 18 - 33 - 49 Cont -> 2 
+analisando jogo 1124 | 03 - 07 - 29 - 33 - 42 - 56 Cont -> 3 
+analisando jogo 1125 | 04 - 31 - 42 - 52 - 57 - 59 Cont -> 2 
+analisando jogo 1126 | 05 - 08 - 14 - 24 - 29 - 30 Cont -> 1 
+analisando jogo 1127 | 08 - 16 - 24 - 39 - 52 - 60 Cont -> 3 
+analisando jogo 1128 | 12 - 17 - 19 - 32 - 47 - 55
+analisando jogo 1129 | 05 - 18 - 23 - 32 - 49 - 54 Cont -> 2 
+analisando jogo 1130 | 01 - 08 - 16 - 34 - 36 - 49 Cont -> 3 
+analisando jogo 1131 | 12 - 27 - 30 - 33 - 52 - 55 Cont -> 2 
+analisando jogo 1132 | 05 - 10 - 16 - 21 - 39 - 58 Cont -> 2 
+analisando jogo 1133 | 09 - 22 - 29 - 36 - 51 - 56 Cont -> 1 
+analisando jogo 1134 | 04 - 05 - 06 - 19 - 23 - 39 Cont -> 2 
+analisando jogo 1135 | 07 - 31 - 32 - 34 - 37 - 43
+analisando jogo 1136 | 19 - 21 - 25 - 28 - 43 - 50 Cont -> 2 
+analisando jogo 1137 | 02 - 04 - 15 - 18 - 25 - 36 Cont -> 2 
+analisando jogo 1138 | 09 - 28 - 31 - 36 - 37 - 42 Cont -> 4 
+analisando jogo 1139 | 10 - 27 - 40 - 46 - 49 - 58
+analisando jogo 1140 | 09 - 37 - 40 - 50 - 58 - 60 Cont -> 4 
+analisando jogo 1141 | 03 - 15 - 26 - 28 - 31 - 58 Cont -> 4 
+analisando jogo 1142 | 03 - 30 - 35 - 44 - 47 - 60 Cont -> 2 
+analisando jogo 1143 | 01 - 10 - 18 - 19 - 44 - 49 Cont -> 1 
+analisando jogo 1144 | 03 - 16 - 19 - 24 - 33 - 60 Cont -> 4 
+analisando jogo 1145 | 06 - 10 - 28 - 33 - 34 - 53 Cont -> 2 
+analisando jogo 1146 | 06 - 23 - 31 - 33 - 39 - 52 Cont -> 3 
+analisando jogo 1147 | 27 - 28 - 29 - 32 - 48 - 55 Cont -> 1 
+analisando jogo 1148 | 07 - 08 - 23 - 36 - 46 - 54 Cont -> 1 
+analisando jogo 1149 | 15 - 17 - 28 - 31 - 35 - 52 Cont -> 3 
+analisando jogo 1150 | 01 - 04 - 14 - 21 - 25 - 51
+analisando jogo 1151 | 14 - 20 - 29 - 36 - 44 - 47 Cont -> 2 
+analisando jogo 1152 | 06 - 17 - 19 - 34 - 46 - 55 Cont -> 1 
+analisando jogo 1153 | 04 - 12 - 14 - 21 - 26 - 28 Cont -> 4 
+analisando jogo 1154 | 20 - 28 - 40 - 41 - 51 - 58 Cont -> 2 
+analisando jogo 1155 | 09 - 24 - 31 - 44 - 48 - 49
+analisando jogo 1156 | 09 - 29 - 41 - 43 - 46 - 49 Cont -> 3 
+analisando jogo 1157 | 23 - 30 - 31 - 54 - 55 - 60 Cont -> 1 
+analisando jogo 1158 | 05 - 06 - 34 - 46 - 53 - 55 Cont -> 2 
+analisando jogo 1159 | 01 - 03 - 05 - 18 - 40 - 48 Cont -> 1 
+analisando jogo 1160 | 04 - 07 - 42 - 47 - 48 - 51 Cont -> 1 
+analisando jogo 1161 | 18 - 22 - 25 - 30 - 31 - 41 Cont -> 1 
+analisando jogo 1162 | 05 - 17 - 31 - 47 - 51 - 53 Cont -> 4 
+analisando jogo 1163 | 06 - 14 - 17 - 26 - 40 - 49 Cont -> 1 
+analisando jogo 1164 | 20 - 40 - 42 - 52 - 54 - 60 Cont -> 1 
+analisando jogo 1165 | 22 - 28 - 30 - 31 - 35 - 54 Cont -> 2 
+analisando jogo 1166 | 20 - 28 - 43 - 51 - 52 - 56 Cont -> 3 
+analisando jogo 1167 | 04 - 05 - 20 - 47 - 53 - 56 Cont -> 3 
+analisando jogo 1168 | 01 - 11 - 14 - 23 - 42 - 48
+analisando jogo 1169 | 11 - 13 - 27 - 34 - 46 - 49 Cont -> 1 
+analisando jogo 1170 | 03 - 10 - 13 - 30 - 41 - 57 Cont -> 1 
+analisando jogo 1171 | 06 - 12 - 28 - 43 - 52 - 56
+analisando jogo 1172 | 05 - 07 - 24 - 25 - 36 - 47
+analisando jogo 1173 | 06 - 07 - 39 - 47 - 51 - 52 Cont -> 4 
+analisando jogo 1174 | 02 - 03 - 12 - 16 - 37 - 47 Cont -> 3 
+analisando jogo 1175 | 11 - 14 - 21 - 30 - 33 - 49
+analisando jogo 1176 | 33 - 38 - 47 - 50 - 52 - 55 Cont -> 4 
+analisando jogo 1177 | 01 - 22 - 30 - 45 - 50 - 53 Cont -> 2 
+analisando jogo 1178 | 05 - 22 - 28 - 47 - 59 - 60 Cont -> 2 
+analisando jogo 1179 | 12 - 30 - 34 - 44 - 57 - 60 Cont -> 2 
+analisando jogo 1180 | 18 - 20 - 26 - 31 - 44 - 45 Cont -> 2 
+analisando jogo 1181 | 02 - 04 - 29 - 52 - 56 - 60 Cont -> 2 
+analisando jogo 1182 | 05 - 10 - 12 - 20 - 29 - 37 Cont -> 3 
+analisando jogo 1183 | 04 - 09 - 23 - 27 - 28 - 30 Cont -> 1 
+analisando jogo 1184 | 02 - 10 - 21 - 35 - 43 - 54 Cont -> 2 
+analisando jogo 1185 | 07 - 08 - 12 - 13 - 15 - 41 Cont -> 1 
+analisando jogo 1186 | 08 - 17 - 19 - 40 - 43 - 49 Cont -> 2 
+analisando jogo 1187 | 09 - 20 - 44 - 52 - 59 - 60
+analisando jogo 1188 | 14 - 21 - 27 - 31 - 35 - 50
+analisando jogo 1189 | 10 - 11 - 19 - 37 - 53 - 56 Cont -> 1 
+analisando jogo 1190 | 03 - 11 - 16 - 22 - 25 - 33 Cont -> 1 
+analisando jogo 1191 | 17 - 20 - 49 - 52 - 57 - 59
+analisando jogo 1192 | 02 - 09 - 12 - 14 - 32 - 54
+analisando jogo 1193 | 06 - 13 - 24 - 41 - 50 - 53
+analisando jogo 1194 | 17 - 20 - 26 - 27 - 55 - 57 Cont -> 3 
+analisando jogo 1195 | 03 - 06 - 19 - 20 - 58 - 60 Cont -> 2 
+analisando jogo 1196 | 36 - 37 - 39 - 49 - 54 - 60 Cont -> 1 
+analisando jogo 1197 | 22 - 29 - 36 - 41 - 48 - 58 Cont -> 2 
+analisando jogo 1198 | 16 - 19 - 23 - 28 - 39 - 58 Cont -> 4 
+analisando jogo 1199 | 03 - 10 - 11 - 39 - 54 - 56 Cont -> 3 
+analisando jogo 1200 | 28 - 32 - 36 - 49 - 55 - 60 Cont -> 2 
+analisando jogo 1201 | 08 - 09 - 11 - 48 - 53 - 60 Cont -> 2 
+analisando jogo 1202 | 07 - 09 - 30 - 33 - 38 - 55 Cont -> 2 
+analisando jogo 1203 | 05 - 10 - 25 - 39 - 43 - 52
+analisando jogo 1204 | 04 - 13 - 14 - 26 - 29 - 35
+analisando jogo 1205 | 02 - 06 - 11 - 36 - 37 - 48
+analisando jogo 1206 | 09 - 11 - 22 - 32 - 35 - 56 Cont -> 2 
+analisando jogo 1207 | 01 - 12 - 20 - 26 - 45 - 54 Cont -> 1 
+analisando jogo 1208 | 05 - 14 - 17 - 30 - 35 - 38 Cont -> 1 
+analisando jogo 1209 | 03 - 07 - 09 - 10 - 31 - 34 Cont -> 1 
+analisando jogo 1210 | 03 - 15 - 31 - 36 - 48 - 54 Cont -> 3 
+analisando jogo 1211 | 02 - 23 - 33 - 35 - 40 - 50 Cont -> 1 
+analisando jogo 1212 | 03 - 11 - 26 - 34 - 45 - 53 Cont -> 3 
+analisando jogo 1213 | 05 - 29 - 30 - 36 - 41 - 48 Cont -> 2 
+analisando jogo 1214 | 10 - 25 - 30 - 47 - 50 - 51 Cont -> 2 
+analisando jogo 1215 | 04 - 07 - 13 - 25 - 27 - 58 Cont -> 1 
+analisando jogo 1216 | 05 - 11 - 15 - 28 - 43 - 50 Cont -> 2 
+analisando jogo 1217 | 10 - 23 - 29 - 31 - 33 - 46 Cont -> 1 
+analisando jogo 1218 | 02 - 33 - 34 - 37 - 41 - 53 Cont -> 1 
+analisando jogo 1219 | 05 - 15 - 43 - 48 - 52 - 55 Cont -> 3 
+analisando jogo 1220 | 05 - 14 - 37 - 43 - 46 - 58 Cont -> 4 
+analisando jogo 1221 | 05 - 08 - 19 - 26 - 48 - 57 Cont -> 3 
+analisando jogo 1222 | 15 - 17 - 35 - 42 - 47 - 48 Cont -> 3 
+analisando jogo 1223 | 19 - 21 - 27 - 41 - 53 - 57 Cont -> 2 
+analisando jogo 1224 | 31 - 32 - 34 - 40 - 50 - 55
+analisando jogo 1225 | 10 - 31 - 40 - 50 - 55 - 56 Cont -> 4 
+analisando jogo 1226 | 04 - 28 - 30 - 31 - 35 - 54 Cont -> 2 
+analisando jogo 1227 | 10 - 23 - 36 - 50 - 52 - 60 Cont -> 3 
+analisando jogo 1228 | 12 - 30 - 32 - 40 - 49 - 60 Cont -> 3 
+analisando jogo 1229 | 09 - 12 - 19 - 22 - 35 - 37 Cont -> 2 
+analisando jogo 1230 | 05 - 20 - 23 - 27 - 39 - 49 Cont -> 2 
+analisando jogo 1231 | 08 - 11 - 12 - 15 - 18 - 22 Cont -> 3 
+analisando jogo 1232 | 22 - 29 - 32 - 49 - 54 - 59 Cont -> 3 
+analisando jogo 1233 | 03 - 05 - 19 - 24 - 30 - 35 Cont -> 1 
+analisando jogo 1234 | 10 - 16 - 20 - 26 - 49 - 55 Cont -> 1 
+analisando jogo 1235 | 03 - 08 - 17 - 20 - 38 - 53 Cont -> 2 
+analisando jogo 1236 | 05 - 18 - 21 - 26 - 39 - 59 Cont -> 2 
+analisando jogo 1237 | 13 - 14 - 24 - 39 - 40 - 45 Cont -> 1 
+analisando jogo 1238 | 01 - 15 - 37 - 39 - 48 - 52 Cont -> 2 
+analisando jogo 1239 | 08 - 09 - 12 - 22 - 42 - 49
+analisando jogo 1240 | 10 - 13 - 25 - 26 - 28 - 45 Cont -> 2 
+analisando jogo 1241 | 11 - 34 - 45 - 48 - 51 - 54 Cont -> 2 
+analisando jogo 1242 | 09 - 19 - 23 - 29 - 32 - 57 Cont -> 1 
+analisando jogo 1243 | 02 - 08 - 15 - 25 - 34 - 45 Cont -> 4 
+analisando jogo 1244 | 02 - 10 - 34 - 37 - 43 - 50 Cont -> 3 
+analisando jogo 1245 | 10 - 37 - 40 - 43 - 57 - 59 Cont -> 4 
+analisando jogo 1246 | 03 - 09 - 11 - 24 - 36 - 51
+analisando jogo 1247 | 20 - 33 - 34 - 57 - 58 - 60 Cont -> 2 
+analisando jogo 1248 | 03 - 08 - 36 - 40 - 51 - 53 Cont -> 4 
+analisando jogo 1249 | 01 - 02 - 24 - 40 - 51 - 59 Cont -> 4 
+analisando jogo 1250 | 05 - 27 - 34 - 46 - 48 - 52 Cont -> 1 
+analisando jogo 1251 | 02 - 14 - 35 - 39 - 49 - 51 Cont -> 3 
+analisando jogo 1252 | 02 - 17 - 23 - 43 - 44 - 51 Cont -> 4 
+analisando jogo 1253 | 07 - 09 - 14 - 18 - 29 - 39 Cont -> 2 
+analisando jogo 1254 | 05 - 23 - 38 - 39 - 51 - 54 Cont -> 5 
+analisando jogo 1255 | 26 - 33 - 35 - 38 - 43 - 53 Cont -> 2 
+analisando jogo 1256 | 02 - 15 - 26 - 27 - 30 - 52 Cont -> 1 
+analisando jogo 1257 | 11 - 26 - 47 - 55 - 57 - 59 Cont -> 2 
+analisando jogo 1258 | 04 - 06 - 39 - 46 - 54 - 58
+analisando jogo 1259 | 19 - 23 - 29 - 31 - 41 - 53
+analisando jogo 1260 | 10 - 14 - 22 - 41 - 42 - 53 Cont -> 2 
+analisando jogo 1261 | 05 - 07 - 08 - 09 - 11 - 39 Cont -> 1 
+analisando jogo 1262 | 04 - 18 - 26 - 36 - 41 - 53 Cont -> 4 
+analisando jogo 1263 | 04 - 17 - 36 - 37 - 51 - 56 Cont -> 2 
+analisando jogo 1264 | 13 - 19 - 24 - 46 - 50 - 60
+analisando jogo 1265 | 06 - 10 - 33 - 39 - 42 - 60 Cont -> 1 
+analisando jogo 1266 | 04 - 20 - 30 - 41 - 47 - 58 Cont -> 1 
+analisando jogo 1267 | 03 - 16 - 17 - 44 - 53 - 60 Cont -> 2 
+analisando jogo 1268 | 04 - 05 - 15 - 17 - 27 - 51 Cont -> 2 
+analisando jogo 1269 | 05 - 09 - 24 - 31 - 33 - 42 Cont -> 1 
+analisando jogo 1270 | 01 - 02 - 39 - 48 - 52 - 59
+analisando jogo 1271 | 13 - 26 - 27 - 28 - 35 - 52 Cont -> 2 
+analisando jogo 1272 | 13 - 19 - 26 - 40 - 58 - 60 Cont -> 2 
+analisando jogo 1273 | 13 - 17 - 21 - 39 - 40 - 59 Cont -> 5 
+analisando jogo 1274 | 02 - 14 - 48 - 55 - 58 - 60 Cont -> 2 
+analisando jogo 1275 | 05 - 09 - 11 - 22 - 36 - 40 Cont -> 2 
+analisando jogo 1276 | 12 - 18 - 31 - 50 - 59 - 60 Cont -> 2 
+analisando jogo 1277 | 04 - 16 - 24 - 25 - 30 - 56
+analisando jogo 1278 | 08 - 14 - 29 - 35 - 36 - 40 Cont -> 2 
+analisando jogo 1279 | 06 - 10 - 16 - 20 - 29 - 54 Cont -> 2 
+analisando jogo 1280 | 08 - 11 - 14 - 30 - 36 - 38 Cont -> 4 
+analisando jogo 1281 | 04 - 23 - 39 - 52 - 55 - 56
+analisando jogo 1282 | 08 - 30 - 40 - 44 - 59 - 60 Cont -> 2 
+analisando jogo 1283 | 20 - 21 - 26 - 29 - 31 - 36 Cont -> 1 
+analisando jogo 1284 | 10 - 15 - 28 - 31 - 33 - 38 Cont -> 1 
+analisando jogo 1285 | 02 - 05 - 28 - 33 - 51 - 52 Cont -> 2 
+analisando jogo 1286 | 11 - 12 - 31 - 33 - 42 - 52 Cont -> 5 
+analisando jogo 1287 | 17 - 30 - 32 - 40 - 42 - 56 Cont -> 1 
+analisando jogo 1288 | 01 - 03 - 08 - 13 - 27 - 52 Cont -> 2 
+analisando jogo 1289 | 02 - 03 - 14 - 23 - 34 - 50 Cont -> 1 
+analisando jogo 1290 | 18 - 40 - 47 - 54 - 57 - 58 Cont -> 1 
+analisando jogo 1291 | 09 - 11 - 23 - 30 - 31 - 54 Cont -> 2 
+analisando jogo 1292 | 01 - 13 - 24 - 40 - 44 - 50 Cont -> 2 
+analisando jogo 1293 | 04 - 06 - 29 - 48 - 50 - 51 Cont -> 1 
+analisando jogo 1294 | 02 - 05 - 15 - 20 - 43 - 57
+analisando jogo 1295 | 10 - 14 - 43 - 46 - 49 - 53 Cont -> 1 
+analisando jogo 1296 | 02 - 05 - 11 - 13 - 56 - 59 Cont -> 2 
+analisando jogo 1297 | 14 - 15 - 30 - 53 - 55 - 60 Cont -> 3 
+analisando jogo 1298 | 08 - 22 - 32 - 43 - 53 - 56 Cont -> 4 
+analisando jogo 1299 | 43 - 44 - 46 - 53 - 54 - 59 Cont -> 4 
+analisando jogo 1300 | 03 - 16 - 23 - 25 - 51 - 56 Cont -> 1 
+analisando jogo 1301 | 02 - 10 - 15 - 44 - 56 - 57 Cont -> 3 
+analisando jogo 1302 | 08 - 19 - 46 - 51 - 52 - 54 Cont -> 3 
+analisando jogo 1303 | 07 - 14 - 15 - 20 - 23 - 35 Cont -> 2 
+analisando jogo 1304 | 03 - 05 - 11 - 36 - 44 - 46 Cont -> 2 
+analisando jogo 1305 | 06 - 19 - 22 - 34 - 43 - 45 Cont -> 1 
+analisando jogo 1306 | 07 - 10 - 32 - 43 - 47 - 54 Cont -> 2 
+analisando jogo 1307 | 07 - 08 - 24 - 30 - 33 - 47 Cont -> 2 
+analisando jogo 1308 | 07 - 12 - 25 - 26 - 32 - 39 Cont -> 3 
+analisando jogo 1309 | 08 - 09 - 14 - 32 - 53 - 59 Cont -> 3 
+analisando jogo 1310 | 07 - 09 - 12 - 19 - 45 - 54 Cont -> 4 
+analisando jogo 1311 | 05 - 20 - 22 - 28 - 29 - 30
+analisando jogo 1312 | 01 - 04 - 26 - 39 - 43 - 49
+analisando jogo 1313 | 38 - 42 - 44 - 52 - 58 - 60
+analisando jogo 1314 | 01 - 27 - 29 - 38 - 50 - 52 Cont -> 4 
+analisando jogo 1315 | 08 - 13 - 25 - 34 - 42 - 48 Cont -> 1 
+analisando jogo 1316 | 06 - 13 - 29 - 30 - 35 - 37 Cont -> 2 
+analisando jogo 1317 | 11 - 14 - 16 - 28 - 34 - 46 Cont -> 1 
+analisando jogo 1318 | 04 - 05 - 16 - 18 - 27 - 51 Cont -> 1 
+analisando jogo 1319 | 17 - 24 - 25 - 38 - 41 - 55
+analisando jogo 1320 | 10 - 47 - 51 - 53 - 59 - 60 Cont -> 1 
+analisando jogo 1321 | 10 - 21 - 43 - 47 - 53 - 55 Cont -> 4 
+analisando jogo 1322 | 06 - 15 - 25 - 37 - 48 - 55 Cont -> 3 
+analisando jogo 1323 | 18 - 29 - 31 - 44 - 51 - 57 Cont -> 1 
+analisando jogo 1324 | 02 - 05 - 16 - 20 - 35 - 43 Cont -> 1 
+analisando jogo 1325 | 10 - 11 - 18 - 19 - 30 - 50 Cont -> 1 
+analisando jogo 1326 | 16 - 35 - 36 - 41 - 52 - 54 Cont -> 2 
+analisando jogo 1327 | 10 - 23 - 27 - 43 - 53 - 59 Cont -> 2 
+analisando jogo 1328 | 07 - 08 - 11 - 39 - 43 - 50 Cont -> 3 
+analisando jogo 1329 | 08 - 18 - 21 - 30 - 48 - 49 Cont -> 1 
+analisando jogo 1330 | 09 - 24 - 26 - 39 - 46 - 57 Cont -> 1 
+analisando jogo 1331 | 03 - 05 - 13 - 24 - 35 - 59 Cont -> 1 
+analisando jogo 1332 | 25 - 26 - 28 - 33 - 42 - 51 Cont -> 1 
+analisando jogo 1333 | 01 - 06 - 08 - 10 - 25 - 27 Cont -> 1 
+analisando jogo 1334 | 03 - 14 - 20 - 22 - 49 - 51 Cont -> 2 
+analisando jogo 1335 | 01 - 32 - 38 - 47 - 51 - 54 Cont -> 3 
+analisando jogo 1336 | 02 - 20 - 35 - 38 - 45 - 51 Cont -> 4 
+analisando jogo 1337 | 01 - 18 - 19 - 33 - 43 - 60 Cont -> 1 
+analisando jogo 1338 | 07 - 10 - 14 - 16 - 54 - 59 Cont -> 1 
+analisando jogo 1339 | 13 - 21 - 30 - 36 - 59 - 60 Cont -> 2 
+analisando jogo 1340 | 01 - 11 - 20 - 37 - 40 - 52 Cont -> 1 
+analisando jogo 1341 | 05 - 07 - 42 - 46 - 50 - 60 Cont -> 2 
+analisando jogo 1342 | 19 - 20 - 31 - 42 - 51 - 56 Cont -> 2 
+analisando jogo 1343 | 08 - 19 - 21 - 36 - 42 - 59 Cont -> 3 
+analisando jogo 1344 | 07 - 17 - 19 - 26 - 40 - 50 Cont -> 4 
+analisando jogo 1345 | 12 - 32 - 40 - 47 - 48 - 59 Cont -> 2 
+analisando jogo 1346 | 09 - 19 - 45 - 46 - 54 - 56 Cont -> 2 
+analisando jogo 1347 | 07 - 12 - 38 - 39 - 45 - 56 Cont -> 4 
+analisando jogo 1348 | 09 - 19 - 20 - 50 - 51 - 60 Cont -> 2 
+analisando jogo 1349 | 03 - 04 - 29 - 36 - 45 - 55 Cont -> 2 
+analisando jogo 1350 | 13 - 33 - 36 - 41 - 50 - 56 Cont -> 3 
+analisando jogo 1351 | 09 - 18 - 24 - 35 - 36 - 59 Cont -> 3 
+analisando jogo 1352 | 03 - 11 - 13 - 27 - 32 - 47 Cont -> 2 
+analisando jogo 1353 | 02 - 08 - 38 - 42 - 48 - 49
+analisando jogo 1354 | 11 - 17 - 24 - 39 - 46 - 49 Cont -> 3 
+analisando jogo 1355 | 06 - 13 - 21 - 22 - 31 - 46 Cont -> 2 
+analisando jogo 1356 | 01 - 19 - 24 - 26 - 52 - 55 Cont -> 1 
+analisando jogo 1357 | 03 - 15 - 16 - 35 - 37 - 47
+analisando jogo 1358 | 06 - 10 - 12 - 17 - 28 - 53 Cont -> 1 
+analisando jogo 1359 | 02 - 16 - 17 - 25 - 50 - 54 Cont -> 2 
+analisando jogo 1360 | 23 - 27 - 30 - 37 - 38 - 44 Cont -> 1 
+analisando jogo 1361 | 02 - 12 - 19 - 22 - 36 - 58 Cont -> 2 
+analisando jogo 1362 | 25 - 35 - 42 - 45 - 52 - 57 Cont -> 1 
+analisando jogo 1363 | 10 - 13 - 20 - 40 - 44 - 53 Cont -> 1 
+analisando jogo 1364 | 02 - 24 - 26 - 32 - 35 - 50 Cont -> 2 
+analisando jogo 1365 | 12 - 27 - 37 - 44 - 54 - 59 Cont -> 1 
+analisando jogo 1366 | 02 - 07 - 13 - 29 - 38 - 43 Cont -> 2 
+analisando jogo 1367 | 10 - 21 - 26 - 29 - 32 - 38 Cont -> 4 
+analisando jogo 1368 | 05 - 16 - 24 - 32 - 38 - 46 Cont -> 3 
+analisando jogo 1369 | 02 - 04 - 05 - 27 - 49 - 59 Cont -> 2 
+analisando jogo 1370 | 03 - 04 - 08 - 11 - 47 - 49 Cont -> 2 
+analisando jogo 1371 | 03 - 36 - 40 - 46 - 58 - 60 Cont -> 2 
+analisando jogo 1372 | 07 - 27 - 39 - 52 - 55 - 57 Cont -> 1 
+analisando jogo 1373 | 06 - 21 - 28 - 31 - 33 - 43
+analisando jogo 1374 | 14 - 25 - 28 - 45 - 53 - 58 Cont -> 2 
+analisando jogo 1375 | 09 - 11 - 21 - 49 - 53 - 54 Cont -> 2 
+analisando jogo 1376 | 02 - 05 - 12 - 13 - 25 - 35 Cont -> 1 
+analisando jogo 1377 | 02 - 05 - 17 - 18 - 54 - 59 Cont -> 3 
+analisando jogo 1378 | 05 - 12 - 36 - 45 - 50 - 58 Cont -> 3 
+analisando jogo 1379 | 03 - 14 - 52 - 55 - 57 - 60
+analisando jogo 1380 | 11 - 27 - 30 - 40 - 44 - 57 Cont -> 1 
+analisando jogo 1381 | 05 - 13 - 16 - 17 - 27 - 55 Cont -> 3 
+analisando jogo 1382 | 07 - 09 - 23 - 44 - 46 - 55 Cont -> 3 
+analisando jogo 1383 | 02 - 18 - 30 - 31 - 45 - 56 Cont -> 1 
+analisando jogo 1384 | 27 - 35 - 36 - 37 - 42 - 59 Cont -> 1 
+analisando jogo 1385 | 12 - 28 - 38 - 39 - 51 - 56 Cont -> 1 
+analisando jogo 1386 | 18 - 27 - 32 - 43 - 50 - 52 Cont -> 2 
+analisando jogo 1387 | 22 - 29 - 31 - 43 - 50 - 54 Cont -> 2 
+analisando jogo 1388 | 01 - 16 - 28 - 39 - 44 - 57 Cont -> 2 
+analisando jogo 1389 | 04 - 19 - 27 - 28 - 29 - 31 Cont -> 4 
+analisando jogo 1390 | 07 - 12 - 19 - 34 - 40 - 53 Cont -> 1 
+analisando jogo 1391 | 02 - 08 - 12 - 28 - 33 - 43 Cont -> 3 
+analisando jogo 1392 | 04 - 18 - 24 - 28 - 39 - 44 Cont -> 3 
+analisando jogo 1393 | 11 - 16 - 24 - 35 - 46 - 50 Cont -> 1 
+analisando jogo 1394 | 05 - 11 - 17 - 19 - 44 - 48 Cont -> 2 
+analisando jogo 1395 | 29 - 48 - 52 - 54 - 55 - 58 Cont -> 1 
+analisando jogo 1396 | 03 - 04 - 07 - 15 - 27 - 56
+analisando jogo 1397 | 14 - 32 - 33 - 40 - 42 - 51
+analisando jogo 1398 | 34 - 39 - 43 - 56 - 57 - 60 Cont -> 1 
+analisando jogo 1399 | 09 - 26 - 34 - 43 - 53 - 54 Cont -> 2 
+analisando jogo 1400 | 11 - 12 - 25 - 33 - 48 - 54 Cont -> 2 
+analisando jogo 1401 | 02 - 09 - 10 - 21 - 27 - 38 Cont -> 1 
+analisando jogo 1402 | 13 - 16 - 20 - 26 - 39 - 42 Cont -> 1 
+analisando jogo 1403 | 07 - 08 - 27 - 31 - 32 - 51 Cont -> 1 
+analisando jogo 1404 | 03 - 14 - 17 - 32 - 37 - 39 Cont -> 2 
+analisando jogo 1405 | 07 - 10 - 17 - 24 - 38 - 57 Cont -> 2 
+analisando jogo 1406 | 18 - 29 - 31 - 42 - 43 - 53 Cont -> 1 
+analisando jogo 1407 | 04 - 19 - 20 - 24 - 39 - 43 Cont -> 3 
+analisando jogo 1408 | 06 - 19 - 26 - 47 - 50 - 58 Cont -> 1 
+analisando jogo 1409 | 18 - 29 - 40 - 42 - 50 - 54 Cont -> 4 
+analisando jogo 1410 | 08 - 12 - 32 - 44 - 46 - 48
+analisando jogo 1411 | 06 - 08 - 24 - 37 - 41 - 45 Cont -> 2 
+analisando jogo 1412 | 13 - 15 - 33 - 45 - 54 - 55 Cont -> 2 
+analisando jogo 1413 | 21 - 37 - 44 - 46 - 49 - 57 Cont -> 3 
+analisando jogo 1414 | 26 - 36 - 40 - 46 - 49 - 51 Cont -> 2 
+analisando jogo 1415 | 03 - 19 - 22 - 24 - 35 - 49 Cont -> 2 
+analisando jogo 1416 | 05 - 12 - 45 - 52 - 56 - 59
+analisando jogo 1417 | 07 - 08 - 10 - 12 - 27 - 56 Cont -> 2 
+analisando jogo 1418 | 17 - 21 - 30 - 48 - 52 - 58 Cont -> 1 
+analisando jogo 1419 | 02 - 11 - 16 - 18 - 36 - 45 Cont -> 1 
+analisando jogo 1420 | 19 - 31 - 39 - 44 - 53 - 59
+analisando jogo 1421 | 02 - 05 - 13 - 17 - 39 - 44 Cont -> 4 
+analisando jogo 1422 | 03 - 08 - 21 - 25 - 27 - 43
+analisando jogo 1423 | 03 - 07 - 15 - 29 - 38 - 60 Cont -> 1 
+analisando jogo 1424 | 07 - 16 - 29 - 36 - 38 - 50 Cont -> 3 
+analisando jogo 1425 | 06 - 15 - 18 - 24 - 30 - 44 Cont -> 1 
+analisando jogo 1426 | 08 - 39 - 44 - 47 - 53 - 56 Cont -> 1 
+analisando jogo 1427 | 07 - 15 - 19 - 34 - 37 - 55 Cont -> 2 
+analisando jogo 1428 | 09 - 12 - 22 - 39 - 48 - 60 Cont -> 1 
+analisando jogo 1429 | 02 - 19 - 22 - 30 - 46 - 52 Cont -> 2 
+analisando jogo 1430 | 05 - 09 - 13 - 33 - 40 - 54 Cont -> 1 
+analisando jogo 1431 | 16 - 24 - 25 - 42 - 45 - 59
+analisando jogo 1432 | 04 - 13 - 14 - 40 - 46 - 52 Cont -> 4 
+analisando jogo 1433 | 03 - 18 - 22 - 34 - 55 - 58
+analisando jogo 1434 | 04 - 15 - 45 - 47 - 50 - 52 Cont -> 3 
+analisando jogo 1435 | 01 - 13 - 23 - 24 - 30 - 57 Cont -> 1 
+analisando jogo 1436 | 22 - 23 - 26 - 37 - 38 - 48 Cont -> 2 
+analisando jogo 1437 | 07 - 14 - 31 - 33 - 36 - 49
+analisando jogo 1438 | 02 - 34 - 35 - 42 - 43 - 55
+analisando jogo 1439 | 02 - 06 - 28 - 36 - 51 - 56 Cont -> 2 
+analisando jogo 1440 | 17 - 29 - 36 - 38 - 53 - 56 Cont -> 3 
+analisando jogo 1441 | 12 - 13 - 20 - 30 - 34 - 49 Cont -> 1 
+analisando jogo 1442 | 12 - 20 - 32 - 48 - 52 - 54 Cont -> 2 
+analisando jogo 1443 | 02 - 05 - 27 - 28 - 48 - 55 Cont -> 1 
+analisando jogo 1444 | 05 - 19 - 32 - 41 - 49 - 58 Cont -> 3 
+analisando jogo 1445 | 06 - 13 - 24 - 32 - 40 - 51 Cont -> 2 
+analisando jogo 1446 | 01 - 19 - 28 - 33 - 39 - 41 Cont -> 3 
+analisando jogo 1447 | 01 - 25 - 29 - 36 - 56 - 60 Cont -> 1 
+analisando jogo 1448 | 02 - 06 - 18 - 30 - 52 - 56 Cont -> 2 
+analisando jogo 1449 | 26 - 27 - 31 - 38 - 44 - 45
+analisando jogo 1450 | 02 - 10 - 11 - 33 - 52 - 57 Cont -> 2 
+analisando jogo 1451 | 02 - 14 - 28 - 50 - 57 - 58 Cont -> 3 
+analisando jogo 1452 | 06 - 13 - 25 - 32 - 47 - 57 Cont -> 2 
+analisando jogo 1453 | 04 - 27 - 29 - 41 - 48 - 52 Cont -> 1 
+analisando jogo 1454 | 14 - 32 - 33 - 36 - 41 - 52 Cont -> 4 
+analisando jogo 1455 | 06 - 08 - 14 - 26 - 36 - 40 Cont -> 3 
+analisando jogo 1456 | 15 - 16 - 34 - 42 - 46 - 59
+analisando jogo 1457 | 02 - 04 - 16 - 33 - 44 - 51 Cont -> 2 
+analisando jogo 1458 | 02 - 06 - 30 - 34 - 35 - 52 Cont -> 3 
+analisando jogo 1459 | 04 - 14 - 27 - 38 - 50 - 52 Cont -> 2 
+analisando jogo 1460 | 31 - 36 - 44 - 47 - 49 - 54 Cont -> 1 
+analisando jogo 1461 | 05 - 09 - 25 - 27 - 38 - 40 Cont -> 2 
+analisando jogo 1462 | 13 - 22 - 28 - 29 - 40 - 48 Cont -> 1 
+analisando jogo 1463 | 02 - 24 - 32 - 50 - 54 - 59 Cont -> 1 
+analisando jogo 1464 | 06 - 11 - 16 - 26 - 44 - 53
+analisando jogo 1465 | 04 - 06 - 13 - 34 - 37 - 51 Cont -> 2 
+analisando jogo 1466 | 23 - 24 - 26 - 41 - 52 - 53 Cont -> 3 
+analisando jogo 1467 | 01 - 02 - 10 - 19 - 20 - 37 Cont -> 1 
+analisando jogo 1468 | 04 - 13 - 35 - 54 - 56 - 58 Cont -> 2 
+analisando jogo 1469 | 02 - 34 - 36 - 38 - 51 - 55 Cont -> 1 
+analisando jogo 1470 | 10 - 25 - 33 - 36 - 40 - 58 Cont -> 3 
+analisando jogo 1471 | 12 - 18 - 23 - 25 - 45 - 50 Cont -> 1 
+analisando jogo 1472 | 02 - 12 - 33 - 57 - 58 - 60 Cont -> 4 
+analisando jogo 1473 | 01 - 02 - 03 - 11 - 28 - 43 Cont -> 1 
+analisando jogo 1474 | 12 - 13 - 37 - 44 - 48 - 51 Cont -> 2 
+analisando jogo 1475 | 04 - 10 - 26 - 37 - 47 - 57 Cont -> 2 
+analisando jogo 1476 | 03 - 04 - 46 - 50 - 56 - 59 Cont -> 2 
+analisando jogo 1477 | 10 - 27 - 37 - 40 - 47 - 55 Cont -> 4 
+analisando jogo 1478 | 21 - 48 - 50 - 54 - 57 - 60 Cont -> 2 
+analisando jogo 1479 | 09 - 14 - 21 - 26 - 36 - 52 Cont -> 1 
+analisando jogo 1480 | 17 - 27 - 28 - 40 - 44 - 55 Cont -> 3 
+analisando jogo 1481 | 06 - 09 - 11 - 34 - 41 - 53 Cont -> 1 
+analisando jogo 1482 | 01 - 35 - 39 - 53 - 55 - 56 Cont -> 2 
+analisando jogo 1483 | 17 - 20 - 24 - 29 - 49 - 53 Cont -> 3 
+analisando jogo 1484 | 04 - 27 - 30 - 36 - 54 - 59
+analisando jogo 1485 | 01 - 06 - 10 - 34 - 40 - 54 Cont -> 2 
+analisando jogo 1486 | 04 - 09 - 17 - 23 - 28 - 53 Cont -> 3 
+analisando jogo 1487 | 04 - 22 - 25 - 38 - 45 - 51 Cont -> 2 
+analisando jogo 1488 | 01 - 15 - 24 - 26 - 28 - 48 Cont -> 2 
+analisando jogo 1489 | 01 - 03 - 31 - 32 - 43 - 52 Cont -> 1 
+analisando jogo 1490 | 06 - 26 - 45 - 50 - 56 - 60 Cont -> 2 
+analisando jogo 1491 | 04 - 09 - 18 - 44 - 46 - 48 Cont -> 1 
+analisando jogo 1492 | 07 - 12 - 24 - 27 - 30 - 49
+analisando jogo 1493 | 02 - 14 - 24 - 28 - 35 - 50 Cont -> 2 
+analisando jogo 1494 | 04 - 13 - 14 - 44 - 49 - 57 Cont -> 4 
+analisando jogo 1495 | 14 - 18 - 28 - 41 - 47 - 54 Cont -> 3 
+analisando jogo 1496 | 04 - 05 - 07 - 27 - 45 - 58 Cont -> 1 
+analisando jogo 1497 | 06 - 11 - 27 - 40 - 46 - 49 Cont -> 2 
+analisando jogo 1498 | 08 - 22 - 26 - 33 - 37 - 54 Cont -> 1 
+analisando jogo 1499 | 10 - 18 - 31 - 43 - 57 - 59
+analisando jogo 1500 | 01 - 07 - 13 - 29 - 37 - 54 Cont -> 2 
+analisando jogo 1501 | 06 - 22 - 43 - 51 - 52 - 57 Cont -> 3 
+analisando jogo 1502 | 03 - 04 - 16 - 22 - 36 - 42 Cont -> 1 
+analisando jogo 1503 | 02 - 10 - 12 - 30 - 41 - 42 Cont -> 1 
+analisando jogo 1504 | 01 - 02 - 06 - 09 - 16 - 32 Cont -> 3 
+analisando jogo 1505 | 03 - 14 - 18 - 34 - 42 - 49 Cont -> 3 
+analisando jogo 1506 | 24 - 46 - 50 - 51 - 52 - 56
+analisando jogo 1507 | 17 - 18 - 30 - 35 - 39 - 58 Cont -> 1 
+analisando jogo 1508 | 01 - 06 - 27 - 46 - 51 - 59 Cont -> 2 
+analisando jogo 1509 | 01 - 08 - 17 - 44 - 46 - 53 Cont -> 4 
+analisando jogo 1510 | 04 - 08 - 17 - 29 - 31 - 45 Cont -> 3 
+analisando jogo 1511 | 11 - 28 - 35 - 42 - 46 - 58 Cont -> 2 
+analisando jogo 1512 | 17 - 28 - 31 - 56 - 57 - 58 Cont -> 5 
+analisando jogo 1513 | 16 - 17 - 23 - 42 - 59 - 60 Cont -> 3 
+analisando jogo 1514 | 04 - 13 - 14 - 18 - 49 - 59 Cont -> 1 
+analisando jogo 1515 | 04 - 18 - 20 - 34 - 45 - 60 Cont -> 3 
+analisando jogo 1516 | 07 - 17 - 38 - 45 - 52 - 56 Cont -> 2 
+analisando jogo 1517 | 08 - 09 - 28 - 41 - 48 - 55
+analisando jogo 1518 | 05 - 06 - 15 - 23 - 56 - 59 Cont -> 1 
+analisando jogo 1519 | 07 - 31 - 35 - 36 - 46 - 48 Cont -> 2 
+analisando jogo 1520 | 11 - 14 - 18 - 30 - 33 - 39
+analisando jogo 1521 | 05 - 08 - 23 - 32 - 33 - 56 Cont -> 4 
+analisando jogo 1522 | 22 - 25 - 31 - 39 - 41 - 44 Cont -> 2 
+analisando jogo 1523 | 02 - 12 - 40 - 46 - 52 - 53
+analisando jogo 1524 | 02 - 26 - 30 - 35 - 46 - 54 Cont -> 2 
+analisando jogo 1525 | 10 - 16 - 28 - 47 - 51 - 59
+analisando jogo 1526 | 16 - 32 - 36 - 42 - 44 - 48 Cont -> 1 
+analisando jogo 1527 | 04 - 13 - 15 - 19 - 36 - 58 Cont -> 1 
+analisando jogo 1528 | 11 - 15 - 17 - 34 - 35 - 49 Cont -> 1 
+analisando jogo 1529 | 10 - 16 - 28 - 33 - 48 - 53 Cont -> 2 
+analisando jogo 1530 | 12 - 13 - 24 - 41 - 42 - 44 Cont -> 1 
+analisando jogo 1531 | 02 - 11 - 23 - 31 - 42 - 44 Cont -> 3 
+analisando jogo 1532 | 13 - 21 - 29 - 34 - 47 - 57 Cont -> 1 
+analisando jogo 1533 | 01 - 12 - 28 - 29 - 34 - 48 Cont -> 3 
+analisando jogo 1534 | 08 - 09 - 25 - 41 - 54 - 55
+analisando jogo 1535 | 13 - 18 - 29 - 32 - 50 - 58 Cont -> 3 
+analisando jogo 1536 | 06 - 10 - 33 - 50 - 51 - 56 Cont -> 1 
+analisando jogo 1537 | 23 - 27 - 35 - 52 - 53 - 57
+analisando jogo 1538 | 08 - 10 - 20 - 26 - 49 - 58 Cont -> 2 
+analisando jogo 1539 | 03 - 17 - 27 - 32 - 47 - 54 Cont -> 1 
+analisando jogo 1540 | 05 - 24 - 37 - 44 - 49 - 58 Cont -> 2 
+analisando jogo 1541 | 07 - 11 - 12 - 30 - 39 - 57
+analisando jogo 1542 | 07 - 15 - 20 - 23 - 30 - 41 Cont -> 2 
+analisando jogo 1543 | 02 - 21 - 30 - 35 - 45 - 50 Cont -> 2 
+analisando jogo 1544 | 04 - 06 - 11 - 24 - 45 - 48 Cont -> 2 
+analisando jogo 1545 | 04 - 17 - 38 - 44 - 53 - 60 Cont -> 1 
+analisando jogo 1546 | 02 - 09 - 10 - 18 - 21 - 28 Cont -> 2 
+analisando jogo 1547 | 19 - 41 - 42 - 44 - 47 - 54 Cont -> 1 
+analisando jogo 1548 | 10 - 12 - 16 - 20 - 32 - 53 Cont -> 2 
+analisando jogo 1549 | 09 - 13 - 21 - 27 - 36 - 56 Cont -> 2 
+analisando jogo 1550 | 02 - 15 - 19 - 21 - 23 - 38 Cont -> 2 
+analisando jogo 1551 | 07 - 18 - 24 - 26 - 39 - 46
+analisando jogo 1552 | 20 - 21 - 22 - 29 - 46 - 60 Cont -> 3 
+analisando jogo 1553 | 30 - 32 - 49 - 50 - 52 - 53
+analisando jogo 1554 | 02 - 05 - 23 - 33 - 52 - 59 Cont -> 1 
+analisando jogo 1555 | 01 - 04 - 07 - 10 - 11 - 52 Cont -> 2 
+analisando jogo 1556 | 04 - 16 - 18 - 31 - 45 - 46 Cont -> 1 
+analisando jogo 1557 | 07 - 15 - 17 - 31 - 42 - 54 Cont -> 2 
+analisando jogo 1558 | 08 - 12 - 16 - 29 - 37 - 58 Cont -> 1 
+analisando jogo 1559 | 20 - 30 - 36 - 38 - 47 - 53
+analisando jogo 1560 | 23 - 26 - 28 - 54 - 55 - 60 Cont -> 1 
+analisando jogo 1561 | 10 - 12 - 23 - 37 - 47 - 51 Cont -> 4 
+analisando jogo 1562 | 01 - 06 - 13 - 20 - 36 - 43 Cont -> 2 
+analisando jogo 1563 | 25 - 38 - 44 - 46 - 53 - 54 Cont -> 1 
+analisando jogo 1564 | 18 - 37 - 39 - 41 - 43 - 51 Cont -> 3 
+analisando jogo 1565 | 05 - 06 - 11 - 32 - 36 - 60 Cont -> 2 
+analisando jogo 1566 | 02 - 15 - 30 - 38 - 48 - 53 Cont -> 2 
+analisando jogo 1567 | 19 - 24 - 25 - 28 - 42 - 58
+analisando jogo 1568 | 05 - 15 - 18 - 31 - 42 - 53 Cont -> 4 
+analisando jogo 1569 | 15 - 18 - 24 - 42 - 46 - 56 Cont -> 6 
+analisando jogo 1570 | 03 - 29 - 32 - 46 - 55 - 60 Cont -> 1 
+analisando jogo 1571 | 20 - 27 - 42 - 45 - 46 - 47 Cont -> 4 
+analisando jogo 1572 | 07 - 16 - 21 - 35 - 36 - 38
+analisando jogo 1573 | 06 - 27 - 28 - 33 - 46 - 48 Cont -> 3 
+analisando jogo 1574 | 01 - 04 - 05 - 14 - 45 - 56 Cont -> 1 
+analisando jogo 1575 | 13 - 15 - 21 - 26 - 30 - 46 Cont -> 2 
+analisando jogo 1576 | 11 - 14 - 25 - 32 - 51 - 59 Cont -> 1 
+analisando jogo 1577 | 03 - 06 - 30 - 37 - 53 - 56 Cont -> 2 
+analisando jogo 1578 | 25 - 34 - 40 - 49 - 51 - 60 Cont -> 2 
+analisando jogo 1579 | 01 - 06 - 14 - 17 - 33 - 36 Cont -> 2 
+analisando jogo 1580 | 14 - 15 - 25 - 30 - 31 - 34 Cont -> 4 
+analisando jogo 1581 | 01 - 04 - 13 - 17 - 38 - 48 Cont -> 2 
+analisando jogo 1582 | 02 - 09 - 17 - 18 - 45 - 47 Cont -> 2 
+analisando jogo 1583 | 03 - 22 - 27 - 28 - 50 - 54
+analisando jogo 1584 | 02 - 43 - 47 - 48 - 49 - 55 Cont -> 3 
+analisando jogo 1585 | 08 - 39 - 43 - 46 - 47 - 58 Cont -> 3 
+analisando jogo 1586 | 08 - 19 - 21 - 30 - 52 - 56 Cont -> 1 
+analisando jogo 1587 | 23 - 29 - 32 - 36 - 45 - 49 Cont -> 1 
+analisando jogo 1588 | 04 - 05 - 11 - 19 - 41 - 51 Cont -> 1 
+analisando jogo 1589 | 07 - 20 - 34 - 40 - 44 - 55
+analisando jogo 1590 | 04 - 10 - 23 - 33 - 38 - 55 Cont -> 3 
+analisando jogo 1591 | 31 - 36 - 38 - 41 - 42 - 49 Cont -> 2 
+analisando jogo 1592 | 04 - 09 - 17 - 18 - 21 - 38 Cont -> 3 
+analisando jogo 1593 | 06 - 07 - 08 - 23 - 43 - 53 Cont -> 1 
+analisando jogo 1594 | 02 - 05 - 08 - 42 - 46 - 59 Cont -> 2 
+analisando jogo 1595 | 01 - 05 - 07 - 10 - 12 - 45 Cont -> 2 
+analisando jogo 1596 | 05 - 10 - 16 - 44 - 50 - 52 Cont -> 3 
+analisando jogo 1597 | 29 - 31 - 36 - 42 - 47 - 53 Cont -> 1 
+analisando jogo 1598 | 03 - 10 - 15 - 35 - 36 - 58 Cont -> 3 
+analisando jogo 1599 | 09 - 23 - 32 - 35 - 46 - 57 Cont -> 1 
+analisando jogo 1600 | 08 - 10 - 24 - 45 - 56 - 60 Cont -> 1 
+analisando jogo 1601 | 08 - 12 - 22 - 35 - 40 - 44 Cont -> 3 
+analisando jogo 1602 | 13 - 20 - 27 - 31 - 53 - 60 Cont -> 1 
+analisando jogo 1603 | 02 - 21 - 24 - 27 - 40 - 51 Cont -> 3 
+analisando jogo 1604 | 09 - 19 - 21 - 30 - 31 - 42 Cont -> 2 
+analisando jogo 1605 | 01 - 15 - 37 - 42 - 46 - 54 Cont -> 1 
+analisando jogo 1606 | 07 - 31 - 32 - 41 - 51 - 52 Cont -> 2 
+analisando jogo 1607 | 05 - 06 - 17 - 43 - 54 - 59 Cont -> 1 
+analisando jogo 1608 | 02 - 06 - 13 - 26 - 53 - 60 Cont -> 1 
+analisando jogo 1609 | 01 - 04 - 09 - 35 - 36 - 53 Cont -> 1 
+analisando jogo 1610 | 24 - 28 - 47 - 50 - 51 - 58
+analisando jogo 1611 | 06 - 13 - 17 - 36 - 42 - 51 Cont -> 4 
+analisando jogo 1612 | 04 - 18 - 31 - 44 - 46 - 49 Cont -> 1 
+analisando jogo 1613 | 14 - 17 - 21 - 27 - 43 - 49 Cont -> 2 
+analisando jogo 1614 | 05 - 20 - 26 - 31 - 33 - 44 Cont -> 2 
+analisando jogo 1615 | 28 - 31 - 40 - 42 - 46 - 58 Cont -> 3 
+analisando jogo 1616 | 03 - 23 - 26 - 31 - 47 - 54 Cont -> 3 
+analisando jogo 1617 | 09 - 20 - 24 - 43 - 51 - 52 Cont -> 1 
+analisando jogo 1618 | 05 - 08 - 17 - 42 - 46 - 47 Cont -> 3 
+analisando jogo 1619 | 13 - 23 - 27 - 34 - 38 - 57 Cont -> 1 
+analisando jogo 1620 | 10 - 22 - 24 - 38 - 39 - 49 Cont -> 2 
+analisando jogo 1621 | 04 - 05 - 07 - 21 - 45 - 53 Cont -> 1 
+analisando jogo 1622 | 33 - 43 - 49 - 50 - 56 - 59 Cont -> 1 
+analisando jogo 1623 | 02 - 27 - 32 - 41 - 47 - 58
+analisando jogo 1624 | 11 - 22 - 36 - 40 - 45 - 52 Cont -> 1 
+analisando jogo 1625 | 03 - 05 - 14 - 35 - 43 - 52 Cont -> 2 
+analisando jogo 1626 | 20 - 26 - 32 - 41 - 45 - 57 Cont -> 3 
+analisando jogo 1627 | 26 - 29 - 34 - 38 - 50 - 60 Cont -> 1 
+analisando jogo 1628 | 04 - 20 - 24 - 35 - 47 - 59 Cont -> 2 
+analisando jogo 1629 | 01 - 07 - 30 - 43 - 44 - 54
+analisando jogo 1630 | 04 - 29 - 44 - 47 - 48 - 60 Cont -> 5 
+analisando jogo 1631 | 06 - 18 - 24 - 27 - 56 - 59 Cont -> 2 
+analisando jogo 1632 | 01 - 02 - 11 - 13 - 36 - 49 Cont -> 1 
+analisando jogo 1633 | 09 - 10 - 23 - 33 - 44 - 51 Cont -> 1 
+analisando jogo 1634 | 08 - 23 - 28 - 30 - 32 - 51 Cont -> 2 
+analisando jogo 1635 | 19 - 26 - 33 - 35 - 51 - 52 Cont -> 3 
+analisando jogo 1636 | 01 - 05 - 24 - 47 - 55 - 56
+analisando jogo 1637 | 01 - 02 - 38 - 41 - 42 - 58 Cont -> 1 
+analisando jogo 1638 | 16 - 29 - 34 - 35 - 49 - 51 Cont -> 2 
+analisando jogo 1639 | 02 - 06 - 18 - 23 - 31 - 46 Cont -> 1 
+analisando jogo 1640 | 23 - 29 - 30 - 33 - 46 - 51 Cont -> 4 
+analisando jogo 1641 | 03 - 23 - 42 - 43 - 47 - 60 Cont -> 2 
+analisando jogo 1642 | 16 - 19 - 20 - 28 - 37 - 60 Cont -> 1 
+analisando jogo 1643 | 10 - 13 - 16 - 22 - 34 - 60 Cont -> 3 
+analisando jogo 1644 | 08 - 18 - 21 - 31 - 37 - 38 Cont -> 1 
+analisando jogo 1645 | 19 - 23 - 34 - 40 - 41 - 58 Cont -> 2 
+analisando jogo 1646 | 12 - 17 - 23 - 38 - 53 - 54 Cont -> 2 
+analisando jogo 1647 | 15 - 16 - 18 - 20 - 22 - 48 Cont -> 1 
+analisando jogo 1648 | 24 - 33 - 38 - 42 - 44 - 54 Cont -> 2 
+analisando jogo 1649 | 17 - 23 - 29 - 38 - 57 - 60 Cont -> 4 
+analisando jogo 1650 | 08 - 27 - 35 - 38 - 41 - 44 Cont -> 3 
+analisando jogo 1651 | 07 - 24 - 26 - 28 - 44 - 57 Cont -> 4 
+analisando jogo 1652 | 01 - 21 - 22 - 27 - 32 - 45 Cont -> 1 
+analisando jogo 1653 | 07 - 16 - 33 - 42 - 50 - 58 Cont -> 1 
+analisando jogo 1654 | 07 - 24 - 28 - 46 - 53 - 56 Cont -> 4 
+analisando jogo 1655 | 04 - 06 - 11 - 43 - 54 - 56 Cont -> 1 
+analisando jogo 1656 | 07 - 10 - 14 - 37 - 45 - 54 Cont -> 3 
+analisando jogo 1657 | 07 - 11 - 19 - 23 - 40 - 49 Cont -> 3 
+analisando jogo 1658 | 04 - 10 - 20 - 33 - 37 - 49 Cont -> 4 
+analisando jogo 1659 | 08 - 17 - 34 - 38 - 42 - 51
+analisando jogo 1660 | 13 - 16 - 27 - 43 - 48 - 58
+analisando jogo 1661 | 10 - 14 - 25 - 29 - 33 - 57 Cont -> 2 
+analisando jogo 1662 | 18 - 20 - 27 - 40 - 49 - 55 Cont -> 1 
+analisando jogo 1663 | 08 - 21 - 23 - 29 - 36 - 48 Cont -> 2 
+analisando jogo 1664 | 01 - 05 - 11 - 16 - 20 - 56 Cont -> 1 
+analisando jogo 1665 | 01 - 02 - 23 - 27 - 45 - 51 Cont -> 3 
+analisando jogo 1666 | 07 - 12 - 24 - 44 - 51 - 56 Cont -> 2 
+analisando jogo 1667 | 05 - 40 - 47 - 52 - 55 - 57 Cont -> 1 
+analisando jogo 1668 | 28 - 29 - 31 - 45 - 48 - 49 Cont -> 1 
+analisando jogo 1669 | 01 - 17 - 19 - 30 - 33 - 47 Cont -> 1 
+analisando jogo 1670 | 21 - 27 - 31 - 45 - 55 - 56 Cont -> 3 
+analisando jogo 1671 | 01 - 03 - 05 - 10 - 20 - 42 Cont -> 1 
+analisando jogo 1672 | 05 - 10 - 23 - 24 - 35 - 47 Cont -> 3 
+analisando jogo 1673 | 22 - 30 - 42 - 50 - 58 - 59 Cont -> 1 
+analisando jogo 1674 | 03 - 18 - 34 - 35 - 36 - 56 Cont -> 2 
+analisando jogo 1675 | 01 - 02 - 11 - 37 - 48 - 51
+analisando jogo 1676 | 10 - 15 - 28 - 33 - 51 - 52 Cont -> 1 
+analisando jogo 1677 | 09 - 11 - 17 - 19 - 35 - 52 Cont -> 3 
+analisando jogo 1678 | 01 - 02 - 27 - 28 - 46 - 47 Cont -> 3 
+analisando jogo 1679 | 23 - 37 - 38 - 46 - 47 - 51 Cont -> 3 
+analisando jogo 1680 | 01 - 06 - 08 - 11 - 33 - 50 Cont -> 2 
+analisando jogo 1681 | 07 - 13 - 35 - 37 - 39 - 51 Cont -> 2 
+analisando jogo 1682 | 04 - 12 - 32 - 33 - 34 - 48 Cont -> 1 
+analisando jogo 1683 | 09 - 12 - 18 - 31 - 39 - 50 Cont -> 3 
+analisando jogo 1684 | 03 - 18 - 31 - 39 - 46 - 51 Cont -> 5 
+analisando jogo 1685 | 09 - 14 - 37 - 44 - 46 - 55 Cont -> 2 
+analisando jogo 1686 | 15 - 24 - 37 - 46 - 49 - 58 Cont -> 3 
+analisando jogo 1687 | 18 - 23 - 30 - 32 - 42 - 56 Cont -> 1 
+analisando jogo 1688 | 02 - 05 - 13 - 27 - 41 - 53
+analisando jogo 1689 | 21 - 24 - 26 - 35 - 45 - 53 Cont -> 2 
+analisando jogo 1690 | 01 - 10 - 24 - 39 - 45 - 58 Cont -> 2 
+analisando jogo 1691 | 11 - 13 - 14 - 27 - 44 - 56 Cont -> 2 
+analisando jogo 1692 | 05 - 15 - 18 - 19 - 21 - 38 Cont -> 1 
+analisando jogo 1693 | 20 - 29 - 34 - 37 - 45 - 57 Cont -> 1 
+analisando jogo 1694 | 24 - 36 - 38 - 43 - 44 - 58 Cont -> 2 
+analisando jogo 1695 | 01 - 12 - 17 - 31 - 37 - 46 Cont -> 1 
+analisando jogo 1696 | 08 - 23 - 30 - 51 - 53 - 58 Cont -> 1 
+analisando jogo 1697 | 11 - 13 - 24 - 28 - 44 - 45 Cont -> 2 
+analisando jogo 1698 | 01 - 06 - 10 - 30 - 33 - 38 Cont -> 2 
+analisando jogo 1699 | 15 - 18 - 41 - 48 - 50 - 58 Cont -> 1 
+analisando jogo 1700 | 03 - 09 - 18 - 32 - 40 - 56 Cont -> 1 
+analisando jogo 1701 | 17 - 19 - 33 - 35 - 39 - 52 Cont -> 1 
+analisando jogo 1702 | 03 - 23 - 26 - 35 - 39 - 49 Cont -> 3 
+analisando jogo 1703 | 01 - 07 - 11 - 32 - 51 - 59 Cont -> 1 
+analisando jogo 1704 | 25 - 27 - 29 - 37 - 50 - 51 Cont -> 1 
+analisando jogo 1705 | 12 - 31 - 34 - 36 - 48 - 56
+analisando jogo 1706 | 07 - 16 - 20 - 27 - 36 - 52 Cont -> 3 
+analisando jogo 1707 | 17 - 29 - 32 - 38 - 45 - 50 Cont -> 2 
+analisando jogo 1708 | 07 - 19 - 30 - 35 - 42 - 47 Cont -> 1 
+analisando jogo 1709 | 07 - 21 - 28 - 56 - 58 - 59 Cont -> 2 
+analisando jogo 1710 | 22 - 26 - 38 - 39 - 45 - 50 Cont -> 3 
+analisando jogo 1711 | 02 - 12 - 19 - 29 - 50 - 59 Cont -> 3 
+analisando jogo 1712 | 03 - 10 - 16 - 23 - 27 - 29 Cont -> 1 
+analisando jogo 1713 | 02 - 08 - 24 - 36 - 51 - 52 Cont -> 1 
+analisando jogo 1714 | 16 - 20 - 35 - 40 - 53 - 60 Cont -> 1 
+analisando jogo 1715 | 02 - 25 - 36 - 41 - 42 - 53 Cont -> 3 
+analisando jogo 1716 | 02 - 09 - 16 - 37 - 44 - 58 Cont -> 3 
+analisando jogo 1717 | 04 - 30 - 31 - 32 - 47 - 53 Cont -> 2 
+analisando jogo 1718 | 01 - 22 - 31 - 34 - 44 - 54 Cont -> 2 
+analisando jogo 1719 | 18 - 23 - 31 - 39 - 49 - 57 Cont -> 2 
+analisando jogo 1720 | 04 - 12 - 19 - 33 - 36 - 38 Cont -> 1 
+analisando jogo 1721 | 09 - 23 - 39 - 41 - 49 - 58 Cont -> 3 
+analisando jogo 1722 | 14 - 27 - 30 - 46 - 52 - 60
+analisando jogo 1723 | 27 - 33 - 37 - 39 - 58 - 60 Cont -> 5 
+analisando jogo 1724 | 16 - 18 - 26 - 30 - 31 - 34 Cont -> 1 
+analisando jogo 1725 | 03 - 10 - 42 - 49 - 54 - 57
+analisando jogo 1726 | 04 - 06 - 19 - 20 - 40 - 41
+analisando jogo 1727 | 03 - 08 - 28 - 39 - 42 - 59 Cont -> 2 
+analisando jogo 1728 | 07 - 14 - 23 - 43 - 44 - 53
+analisando jogo 1729 | 01 - 10 - 17 - 24 - 42 - 51 Cont -> 1 
+analisando jogo 1730 | 05 - 18 - 27 - 43 - 49 - 59 Cont -> 2 
+analisando jogo 1731 | 25 - 34 - 38 - 45 - 53 - 60 Cont -> 1 
+analisando jogo 1732 | 03 - 05 - 09 - 14 - 41 - 46 Cont -> 1 
+analisando jogo 1733 | 12 - 17 - 25 - 29 - 41 - 52 Cont -> 2 
+analisando jogo 1734 | 06 - 16 - 33 - 34 - 45 - 46 Cont -> 3 
+analisando jogo 1735 | 12 - 13 - 24 - 29 - 32 - 41 Cont -> 4 
+analisando jogo 1736 | 05 - 08 - 42 - 50 - 51 - 59
+analisando jogo 1737 | 12 - 28 - 37 - 46 - 48 - 53 Cont -> 2 
+analisando jogo 1738 | 09 - 10 - 17 - 32 - 34 - 46 Cont -> 2 
+analisando jogo 1739 | 10 - 15 - 25 - 38 - 47 - 53 Cont -> 2 
+analisando jogo 1740 | 15 - 18 - 20 - 32 - 48 - 49 Cont -> 3 
+analisando jogo 1741 | 11 - 19 - 21 - 23 - 27 - 52
+analisando jogo 1742 | 04 - 10 - 29 - 31 - 34 - 35 Cont -> 1 
+analisando jogo 1743 | 09 - 12 - 14 - 29 - 42 - 56 Cont -> 1 
+analisando jogo 1744 | 09 - 13 - 18 - 47 - 52 - 60 Cont -> 2 
+analisando jogo 1745 | 06 - 18 - 37 - 40 - 41 - 58 Cont -> 1 
+analisando jogo 1746 | 06 - 33 - 34 - 48 - 53 - 59 Cont -> 1 
+analisando jogo 1747 | 02 - 10 - 13 - 41 - 49 - 53 Cont -> 3 
+analisando jogo 1748 | 03 - 13 - 14 - 29 - 33 - 43 Cont -> 2 
+analisando jogo 1749 | 15 - 17 - 20 - 31 - 41 - 48 Cont -> 2 
+analisando jogo 1750 | 15 - 22 - 23 - 42 - 51 - 57 Cont -> 1 
+analisando jogo 1751 | 09 - 36 - 37 - 53 - 55 - 60
+analisando jogo 1752 | 08 - 15 - 29 - 35 - 45 - 54 Cont -> 2 
+analisando jogo 1753 | 20 - 27 - 30 - 31 - 40 - 53 Cont -> 1 
+analisando jogo 1754 | 02 - 05 - 08 - 18 - 30 - 48 Cont -> 2 
+analisando jogo 1755 | 06 - 13 - 14 - 28 - 35 - 45 Cont -> 2 
+analisando jogo 1756 | 13 - 25 - 28 - 37 - 43 - 56 Cont -> 2 
+analisando jogo 1757 | 06 - 11 - 16 - 23 - 36 - 42 Cont -> 1 
+analisando jogo 1758 | 02 - 14 - 21 - 22 - 51 - 60 Cont -> 1 
+analisando jogo 1759 | 10 - 24 - 25 - 36 - 47 - 48 Cont -> 2 
+analisando jogo 1760 | 09 - 10 - 36 - 50 - 53 - 55 Cont -> 3 
+analisando jogo 1761 | 26 - 32 - 42 - 45 - 55 - 59 Cont -> 1 
+analisando jogo 1762 | 09 - 12 - 15 - 21 - 31 - 36 Cont -> 3 
+analisando jogo 1763 | 06 - 07 - 29 - 39 - 41 - 55 Cont -> 2 
+analisando jogo 1764 | 01 - 06 - 28 - 37 - 56 - 58 Cont -> 1 
+analisando jogo 1765 | 22 - 23 - 41 - 46 - 53 - 60 Cont -> 1 
+analisando jogo 1766 | 16 - 26 - 35 - 39 - 44 - 45 Cont -> 1 
+analisando jogo 1767 | 05 - 07 - 11 - 34 - 35 - 50 Cont -> 1 
+analisando jogo 1768 | 32 - 37 - 44 - 47 - 54 - 60 Cont -> 2 
+analisando jogo 1769 | 11 - 26 - 27 - 30 - 34 - 41 Cont -> 3 
+analisando jogo 1770 | 02 - 20 - 27 - 28 - 32 - 38 Cont -> 2 
+analisando jogo 1771 | 12 - 19 - 27 - 39 - 41 - 45 Cont -> 3 
+analisando jogo 1772 | 15 - 30 - 39 - 41 - 45 - 59 Cont -> 5 
+analisando jogo 1773 | 01 - 12 - 20 - 30 - 52 - 60 Cont -> 3 
+analisando jogo 1774 | 02 - 18 - 31 - 42 - 51 - 56
+analisando jogo 1775 | 10 - 11 - 14 - 19 - 39 - 48 Cont -> 1 
+analisando jogo 1776 | 04 - 19 - 38 - 44 - 52 - 55 Cont -> 2 
+analisando jogo 1777 | 04 - 10 - 38 - 40 - 45 - 48 Cont -> 4 
+analisando jogo 1778 | 12 - 25 - 30 - 39 - 56 - 57 Cont -> 1 
+analisando jogo 1779 | 06 - 20 - 22 - 31 - 33 - 34
+analisando jogo 1780 | 01 - 08 - 22 - 49 - 52 - 53 Cont -> 1 
+analisando jogo 1781 | 06 - 18 - 34 - 47 - 52 - 57 Cont -> 4 
+analisando jogo 1782 | 04 - 06 - 16 - 18 - 21 - 38 Cont -> 3 
+analisando jogo 1783 | 04 - 15 - 26 - 30 - 54 - 55 Cont -> 1 
+analisando jogo 1784 | 05 - 11 - 27 - 41 - 42 - 54 Cont -> 1 
+analisando jogo 1785 | 02 - 06 - 08 - 21 - 25 - 34 Cont -> 2 
+analisando jogo 1786 | 01 - 05 - 13 - 25 - 26 - 29 Cont -> 3 
+analisando jogo 1787 | 03 - 13 - 42 - 45 - 56 - 59 Cont -> 2 
+analisando jogo 1788 | 06 - 25 - 43 - 57 - 58 - 59 Cont -> 4 
+analisando jogo 1789 | 11 - 13 - 26 - 27 - 28 - 50 Cont -> 3 
+analisando jogo 1790 | 12 - 18 - 46 - 50 - 53 - 55 Cont -> 1 
+analisando jogo 1791 | 02 - 16 - 17 - 18 - 41 - 47 Cont -> 1 
+analisando jogo 1792 | 13 - 14 - 22 - 54 - 56 - 58 Cont -> 1 
+analisando jogo 1793 | 01 - 05 - 34 - 37 - 40 - 60
+analisando jogo 1794 | 30 - 42 - 47 - 50 - 55 - 58 Cont -> 2 
+analisando jogo 1795 | 22 - 23 - 34 - 48 - 53 - 54 Cont -> 3 
+analisando jogo 1796 | 02 - 13 - 14 - 35 - 54 - 57 Cont -> 1 
+analisando jogo 1797 | 02 - 09 - 23 - 28 - 45 - 53 Cont -> 3 
+analisando jogo 1798 | 01 - 03 - 04 - 39 - 51 - 53 Cont -> 2 
+analisando jogo 1799 | 06 - 11 - 16 - 19 - 31 - 56
+analisando jogo 1800 | 06 - 19 - 34 - 43 - 45 - 54 Cont -> 3 
+analisando jogo 1801 | 02 - 06 - 13 - 14 - 17 - 44 Cont -> 2 
+analisando jogo 1802 | 04 - 08 - 29 - 38 - 49 - 50
+analisando jogo 1803 | 20 - 21 - 28 - 48 - 50 - 59 Cont -> 1 
+analisando jogo 1804 | 17 - 22 - 27 - 31 - 49 - 57 Cont -> 2 
+analisando jogo 1805 | 11 - 20 - 35 - 42 - 55 - 58 Cont -> 1 
+analisando jogo 1806 | 01 - 15 - 16 - 22 - 25 - 43 Cont -> 1 
+analisando jogo 1807 | 02 - 14 - 20 - 25 - 41 - 45 Cont -> 2 
+analisando jogo 1808 | 09 - 12 - 23 - 24 - 46 - 54
+analisando jogo 1809 | 01 - 10 - 25 - 43 - 50 - 56 Cont -> 4 
+analisando jogo 1810 | 05 - 17 - 32 - 35 - 37 - 57
+analisando jogo 1811 | 20 - 23 - 32 - 34 - 37 - 45 Cont -> 3 
+analisando jogo 1812 | 09 - 11 - 13 - 15 - 19 - 51
+analisando jogo 1813 | 09 - 11 - 27 - 46 - 51 - 53 Cont -> 3 
+analisando jogo 1814 | 08 - 11 - 25 - 39 - 41 - 60 Cont -> 2 
+analisando jogo 1815 | 05 - 10 - 12 - 22 - 28 - 46 Cont -> 1 
+analisando jogo 1816 | 01 - 04 - 26 - 39 - 47 - 55 Cont -> 1 
+analisando jogo 1817 | 02 - 06 - 10 - 15 - 53 - 56 Cont -> 1 
+analisando jogo 1818 | 17 - 18 - 26 - 30 - 33 - 37 Cont -> 1 
+analisando jogo 1819 | 03 - 19 - 23 - 27 - 40 - 45
+analisando jogo 1820 | 19 - 22 - 31 - 36 - 52 - 53 Cont -> 2 
+analisando jogo 1821 | 01 - 22 - 26 - 43 - 50 - 53 Cont -> 3 
+analisando jogo 1822 | 04 - 09 - 21 - 34 - 54 - 59
+analisando jogo 1823 | 05 - 06 - 12 - 19 - 30 - 60 Cont -> 1 
+analisando jogo 1824 | 10 - 11 - 21 - 50 - 51 - 54 Cont -> 3 
+analisando jogo 1825 | 17 - 19 - 32 - 43 - 48 - 51 Cont -> 2 
+analisando jogo 1826 | 26 - 33 - 42 - 43 - 53 - 54 Cont -> 2 
+analisando jogo 1827 | 06 - 11 - 32 - 40 - 48 - 59 Cont -> 3 
+analisando jogo 1828 | 07 - 13 - 24 - 30 - 32 - 53 Cont -> 3 
+analisando jogo 1829 | 03 - 07 - 29 - 37 - 54 - 60 Cont -> 2 
+analisando jogo 1830 | 15 - 27 - 28 - 32 - 48 - 55 Cont -> 3 
+analisando jogo 1831 | 14 - 34 - 46 - 47 - 56 - 57
+analisando jogo 1832 | 02 - 03 - 07 - 16 - 27 - 42 Cont -> 3 
+analisando jogo 1833 | 02 - 17 - 22 - 24 - 48 - 51 Cont -> 2 
+analisando jogo 1834 | 08 - 28 - 36 - 47 - 50 - 58 Cont -> 1 
+analisando jogo 1835 | 08 - 15 - 18 - 45 - 59 - 60 Cont -> 1 
+analisando jogo 1836 | 41 - 44 - 48 - 50 - 54 - 57 Cont -> 2 
+analisando jogo 1837 | 05 - 08 - 24 - 30 - 57 - 59 Cont -> 4 
+analisando jogo 1838 | 07 - 22 - 28 - 32 - 56 - 58
+analisando jogo 1839 | 15 - 17 - 33 - 41 - 47 - 48 Cont -> 2 
+analisando jogo 1840 | 03 - 06 - 13 - 38 - 49 - 51
+analisando jogo 1841 | 16 - 18 - 22 - 24 - 34 - 43 Cont -> 1 
+analisando jogo 1842 | 08 - 26 - 28 - 33 - 41 - 54 Cont -> 2 
+analisando jogo 1843 | 03 - 04 - 37 - 39 - 48 - 50 Cont -> 1 
+analisando jogo 1844 | 03 - 09 - 13 - 29 - 30 - 51 Cont -> 1 
+analisando jogo 1845 | 06 - 24 - 26 - 30 - 34 - 49 Cont -> 2 
+analisando jogo 1846 | 01 - 06 - 45 - 49 - 50 - 57 Cont -> 3 
+analisando jogo 1847 | 09 - 40 - 41 - 50 - 55 - 58 Cont -> 2 
+analisando jogo 1848 | 03 - 05 - 11 - 27 - 35 - 44
+analisando jogo 1849 | 23 - 24 - 32 - 38 - 40 - 41 Cont -> 2 
+analisando jogo 1850 | 08 - 18 - 21 - 22 - 35 - 37 Cont -> 1 
+analisando jogo 1851 | 13 - 17 - 29 - 45 - 49 - 50
+analisando jogo 1852 | 01 - 02 - 34 - 39 - 41 - 45 Cont -> 2 
+analisando jogo 1853 | 25 - 30 - 31 - 34 - 43 - 59 Cont -> 1 
+analisando jogo 1854 | 06 - 10 - 15 - 24 - 38 - 39 Cont -> 1 
+analisando jogo 1855 | 02 - 09 - 14 - 22 - 32 - 37 Cont -> 1 
+analisando jogo 1856 | 13 - 23 - 25 - 35 - 52 - 53 Cont -> 1 
+analisando jogo 1857 | 22 - 28 - 30 - 33 - 55 - 59 Cont -> 1 
+analisando jogo 1858 | 01 - 13 - 14 - 21 - 26 - 51 Cont -> 2 
+analisando jogo 1859 | 10 - 30 - 36 - 40 - 44 - 60 Cont -> 1 
+analisando jogo 1860 | 02 - 04 - 09 - 35 - 45 - 60 Cont -> 1 
+analisando jogo 1861 | 02 - 08 - 35 - 42 - 49 - 56 Cont -> 2 
+analisando jogo 1862 | 16 - 23 - 45 - 56 - 58 - 59 Cont -> 2 
+analisando jogo 1863 | 04 - 05 - 14 - 37 - 40 - 60 Cont -> 2 
+analisando jogo 1864 | 01 - 05 - 31 - 32 - 37 - 42 Cont -> 3 
+analisando jogo 1865 | 14 - 17 - 36 - 38 - 44 - 60 Cont -> 2 
+analisando jogo 1866 | 03 - 10 - 17 - 21 - 22 - 43 Cont -> 1 
+analisando jogo 1867 | 01 - 05 - 23 - 25 - 28 - 31 Cont -> 3 
+analisando jogo 1868 | 11 - 23 - 24 - 26 - 40 - 52 Cont -> 1 
+analisando jogo 1869 | 18 - 20 - 30 - 32 - 33 - 40 Cont -> 1 
+analisando jogo 1870 | 03 - 11 - 17 - 33 - 52 - 58 Cont -> 3 
+analisando jogo 1871 | 11 - 13 - 25 - 39 - 46 - 56 Cont -> 2 
+analisando jogo 1872 | 05 - 25 - 28 - 41 - 53 - 54 Cont -> 1 
+analisando jogo 1873 | 10 - 28 - 37 - 43 - 44 - 47 Cont -> 1 
+analisando jogo 1874 | 01 - 45 - 47 - 52 - 53 - 55 Cont -> 2 
+analisando jogo 1875 | 07 - 18 - 39 - 41 - 44 - 51 Cont -> 2 
+analisando jogo 1876 | 13 - 16 - 23 - 24 - 32 - 35
+analisando jogo 1877 | 12 - 16 - 26 - 40 - 56 - 57 Cont -> 1 
+analisando jogo 1878 | 05 - 10 - 20 - 57 - 58 - 59 Cont -> 1 
+analisando jogo 1879 | 05 - 16 - 19 - 37 - 51 - 56 Cont -> 4 
+analisando jogo 1880 | 03 - 10 - 30 - 44 - 53 - 56 Cont -> 3 
+analisando jogo 1881 | 09 - 10 - 19 - 35 - 37 - 41 Cont -> 4 
+analisando jogo 1882 | 16 - 27 - 28 - 47 - 59 - 60 Cont -> 1 
+analisando jogo 1883 | 01 - 04 - 23 - 32 - 38 - 59 Cont -> 1 
+analisando jogo 1884 | 07 - 14 - 18 - 23 - 32 - 59 Cont -> 4 
+analisando jogo 1885 | 03 - 07 - 15 - 40 - 45 - 54 Cont -> 1 
+analisando jogo 1886 | 11 - 23 - 34 - 41 - 46 - 56 Cont -> 2 
+analisando jogo 1887 | 01 - 10 - 17 - 18 - 45 - 48 Cont -> 2 
+analisando jogo 1888 | 16 - 23 - 25 - 28 - 30 - 44 Cont -> 1 
+analisando jogo 1889 | 05 - 11 - 22 - 24 - 51 - 53 Cont -> 1 
+analisando jogo 1890 | 01 - 03 - 19 - 23 - 47 - 58 Cont -> 2 
+analisando jogo 1891 | 06 - 17 - 22 - 30 - 37 - 50 Cont -> 2 
+analisando jogo 1892 | 16 - 17 - 19 - 28 - 45 - 58 Cont -> 3 
+analisando jogo 1893 | 21 - 31 - 35 - 53 - 54 - 57
+analisando jogo 1894 | 02 - 03 - 05 - 10 - 15 - 34
+analisando jogo 1895 | 03 - 06 - 14 - 15 - 21 - 25 Cont -> 3 
+analisando jogo 1896 | -1 - 16384 - 4203760 - 00 - 00 - 00
+------------------------------------------------------------------------
+ 6:4 - 5:29 - 4:129 - 3:296 - 2:583 - 1:600 
+------------------------------------------------------------------------

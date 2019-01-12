@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1484516682 source:f:\mega sena\programas\gerararrayjogos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jogos.h"
+
+1484516426 f:\mega sena\programas\gerararrayjogos\jogos.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1485572272 source:f:\mega sena\programas\verifparesdecolunas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include_jogos/jogos.h"
+
+1485656372 f:\mega sena\programas\include_jogos\jogos.h
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1485982564 source:d:\mega sena\programas\labs\gerarcomb_2_1_0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"../../include_jogos/jogos.h"
+
+1485912462 source:f:\mega sena\programas\labs\gerarcomb_2_1_0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"../../include_jogos/jogos.h"
+
+1485895496 f:\mega sena\programas\include_jogos\jogos.h
+
+1485895496 d:\mega sena\programas\include_jogos\jogos.h
+
+1485982774 source:c:\users\usuario\desktop\projeto mega sena\programas\labs\gerarcomb_2_1_0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"../../include_jogos/jogos.h"
+
+1545156803 c:\users\usuario\desktop\projeto mega sena\programas\include_jogos\jogos.h
+
