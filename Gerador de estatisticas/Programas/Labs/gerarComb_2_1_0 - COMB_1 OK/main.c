@@ -320,6 +320,6 @@ int main()
         it++;
     }
     printf("\nTOTAL DE ITERACOES NECESSARIAS: %d\n", it);
-    printf("\nINVESTIMENTO NECESSARIO: R$ %1.2f\n", (float)(quant*24.5));
+    printf("\nINVESTIMENTO NECESSARIO: R$ %1.2f\n", quant*24.5);
     //fclose(f);
 }
