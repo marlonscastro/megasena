@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "../include_jogos/ultimosjogos.h"
+#include "../include_jogos/jogos.h"
 
 int main(int argv, char *argc[])
 {

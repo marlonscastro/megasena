@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577047974 source:c:\users\marlon\desktop\megasena\gerador de estatisticas\programas\compumjogoanterior\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
