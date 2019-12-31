@@ -1,0 +1,19 @@
+Mega Sena - Algoritmo para geração de jogos baseado em estatisticas.
+
+Passo a passo:
+
+1) Gerar os vetores com a distribuição MCM (1);
+
+2) Os jogos são divididos em três partes, distribuidos em 50%, 25% e 25%.
+
+50% - Jogos Gerados que descosideram as 6 dezenas que sairam no jogo anterior;
+25% - Jogos Gerados que consideram apenas 1 dezena do jogo anterior;
+25% - Jogos Gerados que consideram apenas 2 dezenas dos dois jogos anteriores;
+
+3) Os jogos devem obedecer às seguintes regras de paridade:
+
+3/3 - 3 Pares e 3 impares
+4/2 - 4 Pares e 2 impares
+2/4 - 2 Pares e 4 impares
+
+4) 
